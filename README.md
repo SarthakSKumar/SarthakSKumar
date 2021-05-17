@@ -4,9 +4,7 @@
 - My skills include C, C++, Java, Python, HTML and CSS.
 - I like coding, making projects, collaborating and sharing knowledge.
 - Reach me here: https://www.instagram.com/sarthakskumar/
-  
--This is a portfolio blog of my own. If you wish to look into my works and achievements, you can visit the link below:
-https://sites.google.com/view/sarthakskumar/home
+- Email: sskworld9742@gmail.com
 
 <!---
 SarthakSKumar/SarthakSKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
