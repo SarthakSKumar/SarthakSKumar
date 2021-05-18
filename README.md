@@ -1,10 +1,12 @@
-- I’m @SarthakSKumar.
-- A young entrepreneur and a innovator.
-- Currently in my class 12.
-- My skills include C, C++, Java, Python, HTML and CSS.
-- I like coding, making projects, collaborating and sharing knowledge.
-- Reach me here: https://www.instagram.com/sarthakskumar/
-- Email: sskworld9742@gmail.com
+- Hello. I am Sarthak. I am currently in my class 12.
+- A young innovator and a budding entrepreneur, based out of Mangalore.
+- I can code in C++, Java, Python, and C
+- I also have experience with HTML and CSS.
+- Lately, I have also begun working with JavaScript.
+- I have a special interest in innovation and ideation.
+- I have been to making innovative and scientific projects since 2015.
+- I keep conducting workshops, events, and collaborative programs pertaining to science, innovation, computers, entrepreneurship, etc.
+- Do reach me out for any kind of support, collaboration, ideas and guidance.
 
 <!---
 SarthakSKumar/SarthakSKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
