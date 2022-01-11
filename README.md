@@ -1,6 +1,6 @@
 # Hi, I am Sarthak! Nice to see you here!👋
 
-I'm Sarthak, a 18-year-old pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
+I'm Sarthak, a 18-year-old pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sskworld9742@gmail.com)](mailto:pranaygupta.aec@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/sarthakskumar/)
