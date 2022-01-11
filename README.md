@@ -42,7 +42,7 @@ Check out my portfolio here:
 ### Tools:
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=Android&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-red?style=flat-square&logo=GitLab&logoColor=white)
