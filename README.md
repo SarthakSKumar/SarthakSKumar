@@ -9,8 +9,8 @@ I'm Sarthak, a 18-year-old pursuing B.Tech in Computer Science from [PES Univers
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/sarthaks.kumar/)](https://instagram.com/sarthakskumar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranayguptaa/)](https://instagram.com/sarthakskumar)
-Check out my portfolio here:
 
+Check out my portfolio here:
 [![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://thepranaygupta.github.io/)](https://thepranaygupta.github.io/)
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=xcode)](https://github.com/SarthakSKumar)
