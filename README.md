@@ -53,8 +53,8 @@ Check out my portfolio here:
 <table>
 <tr>
 <td>
-[![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakSKumar)](https://github.com/SarthakSKumar/github-readme-stats)
-<td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar)](https://github.com/SarthakSKumar/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
