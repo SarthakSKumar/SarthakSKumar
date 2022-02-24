@@ -60,5 +60,4 @@ Check out my portfolio here:
 </table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=radical" />
-</p>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SarthakSKumar.SarthakSKumar)
+ </p>
