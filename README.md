@@ -53,11 +53,12 @@ Check out my portfolio here:
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&locale=en&layout=compact&theme=radical" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=radical" />
 </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SarthakSKumar.SarthakSKumar)
