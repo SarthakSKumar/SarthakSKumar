@@ -12,7 +12,7 @@ I'm Sarthak, a 18-year-old pursuing B.Tech in Computer Science from [PES Univers
 
 Check out my portfolio here:
 
-[![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://thepranaygupta.github.io/)](https://thepranaygupta.github.io/)
+[![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://thepranaygupta.github.io/)](https://sarthakskumar.github.io/)
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=xcode)](https://github.com/SarthakSKumar)
 
