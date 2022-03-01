@@ -1,6 +1,6 @@
 # Hi, I am Sarthak! Nice to see you here!👋
 
-I'm Sarthak, a 18-year-old pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
+A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sskworld9742@gmail.com)](mailto:sskworld9742@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakskumar/)](https://www.linkedin.com/in/sarthakskumar/)
@@ -10,7 +10,7 @@ I'm Sarthak, a 18-year-old pursuing B.Tech in Computer Science from [PES Univers
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/sarthaks.kumar/)](https://instagram.com/sarthakskumar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sarthakskumar/)](https://instagram.com/sarthakskumar)
 
-Check out my portfolio here:
+#### Check out my portfolio here:
 
 [![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sarthakskumar.github.io/)](https://sarthakskumar.github.io/)
 
@@ -61,3 +61,6 @@ Check out my portfolio here:
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=radical" />
  </p>
+ 
+ 
+## <p align = "center"> Show some 💖 by starring some of my repos! </p>
