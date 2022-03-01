@@ -2,17 +2,17 @@
 
 I'm Sarthak, a 18-year-old pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sskworld9742@gmail.com)](mailto:pranaygupta.aec@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/sarthakskumar/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sskworld9742@gmail.com)](mailto:sskworld9742@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakskumar/)](https://www.linkedin.com/in/sarthakskumar/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SarthakSKumar2)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sarthakskumar)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/907567549410050078)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/sarthaks.kumar/)](https://instagram.com/sarthakskumar)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranayguptaa/)](https://instagram.com/sarthakskumar)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sarthakskumar/)](https://instagram.com/sarthakskumar)
 
 Check out my portfolio here:
 
-[![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://thepranaygupta.github.io/)](https://sarthakskumar.github.io/)
+[![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sarthakskumar.github.io/)](https://sarthakskumar.github.io/)
 
 [![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=rogue)](https://github.com/SarthakSKumar/SarthakSKumar)
 
