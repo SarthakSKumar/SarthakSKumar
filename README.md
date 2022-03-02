@@ -46,7 +46,7 @@ A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalo
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=Android&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-red?style=flat-square&logo=GitLab&logoColor=white)
-![Eagle](https://img.shields.io/badge/-Eagle-orange?style=flat-square&logo=Eagle&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
+![Eagle](https://img.shields.io/badge/-Eagle-orange?style=flat-square&logo=Eagle&logoColor=white)
 
 ## 📈 Stats
 
@@ -62,5 +62,12 @@ A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalo
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=radical" />
  </p>
  
+<div align = "center">
  
-## <p align = "center"> Show some 💖 by starring some of my repos! </p>
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{SarthakSKumar}/count.svg)
+ 
+## Show some ❤️ by starring some of the repositories!
+</div>
+
+
