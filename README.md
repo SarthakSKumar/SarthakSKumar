@@ -75,9 +75,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
 </p>
-
-
 </details>
+
+<hr>
 <div align = "center">
  
  **Visitors Count**  
