@@ -54,7 +54,7 @@
 </p>
 
 <details>
- <summary>:zap: <h3><b> Recent GitHub Activity</b></h3></summary>
+ <summary>:zap:<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
@@ -63,8 +63,9 @@
 4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
 5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
 <!--END_SECTION:activity-->
-
+  </b>
 </details>
+
 <details>
  <summary>:zap: <h3><b> Github Stats</b></h3></summary>
 
