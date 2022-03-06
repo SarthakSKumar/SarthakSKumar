@@ -70,11 +70,12 @@
 
 [![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark)](https://github.com/SarthakSKumar/SarthakSKumar)
 
-<p align = "justify">
+<p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=algolia" />
-<img align = "right" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
+</p>
+
 
 </details>
 <div align = "center">
