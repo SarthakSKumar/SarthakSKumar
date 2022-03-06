@@ -69,11 +69,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>:zap:<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#105](https://github.com/codezoned/join_codezoned/issues/105) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
-2. 💪 Opened PR [#104](https://github.com/codezoned/join_codezoned/pull/104) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
-3. 💪 Opened PR [#155](https://github.com/fnplus/join-fnplus-with-a-pr/pull/155) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-4. ❗️ Opened issue [#76](https://github.com/CodeVisors/support/issues/76) in [CodeVisors/support](https://github.com/CodeVisors/support)
-5. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+1. 🗣 Commented on [#79](https://github.com/prathimacode-hub/IoT-Spot/issues/79) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Opened issue [#105](https://github.com/codezoned/join_codezoned/issues/105) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
+3. 💪 Opened PR [#104](https://github.com/codezoned/join_codezoned/pull/104) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
+4. 💪 Opened PR [#155](https://github.com/fnplus/join-fnplus-with-a-pr/pull/155) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
+5. ❗️ Opened issue [#76](https://github.com/CodeVisors/support/issues/76) in [CodeVisors/support](https://github.com/CodeVisors/support)
 <!--END_SECTION:activity-->
   </b>
 </details>
