@@ -1,17 +1,15 @@
-# Hi there, I am Sarthak. Nice to see you here 👋
+# Hi, I am Sarthak. Nice to see you here 👋
 
 <b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.</b>
 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
-<b>
+
  
 - 🔭 Check out my portfolio: [![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sarthakskumar.github.io/)](https://sarthakskumar.github.io/)
-- 🌱 I’m currently learning everything😂
-- 👯 I’m looking to collaborate with other creators and developers
-- 🥅 2022 Goal: Learn and Earn together
-- ⚡ Fun fact: I love to play cricket.
+- 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
+- 👯 Open to collaboration with creators, developers and tech enthusiasts.
+- 🚢 Keen on expanding my skill set and putting them to use.
  
-</b>
 <hr>
 
 ## 📩 Connect with me
@@ -54,6 +52,18 @@
 </p>
 
 <details>
+ <summary>:zap: <h3><b> Github Stats</b></h3></summary>
+
+[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark)](https://github.com/SarthakSKumar/SarthakSKumar)
+
+<p align = "center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=algolia" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
+</p>
+</details>
+
+<details>
  <summary>:zap:<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
@@ -64,18 +74,6 @@
 5. 🗣 Commented on [#79](https://github.com/prathimacode-hub/IoT-Spot/issues/79) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
   </b>
-</details>
-
-<details>
- <summary>:zap: <h3><b> Github Stats</b></h3></summary>
-
-[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark)](https://github.com/SarthakSKumar/SarthakSKumar)
-
-<p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=algolia" />
-<img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
-</p>
 </details>
 
 <hr>
