@@ -1,20 +1,28 @@
-# Hi, I am Sarthak! Nice to see you here!👋
+# Hi there, I am Sarthak. Nice to see you here 👋
 
-A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
+<b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu). I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies. I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.</b>
+
+<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<b>
+ 
+- 🔭 Check out my portfolio: [![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sarthakskumar.github.io/)](https://sarthakskumar.github.io/)
+- 🌱 I’m currently learning everything😂
+- 👯 I’m looking to collaborate with other creators and developers
+- 🥅 2022 Goal: Learn and Earn together
+- ⚡ Fun fact: I love to play cricket.
+ 
+</b>
+<hr>
+
+## 📩 Connect with me
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sskworld9742@gmail.com)](mailto:sskworld9742@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakskumar/)](https://www.linkedin.com/in/sarthakskumar/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakskumar/)](https://www.linkedin.com/in/sarthakskumar/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SarthakSKumar2)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sarthakskumar)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/907567549410050078)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/sarthaks.kumar/)](https://instagram.com/sarthakskumar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sarthakskumar/)](https://instagram.com/sarthakskumar)
-
-#### Check out my portfolio here:
-
-[![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sarthakskumar.github.io/)](https://sarthakskumar.github.io/)
-
-[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=rogue)](https://github.com/SarthakSKumar/SarthakSKumar)
 
 ## 👨🏻‍💻 Coding Profiles
 
@@ -24,50 +32,55 @@ A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalo
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/sarthakskumar)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sarthakskumar)
 
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<hr>
 
-## ⚡ Technologies
+## ⚡ Languages and Tools
 
-### Languages:
-
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-E34A86?style=flat-square&logo=MySQL&logoColor=white)
-
-
-### Tools:
-
-![GitHub Pages](https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=Android&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-red?style=flat-square&logo=GitLab&logoColor=white)
-![Eagle](https://img.shields.io/badge/-Eagle-orange?style=flat-square&logo=Eagle&logoColor=white)
-
-## 📈 Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&locale=en&layout=compact&theme=radical" />
-</td>
-</tr>
-</table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=radical" />
- </p>
+<p align="left">
  
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+</p>
+
+<details>
+ <summary>:zap: <h3><b> Recent GitHub Activity</b></h3></summary>
+  
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
+5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
+<!--END_SECTION:activity-->
+
+</details>
+<details>
+ <summary>:zap: <h3><b> Github Stats</b></h3></summary>
+
+[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark)](https://github.com/SarthakSKumar/SarthakSKumar)
+
+<p align = "justify">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=algolia" />
+<img align = "right" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
+
+</details>
 <div align = "center">
  
-**Visitors Count**  
+ **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{SarthakSKumar}/count.svg)
  
-## Show some ❤️ by starring some of the repositories!
+## Show some ❤️ by starring some of my repositories!
 </div>
-
-
