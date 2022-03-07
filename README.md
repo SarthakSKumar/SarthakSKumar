@@ -59,9 +59,9 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  
 </p>
 
-<details>
- <summary>📊 <h3><b> Github Stats</b></h3></summary>
+<hr>
 
+## 📊 Github Stats
 
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" />
