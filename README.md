@@ -38,19 +38,24 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 
 <p align="left">
 
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C%2B%2B.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Python.png" alt="c"/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Java.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C%2B%2B.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Python.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Html5.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Css.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Javascript.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/VSCode.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Android%20Studio.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Autodesk.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Arduino.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Photoshop.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Linux.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Premiere%20Pro.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Github.png" alt="c" height = 40, width = 40/>
  
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/VSCode.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Android%20Studio.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Autodesk.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Arduino.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Photoshop.png" alt="c"/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Premiere%20Pro.png" alt="c"/>
-
 </p>
 
 <details>
