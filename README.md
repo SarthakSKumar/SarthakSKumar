@@ -16,13 +16,13 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 
 ## 📩 Connect with me
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sskworld9742@gmail.com)](mailto:sskworld9742@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthakskumar/)](https://www.linkedin.com/in/sarthakskumar/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SarthakSKumar2)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sarthakskumar)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/907567549410050078)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/sarthaks.kumar/)](https://instagram.com/sarthakskumar)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sarthakskumar/)](https://instagram.com/sarthakskumar)
+<a href = "mailto:sskworld9742@gmail.com"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Email.png" height = 30 width = 30/></a>
+<a href = "https://www.linkedin.com/in/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Linkedin.png" height = 30 width = 30/></a>
+<a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 30 width = 30/></a>
+<a href = "https://facebook.com/sarthaks.kumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Facebook.png" height = 30 width = 30/></a>
+<a href = "https://instagram.com/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Instagram.png" height = 30 width = 30/></a>
+<a href = "https://t.me/sarthakskumar"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Telegram.png" height = 30 width = 30/></a>
+<a href = "https://discordapp.com/users/907567549410050078"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Discord.png" height = 30 width = 30/></a>
 
 ## 👨🏻‍💻 Coding Profiles
 
