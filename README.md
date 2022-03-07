@@ -59,18 +59,18 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 </p>
 
 <details>
- <summary>:zap: <h3><b> Github Stats</b></h3></summary>
+ <summary>📊 <h3><b> Github Stats</b></h3></summary>
 
-[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark)](https://github.com/SarthakSKumar/SarthakSKumar)
 
 <p align = "center">
+<img width = 84% src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
 <img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
 </details>
 
 <details>
- <summary>:zap:<b><h3> Recent GitHub Activity</h3></summary>
+ <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#79](https://github.com/prathimacode-hub/IoT-Spot/issues/79) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
