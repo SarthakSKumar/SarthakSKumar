@@ -64,8 +64,7 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 [![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark)](https://github.com/SarthakSKumar/SarthakSKumar)
 
 <p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakSKumar&theme=algolia" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
 <img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
 </details>
