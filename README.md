@@ -59,13 +59,13 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  
 </p>
 
-<details>
- <summary>📊 <h3><b> Github Stats</b></h3></summary>
+<hr>
 
+## 📊 Github Stats
 
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&layout=compact&theme=algolia" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&langs_count=6&layout=compact&theme=algolia" />
 <img width="55.8%" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
 </details>
@@ -74,11 +74,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/prathimacode-hub/IoT-Spot/issues/79) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. ❗️ Opened issue [#105](https://github.com/codezoned/join_codezoned/issues/105) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
-3. 💪 Opened PR [#104](https://github.com/codezoned/join_codezoned/pull/104) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
-4. 💪 Opened PR [#155](https://github.com/fnplus/join-fnplus-with-a-pr/pull/155) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
-5. ❗️ Opened issue [#76](https://github.com/CodeVisors/support/issues/76) in [CodeVisors/support](https://github.com/CodeVisors/support)
+1. 🗣 Commented on [#67](https://github.com/prathimacode-hub/IoT-Spot/issues/67) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#79](https://github.com/prathimacode-hub/IoT-Spot/issues/79) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Opened issue [#105](https://github.com/codezoned/join_codezoned/issues/105) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
+4. 💪 Opened PR [#104](https://github.com/codezoned/join_codezoned/pull/104) in [codezoned/join_codezoned](https://github.com/codezoned/join_codezoned)
+5. 💪 Opened PR [#155](https://github.com/fnplus/join-fnplus-with-a-pr/pull/155) in [fnplus/join-fnplus-with-a-pr](https://github.com/fnplus/join-fnplus-with-a-pr)
 <!--END_SECTION:activity-->
   </b>
 </details>
