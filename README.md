@@ -89,5 +89,5 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{SarthakSKumar}/count.svg)
  
-### Show some ❤️ by starring some of my repositories!
+### Show some ❤️ by starring 🌟 some of my repos!
 </div>
