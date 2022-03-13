@@ -56,7 +56,7 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Linux.png" alt="c" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Premiere%20Pro.png" alt="c" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Github.png" alt="c" height = 40, width = 40/>
- 
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Canva.png" alt="c" height = 35, width = 35/> 
 </p>
 
 <hr>
