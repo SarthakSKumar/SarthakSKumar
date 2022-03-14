@@ -9,8 +9,9 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  
 - 🔭 Check out my portfolio: [![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sarthakskumar.github.io/)](https://sarthakskumar.github.io/)
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
-- 👯 Open to collaboration with creators, developers and tech enthusiasts.
-- 🚢 Keen on expanding my skill set and putting them to use.
+- 🪶 I always try to offer my contribution which realises the power of community
+- 👯 I am open for collaboration's with creators, developers and tech enthusiasts.
+- 🚢 I have always been keen on developing my skill set and putting them to use.
  
 <hr>
 
