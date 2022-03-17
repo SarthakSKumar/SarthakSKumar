@@ -1,4 +1,4 @@
-# Hi, I am Sarthak. Nice to see you here 👋
+# Hi, I am <a href="https://www.linkedin.com/in/sarthakskumar/" target="_blank">Sarthak</a>, Nice to see you here 👋
 
 <b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).<br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.
@@ -12,7 +12,7 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 - 🪶 I always try to offer my contribution which realises the power of community
 - 👯 I am open for collaboration's with creators, developers and tech enthusiasts.
 - 🚢 I have always been keen on developing my skill set and putting them to use.
- 
+
 <hr>
 
 ## 📩 Connect with me
