@@ -76,10 +76,10 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#133](https://github.com/prathimacode-hub/IoT-Spot/issues/133) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 💪 Opened PR [#133](https://github.com/prathimacode-hub/IoT-Spot/pull/133) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 💪 Opened PR [#132](https://github.com/prathimacode-hub/IoT-Spot/pull/132) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#20](https://github.com/prathimacode-hub/IoT-Spot/issues/20) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-5. 🗣 Commented on [#20](https://github.com/prathimacode-hub/IoT-Spot/issues/20) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+3. 💪 Opened PR [#9](https://github.com/homebrew-ec-foss/entry-challenge/pull/9) in [homebrew-ec-foss/entry-challenge](https://github.com/homebrew-ec-foss/entry-challenge)
+4. 🗣 Commented on [#133](https://github.com/prathimacode-hub/IoT-Spot/issues/133) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+5. 💪 Opened PR [#133](https://github.com/prathimacode-hub/IoT-Spot/pull/133) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
   </b>
 </details>
