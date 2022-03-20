@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Updated Recent Activity'
-          MAX_LINES: 7
+          MAX_LINES: 8
