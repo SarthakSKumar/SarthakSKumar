@@ -11,7 +11,7 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🪶 I always try to offer my contribution which realises the power of community
 - 👯 I am open for collaboration's with creators, developers and tech enthusiasts.
-- 🚢 I have always been keen on developing my skill set and putting them to use.
+- 🚢 Keen on developing my skill set and putting my skils to use.
 
 <hr>
 
