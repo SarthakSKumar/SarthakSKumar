@@ -75,11 +75,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/scottclowe/matlab-schemer/issues/37) in [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
-2. 🗣 Commented on [#133](https://github.com/prathimacode-hub/IoT-Spot/issues/133) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. ❗️ Opened issue [#6](https://github.com/websycode/support/issues/6) in [websycode/support](https://github.com/websycode/support)
+2. 🗣 Commented on [#37](https://github.com/scottclowe/matlab-schemer/issues/37) in [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
 3. 🗣 Commented on [#133](https://github.com/prathimacode-hub/IoT-Spot/issues/133) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-5. 💪 Opened PR [#9](https://github.com/homebrew-ec-foss/entry-challenge/pull/9) in [homebrew-ec-foss/entry-challenge](https://github.com/homebrew-ec-foss/entry-challenge)
+4. 🗣 Commented on [#133](https://github.com/prathimacode-hub/IoT-Spot/issues/133) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+5. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
 <!--END_SECTION:activity-->
   </b>
 </details>
