@@ -75,11 +75,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#167](https://github.com/prathimacode-hub/IoT-Spot/issues/167) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-3. ❌ Closed PR [#37](https://github.com/scottclowe/matlab-schemer/pull/37) in [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
-4. 💪 Opened PR [#2](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/2) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
-5. ❗️ Opened issue [#6](https://github.com/websycode/support/issues/6) in [websycode/support](https://github.com/websycode/support)
+1. 💪 Opened PR [#168](https://github.com/prathimacode-hub/IoT-Spot/pull/168) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Opened issue [#167](https://github.com/prathimacode-hub/IoT-Spot/issues/167) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+4. ❌ Closed PR [#37](https://github.com/scottclowe/matlab-schemer/pull/37) in [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
+5. 💪 Opened PR [#2](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/2) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
 <!--END_SECTION:activity-->
   </b>
 </details>
