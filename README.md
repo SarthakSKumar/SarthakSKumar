@@ -75,11 +75,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1316](https://github.com/RetroMusicPlayer/RetroMusicPlayer/issues/1316) in [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-2. 💪 Opened PR [#168](https://github.com/prathimacode-hub/IoT-Spot/pull/168) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. ❗️ Opened issue [#167](https://github.com/prathimacode-hub/IoT-Spot/issues/167) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-5. ❌ Closed PR [#37](https://github.com/scottclowe/matlab-schemer/pull/37) in [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
+1. ❗️ Opened issue [#16](https://github.com/opensourcecommunity-hub/join-the-community/issues/16) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+2. ❗️ Opened issue [#1316](https://github.com/RetroMusicPlayer/RetroMusicPlayer/issues/1316) in [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+3. 💪 Opened PR [#168](https://github.com/prathimacode-hub/IoT-Spot/pull/168) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. ❗️ Opened issue [#167](https://github.com/prathimacode-hub/IoT-Spot/issues/167) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+5. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
 <!--END_SECTION:activity-->
   </b>
 </details>
