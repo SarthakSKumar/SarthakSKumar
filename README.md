@@ -76,10 +76,10 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#168](https://github.com/prathimacode-hub/IoT-Spot/issues/168) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. ❗️ Opened issue [#16](https://github.com/opensourcecommunity-hub/join-the-community/issues/16) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
-3. ❗️ Opened issue [#1316](https://github.com/RetroMusicPlayer/RetroMusicPlayer/issues/1316) in [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-4. 💪 Opened PR [#168](https://github.com/prathimacode-hub/IoT-Spot/pull/168) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-5. ❗️ Opened issue [#167](https://github.com/prathimacode-hub/IoT-Spot/issues/167) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#168](https://github.com/prathimacode-hub/IoT-Spot/issues/168) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Opened issue [#16](https://github.com/opensourcecommunity-hub/join-the-community/issues/16) in [opensourcecommunity-hub/join-the-community](https://github.com/opensourcecommunity-hub/join-the-community)
+4. ❗️ Opened issue [#1316](https://github.com/RetroMusicPlayer/RetroMusicPlayer/issues/1316) in [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+5. 💪 Opened PR [#168](https://github.com/prathimacode-hub/IoT-Spot/pull/168) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
   </b>
 </details>
