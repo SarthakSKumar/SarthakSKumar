@@ -11,8 +11,8 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🪶 I always try to offer my contribution which realises the power of community
 - 👯 I am open for collaboration's with creators, developers and tech enthusiasts.
-- 🚢 Keen on developing my skill set and putting my skils to use.
-
+- 🚢 Keen on developing my skill set and putting my skills to use.<br><br>
+[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 <hr>
 
 ## 📩 Connect with me
