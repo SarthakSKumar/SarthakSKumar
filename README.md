@@ -75,11 +75,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1088](https://github.com/Lakhankumawat/LearnCPP/issues/1088) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
-2. 💪 Opened PR [#39](https://github.com/homebrew-ec-foss/homebrew-internethome/pull/39) in [homebrew-ec-foss/homebrew-internethome](https://github.com/homebrew-ec-foss/homebrew-internethome)
-3. 💪 Opened PR [#190](https://github.com/prathimacode-hub/IoT-Spot/pull/190) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#188](https://github.com/prathimacode-hub/IoT-Spot/issues/188) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-5. ❗️ Opened issue [#188](https://github.com/prathimacode-hub/IoT-Spot/issues/188) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🗣 Commented on [#190](https://github.com/prathimacode-hub/IoT-Spot/issues/190) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Opened issue [#1088](https://github.com/Lakhankumawat/LearnCPP/issues/1088) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
+3. 💪 Opened PR [#39](https://github.com/homebrew-ec-foss/homebrew-internethome/pull/39) in [homebrew-ec-foss/homebrew-internethome](https://github.com/homebrew-ec-foss/homebrew-internethome)
+4. 💪 Opened PR [#190](https://github.com/prathimacode-hub/IoT-Spot/pull/190) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+5. 🗣 Commented on [#188](https://github.com/prathimacode-hub/IoT-Spot/issues/188) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
   </b>
 </details>
