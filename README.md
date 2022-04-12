@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#197](https://github.com/prathimacode-hub/IoT-Spot/pull/197) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#196](https://github.com/prathimacode-hub/IoT-Spot/issues/196) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. ❗️ Opened issue [#196](https://github.com/prathimacode-hub/IoT-Spot/issues/196) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 💪 Opened PR [#1097](https://github.com/Lakhankumawat/LearnCPP/pull/1097) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
-5. 🗣 Commented on [#190](https://github.com/prathimacode-hub/IoT-Spot/issues/190) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🗣 Commented on [#197](https://github.com/prathimacode-hub/IoT-Spot/issues/197) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 💪 Opened PR [#197](https://github.com/prathimacode-hub/IoT-Spot/pull/197) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🗣 Commented on [#196](https://github.com/prathimacode-hub/IoT-Spot/issues/196) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. ❗️ Opened issue [#196](https://github.com/prathimacode-hub/IoT-Spot/issues/196) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+5. 💪 Opened PR [#1097](https://github.com/Lakhankumawat/LearnCPP/pull/1097) in [Lakhankumawat/LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
 <!--END_SECTION:activity-->
   </b>
 </details>
