@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. 💪 Opened PR [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 🗣 Commented on [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. ❗️ Opened issue [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 🗣 Commented on [#851](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/851) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. ❗️ Opened issue [#358](https://github.com/Rayman-Sodhi/Clone-IT/issues/358) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+2. 🗣 Commented on [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 💪 Opened PR [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. 🗣 Commented on [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. ❗️ Opened issue [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
