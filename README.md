@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. ❗️ Opened issue [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 🗣 Commented on [#851](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/851) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. ❗️ Opened issue [#851](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/851) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. ❗️ Opened issue [#1](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/issues/1) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
+1. 🗣 Commented on [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 💪 Opened PR [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🗣 Commented on [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. ❗️ Opened issue [#852](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/852) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 🗣 Commented on [#851](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/851) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
