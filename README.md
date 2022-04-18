@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Multi-Functioning-Machine/pull/1) in [SarthakSKumar/Multi-Functioning-Machine](https://github.com/SarthakSKumar/Multi-Functioning-Machine)
-3. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Mechanium/pull/2) in [SarthakSKumar/Mechanium](https://github.com/SarthakSKumar/Mechanium)
-4. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/1) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-5. ❌ Reopened PR [#1](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/1) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+1. ❗️ Opened issue [#206](https://github.com/prathimacode-hub/IoT-Spot/issues/206) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Multi-Functioning-Machine/pull/1) in [SarthakSKumar/Multi-Functioning-Machine](https://github.com/SarthakSKumar/Multi-Functioning-Machine)
+4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Mechanium/pull/2) in [SarthakSKumar/Mechanium](https://github.com/SarthakSKumar/Mechanium)
+5. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/1) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 </details>
