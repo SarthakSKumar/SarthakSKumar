@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/IoT-Spot/pull/1) in [SarthakSKumar/IoT-Spot](https://github.com/SarthakSKumar/IoT-Spot)
-2. 🗣 Commented on [#206](https://github.com/prathimacode-hub/IoT-Spot/issues/206) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. ❗️ Opened issue [#206](https://github.com/prathimacode-hub/IoT-Spot/issues/206) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Multi-Functioning-Machine/pull/1) in [SarthakSKumar/Multi-Functioning-Machine](https://github.com/SarthakSKumar/Multi-Functioning-Machine)
+1. 💪 Opened PR [#207](https://github.com/prathimacode-hub/IoT-Spot/pull/207) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/IoT-Spot/pull/1) in [SarthakSKumar/IoT-Spot](https://github.com/SarthakSKumar/IoT-Spot)
+3. 🗣 Commented on [#206](https://github.com/prathimacode-hub/IoT-Spot/issues/206) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. ❗️ Opened issue [#206](https://github.com/prathimacode-hub/IoT-Spot/issues/206) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+5. 🗣 Commented on [#854](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/854) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
