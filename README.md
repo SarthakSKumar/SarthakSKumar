@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#211](https://github.com/prathimacode-hub/IoT-Spot/pull/211) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. ❗️ Opened issue [#209](https://github.com/prathimacode-hub/IoT-Spot/issues/209) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🗣 Commented on [#207](https://github.com/prathimacode-hub/IoT-Spot/issues/207) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 💪 Opened PR [#207](https://github.com/prathimacode-hub/IoT-Spot/pull/207) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-5. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/IoT-Spot/pull/1) in [SarthakSKumar/IoT-Spot](https://github.com/SarthakSKumar/IoT-Spot)
+1. ❗️ Opened issue [#468](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/468) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+2. 💪 Opened PR [#211](https://github.com/prathimacode-hub/IoT-Spot/pull/211) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Opened issue [#209](https://github.com/prathimacode-hub/IoT-Spot/issues/209) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🗣 Commented on [#207](https://github.com/prathimacode-hub/IoT-Spot/issues/207) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+5. 💪 Opened PR [#207](https://github.com/prathimacode-hub/IoT-Spot/pull/207) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
   </b>
 </details>
