@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#469](https://github.com/abhijeet007rocks8/Dev-Scripts/pull/469) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
-2. ❗️ Opened issue [#468](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/468) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
-3. 💪 Opened PR [#211](https://github.com/prathimacode-hub/IoT-Spot/pull/211) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Opened issue [#209](https://github.com/prathimacode-hub/IoT-Spot/issues/209) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-5. 🗣 Commented on [#207](https://github.com/prathimacode-hub/IoT-Spot/issues/207) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 💪 Opened PR [#1130](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1130) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. ❗️ Opened issue [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 💪 Opened PR [#1128](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1128) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
