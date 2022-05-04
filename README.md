@@ -1,8 +1,8 @@
 # Hi, I am <a href="https://www.linkedin.com/in/sarthakskumar/" target="_blank">Sarthak</a>, Nice to see you here 👋
 
-<b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).<br></b>
+<b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.
-<br>I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
+I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
@@ -17,22 +17,12 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
 
 ## 📩 Connect with me
 
-<a href = "mailto:sskworld9742@gmail.com"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Email.png" height = 40 width = 40/></a>
-<a href = "https://www.linkedin.com/in/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Linkedin.png" height = 40 width = 40/></a>
-<a href = "https://facebook.com/sarthaks.kumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Facebook.png" height = 40 width = 40/></a>
-<a href = "https://instagram.com/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Instagram.png" height = 40 width = 40/></a>
-<a href = "https://t.me/sarthakskumar"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Telegram.png" height = 40 width = 40/></a>
-<a href = "https://discordapp.com/users/907567549410050078"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Discord.png" height = 40 width = 40/></a>
-<a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
+<a href = "mailto:sskworld9742@gmail.com"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Email.png" height = 40 width = 40/></a><a href = "https://www.linkedin.com/in/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Linkedin.png" height = 40 width = 40/></a><a href = "https://facebook.com/sarthaks.kumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Facebook.png" height = 40 width = 40/></a><a href = "https://instagram.com/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Instagram.png" height = 40 width = 40/></a><a href = "https://t.me/sarthakskumar"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Telegram.png" height = 40 width = 40/></a><a href = "https://discordapp.com/users/907567549410050078"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Discord.png" height = 40 width = 40/></a><a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
 
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sarthakskumar)
-[![Datacamp](https://img.shields.io/badge/-DataCamp-2EC866?style=flat-square&logo=DataCamp&logoColor=black)](https://www.datacamp.com/profile/sarthakskumar)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/sarthakskumar/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/sarthakskumar)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sarthakskumar)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sarthakskumar) [![Datacamp](https://img.shields.io/badge/-DataCamp-2EC866?style=flat-square&logo=DataCamp&logoColor=black)](https://www.datacamp.com/profile/sarthakskumar) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/sarthakskumar/) [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/sarthakskumar) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sarthakskumar)
 
 <hr>
 
@@ -76,11 +66,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1128](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1128) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. 💪 Opened PR [#1130](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1130) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 💪 Opened PR [#1130](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1130) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 3. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. ❗️ Opened issue [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. ❗️ Opened issue [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 💪 Opened PR [#1128](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1128) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
