@@ -76,11 +76,11 @@ I am a passionate self-learner and an open-source enthusiast. I love exploring a
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1130](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1130) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🗣 Commented on [#1128](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1128) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 💪 Opened PR [#1130](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1130) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 3. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. ❗️ Opened issue [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 💪 Opened PR [#1128](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1128) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. 🗣 Commented on [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. ❗️ Opened issue [#1129](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1129) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
