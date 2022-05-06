@@ -66,11 +66,11 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#762](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/762) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
-2. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/2) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-3. 💪 Opened PR [#1205](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1205) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 🗣 Commented on [#1204](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1204) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. ❗️ Opened issue [#1204](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1204) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/3) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+2. 🗣 Commented on [#762](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/762) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+3. ❗️ Opened issue [#762](https://github.com/arpit456jain/Cool-Front-End-Templates/issues/762) in [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates)
+4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/2) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+5. 💪 Opened PR [#1205](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1205) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
