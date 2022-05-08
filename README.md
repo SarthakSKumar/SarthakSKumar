@@ -66,11 +66,11 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1415](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1415) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. 💪 Opened PR [#1414](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1414) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. ❗️ Opened issue [#1413](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1413) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 💪 Opened PR [#1323](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1323) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 🗣 Commented on [#1317](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1317) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 💪 Opened PR [#1416](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1416) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. ❗️ Opened issue [#1415](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1415) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 💪 Opened PR [#1414](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1414) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. ❗️ Opened issue [#1413](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1413) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 💪 Opened PR [#1323](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1323) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
