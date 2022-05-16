@@ -66,11 +66,11 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/4) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-2. ❗️ Closed issue [#1418](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1418) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. ❗️ Opened issue [#1454](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1454) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 💪 Opened PR [#1453](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1453) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 💪 Opened PR [#1452](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1452) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🗣 Commented on [#1453](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1453) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 🗣 Commented on [#1452](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1452) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🗣 Commented on [#1454](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1454) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/4) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+5. ❗️ Closed issue [#1418](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1418) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
