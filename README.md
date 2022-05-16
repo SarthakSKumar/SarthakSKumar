@@ -1,6 +1,6 @@
 # Hi, I am <a href="https://www.linkedin.com/in/sarthakskumar/" target="_blank">Sarthak</a>, Nice to see you here 👋
 
-<b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b>
+<b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.
 I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
