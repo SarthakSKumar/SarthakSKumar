@@ -7,7 +7,7 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
  
-- 🔭 Check out my portfolio [![Website Badge](https://img.shields.io/badge/-My%20Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sarthakskumar.github.io/)](https://sarthakskumar.github.io/)
+- 🔭 Check out my <a href="https://sarthakskumar.github.io">portfolio</a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🪶 I always try to offer my contribution which realises the power of community
 - 👯 I am open for collaboration with creators, developers and tech enthusiasts.
