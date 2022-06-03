@@ -31,9 +31,10 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Css.png" alt="css" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Javascript.png" alt="js" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/VSCode.png" alt="vs-code" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Raspberry_pi.png" alt="raspberry_pi" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Android%20Studio.png" alt="android-studio" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Autodesk.png" alt="autodesk-eagle" height = 40, width = 40/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/TensorFlow.png" alt="tensorflow" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/TensorFlow.png" alt="tensorflow" height = 37, width = 37/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Arduino.png" alt="arduino" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="git" height = 40, width = 40/>
