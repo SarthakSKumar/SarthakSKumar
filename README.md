@@ -65,11 +65,11 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/1) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
-2. 💪 Opened PR [#1](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/1) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
-3. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/5) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-4. 🗣 Commented on [#1453](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1453) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 🗣 Commented on [#1452](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1452) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/SarthakSKumar/pull/1) in [SarthakSKumar/SarthakSKumar](https://github.com/SarthakSKumar/SarthakSKumar)
+2. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/1) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
+3. 💪 Opened PR [#1](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/1) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
+4. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/5) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+5. 🗣 Commented on [#1453](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1453) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
   </b>
 </details>
