@@ -48,7 +48,7 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Github.png" alt="github" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/ReactJS.png" alt="reactjs" height = 40, width = 40/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Canva.png" alt="canva" height = 35, width = 35/>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="35"/>
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="32"/>
 </p>
 
 <hr>
