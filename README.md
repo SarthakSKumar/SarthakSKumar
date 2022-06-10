@@ -6,16 +6,15 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
- 
 - 🔭 Check out my <a href="https://sarthakskumar.github.io">portfolio</a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🪶 I always try to offer my contribution which realises the power of community
 - 👯 I am open for collaboration with creators, developers and tech enthusiasts.
 - 🚢 Keen on developing my skill set and putting it to use.<br><br>
-- 
+
 ## 📩 Connect with me
-<p align = "justify">
-<a href = "mailto:sskworld9742@gmail.com"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Email.png" height = 40 width = 40/></a><a href = "https://www.linkedin.com/in/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Linkedin.png" height = 40 width = 40/></a><a href = "https://facebook.com/sarthaks.kumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Facebook.png" height = 40 width = 40/></a><a href = "https://instagram.com/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Instagram.png" height = 40 width = 40/></a><a href = "https://t.me/sarthakskumar"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Telegram.png" height = 40 width = 40/></a><a href = "https://discordapp.com/users/907567549410050078"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Discord.png" height = 40 width = 40/></a><a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
+
+<p align = "justify"><a href = "mailto:sskworld9742@gmail.com"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Email.png" height = 40 width = 40/></a><a href = "https://www.linkedin.com/in/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Linkedin.png" height = 40 width = 40/></a><a href = "https://facebook.com/sarthaks.kumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Facebook.png" height = 40 width = 40/></a><a href = "https://instagram.com/sarthakskumar/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Instagram.png" height = 40 width = 40/></a><a href = "https://t.me/sarthakskumar"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Telegram.png" height = 40 width = 40/></a><a href = "https://discordapp.com/users/907567549410050078"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Discord.png" height = 40 width = 40/></a><a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
 </p>
 
 ## ⚡ Languages, Tools and Technologies
