@@ -66,11 +66,11 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
  <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/2) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-2. 🗣 Commented on [#2](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/issues/2) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
-3. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/2) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
-4. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/1) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-5. ❌ Closed PR [#2](https://github.com/resbaz/intro-git-workshop/pull/2) in [resbaz/intro-git-workshop](https://github.com/resbaz/intro-git-workshop)
+1. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/3) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
+2. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/2) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+3. 🗣 Commented on [#2](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/issues/2) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
+4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/2) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
+5. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/1) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
 <!--END_SECTION:activity-->
   </b>
 </details>
