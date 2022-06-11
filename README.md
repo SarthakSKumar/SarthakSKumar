@@ -58,11 +58,14 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&langs_count=6&layout=compact&theme=algolia" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
-</p>
-</details>
 
+ <details><summary><b><h3>🏆Trophies</h3></summary>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&column=7&theme=algolia&no-frame=true"/>
+</details>
+</p>
+ 
 <details>
- <summary>✒️<b><h3> Recent GitHub Activity</h3></summary>
+ <summary><b><h3>✒️Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#4](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/4) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
