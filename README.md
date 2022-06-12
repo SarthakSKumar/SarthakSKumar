@@ -73,11 +73,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <summary><b><h3>✒️Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/12) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-2. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/11) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-3. 🎉 Merged PR [#7](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/7) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-4. 💪 Opened PR [#1](https://github.com/rajathcodes/Example-Repo/pull/1) in [rajathcodes/Example-Repo](https://github.com/rajathcodes/Example-Repo)
-5. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/4) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+1. 🎉 Merged PR [#10](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/10) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+2. ❗️ Closed issue [#5](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/issues/5) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+3. 🎉 Merged PR [#18](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/18) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+4. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/9) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+5. 🎉 Merged PR [#12](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/12) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
 <!--END_SECTION:activity-->
   </b>
 </details>
