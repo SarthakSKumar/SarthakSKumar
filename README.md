@@ -51,17 +51,23 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 
 <hr>
 
-## 📊 Github Stats
+## 📊 Coding Stats
 
+ <details><summary><b><h3>📉Github Stats</h3></summary>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&langs_count=6&layout=compact&theme=algolia" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
-
- <details><summary><b><h3>🏆Trophies</h3></summary>
+</p>
+ </details>
+ 
+ <details><summary><b><h3>🏆Trophies</h3></summary> 
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&column=7&theme=algolia&no-frame=true"/>
 </details>
-</p>
+ 
+ <details><summary><b><h3>📈Wakatime Stats</h3></summary>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sarthakskumar/bf730d66-a885-4fe7-8e80-57af6c59b751.png" height = 300/></a>
+</details>
  
 <details>
  <summary><b><h3>✒️Recent GitHub Activity</h3></summary>
