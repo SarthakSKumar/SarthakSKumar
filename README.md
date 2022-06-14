@@ -73,11 +73,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <summary><b><h3>✒️Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#48](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/48) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-2. ❌ Closed PR [#53](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/53) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-3. ❌ Closed PR [#58](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/58) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-4. 🎉 Merged PR [#68](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/68) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-5. 🎉 Merged PR [#59](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/59) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+1. 🎉 Merged PR [#44](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/44) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+2. ❌ Closed PR [#79](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/79) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+3. ❌ Closed PR [#51](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/51) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+4. ❌ Closed PR [#48](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/48) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+5. ❌ Closed PR [#53](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/53) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
 <!--END_SECTION:activity-->
   </b>
 </details>
