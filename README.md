@@ -22,31 +22,21 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 
 <p align="justify">
 
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C.png" alt="c" height = 40, width = 40/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C.png" alt="c" height = 37, width = 37/>
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Java.png" alt="java" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C%2B%2B.png" alt="c++" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Python.png" alt="python" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Html5.png" alt="html-5" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Css.png" alt="css" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Javascript.png" alt="js" height = 40, width = 40/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/MongoDB.png" alt="mongoDB" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/VSCode.png" alt="vs-code" height = 40, width = 40/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/MITAI.png" alt="mit" height = 40, width = 35/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Raspberry_pi.png" alt="raspberry_pi" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Android%20Studio.png" alt="android-studio" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Autodesk.png" alt="autodesk-eagle" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/TensorFlow.png" alt="tensorflow" height = 37, width = 37/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/NodeJS.png" alt="nodejs" height = 37, width = 33/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Arduino.png" alt="arduino" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="git" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Photoshop.png" alt="photoshop" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Linux.png" alt="linux" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Premiere%20Pro.png" alt="premiere-pro" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Github.png" alt="github" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/ReactJS.png" alt="reactjs" height = 40, width = 40/>
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Canva.png" alt="canva" height = 35, width = 35/>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="32"/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C%2B%2B.png" alt="c++" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Python.png" alt="python" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Html5.png" alt="html-5" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Css.png" alt="css" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Javascript.png" alt="js" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/MongoDB.png" alt="mongoDB" height = 36, width = 36/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/VSCode.png" alt="vs-code" height = 37, width = 37/> <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/MITAI.png" alt="mit" height = 37, width = 32/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Raspberry_pi.png" alt="raspberry_pi" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Android%20Studio.png" alt="android-studio" height = 36, width = 36/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Autodesk.png" alt="autodesk-eagle" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/TensorFlow.png" alt="tensorflow" height = 34, width = 34/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 37, width = 37/> <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/NodeJS.png" alt="nodejs" height = 34, width = 30/> <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Arduino.png" alt="arduino" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="git" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Photoshop.png" alt="photoshop" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Linux.png" alt="linux" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Premiere%20Pro.png" alt="premiere-pro" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Github.png" alt="github" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/ReactJS.png" alt="reactjs" height = 37, width = 37/>
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Canva.png" alt="canva" height = 32, width = 32/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="37" height="29"/>
 </p>
 
 <hr>
