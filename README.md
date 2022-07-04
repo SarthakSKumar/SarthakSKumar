@@ -79,11 +79,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <summary><b><h3>✒️Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#281](https://github.com/pesos/members-list/issues/281) in [pesos/members-list](https://github.com/pesos/members-list)
-2. 💪 Opened PR [#281](https://github.com/pesos/members-list/pull/281) in [pesos/members-list](https://github.com/pesos/members-list)
-3. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/5) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
-4. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/6) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-5. 🎉 Merged PR [#84](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/84) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+1. ❌ Closed PR [#1](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/1) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+2. 🗣 Commented on [#281](https://github.com/pesos/members-list/issues/281) in [pesos/members-list](https://github.com/pesos/members-list)
+3. 💪 Opened PR [#281](https://github.com/pesos/members-list/pull/281) in [pesos/members-list](https://github.com/pesos/members-list)
+4. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission/pull/5) in [SarthakSKumar/Secure-and-Efficient-Data-Transmission](https://github.com/SarthakSKumar/Secure-and-Efficient-Data-Transmission)
+5. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/pull/6) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 </details>
