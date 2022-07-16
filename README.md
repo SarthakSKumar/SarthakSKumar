@@ -1,4 +1,4 @@
-<img src='Assets/README_Banner.svg' alt="banner"></img>
+<img src='Assets/README_Banner.webp' alt="banner"></img>
 <hr></hr>
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
