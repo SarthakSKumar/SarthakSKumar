@@ -1,4 +1,7 @@
 <img src='Assets/README_Banner.svg' alt="banner"></img>
+<hr></hr>
+
+# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 
 <b>A 18-year-old, pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
@@ -12,6 +15,8 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 - 👯 I am open for collaboration with creators, developers and tech enthusiasts.
 - 🚢 Keen on developing my skill set and putting it to use.<br><br>
 
+<hr></hr>
+
 ## 📩 Connect with me
 Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for official discussions. <br>
@@ -23,6 +28,8 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Discord.png" height = 40 width = 40/></a>
  <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
 </p>
+
+<hr></hr>
 
 ## ⚡ Languages, Tools and Technologies
 
@@ -54,7 +61,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="37" height="29"/>
 </p>
 
-<hr>
+<hr></hr>
 
 ## 📊 Coding Stats
 
