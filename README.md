@@ -87,11 +87,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <summary><b><h3>✒️Recent GitHub Activity</h3></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#238](https://github.com/SidHacksCommunity/support/issues/238) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
-2. ❗️ Opened issue [#432](https://github.com/Devs-Dungeon/support/issues/432) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-3. ❌ Closed PR [#1](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/1) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-4. 🗣 Commented on [#281](https://github.com/pesos/members-list/issues/281) in [pesos/members-list](https://github.com/pesos/members-list)
-5. 💪 Opened PR [#281](https://github.com/pesos/members-list/pull/281) in [pesos/members-list](https://github.com/pesos/members-list)
+1. 🎉 Merged PR [#85](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/85) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+2. 🎉 Merged PR [#87](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/87) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+3. 🎉 Merged PR [#89](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/89) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+4. ❗️ Opened issue [#238](https://github.com/SidHacksCommunity/support/issues/238) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+5. ❗️ Opened issue [#432](https://github.com/Devs-Dungeon/support/issues/432) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
 <!--END_SECTION:activity-->
   </b>
 </details>
