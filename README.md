@@ -65,26 +65,22 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 
 ## 📊 Coding Stats
 
- <details><summary><b><h3>📉Github Stats</h3></summary>
+<b><h3>📉Github Stats</h3></b>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSKumar&langs_count=6&layout=compact&theme=algolia" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
- </details>
  
- <details><summary><b><h3>🏆Trophies</h3></summary> 
+<b><h3>🏆Trophies</h3>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&column=7&theme=algolia&no-frame=true"/>
-</details>
  
- <details><summary><b><h3>📈Wakatime Stats</h3></summary>
+<b><h3>📈Wakatime Stats</h3>
 <a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/bf730d66-a885-4fe7-8e80-57af6c59b751.png" height = 300/></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sarthakskumar/a46a019c-71a5-4496-b637-bf897b769f5a.png" height = 300/></a><br>
- Time coded since April 2022 &nbsp<a href="https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266"><img src="https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg" alt="Total time coded since Apr 10 2022" /></a>
-</details>
+ Time coded since April 2022 <a href="https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266"><img src="https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg" alt="Total time coded since Apr 10 2022" /></a>
  
-<details>
- <summary><b><h3>✒️Recent GitHub Activity</h3></summary>
+<b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#85](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/85) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
@@ -94,7 +90,6 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 5. ❗️ Opened issue [#432](https://github.com/Devs-Dungeon/support/issues/432) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
 <!--END_SECTION:activity-->
   </b>
-</details>
 
 <hr>
 <div align = "center">
