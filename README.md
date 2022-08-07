@@ -78,7 +78,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>📈Wakatime Stats</h3>
 <a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/bf730d66-a885-4fe7-8e80-57af6c59b751.png" height = 300/></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sarthakskumar/a46a019c-71a5-4496-b637-bf897b769f5a.png" height = 300/></a><br>
- Time coded since April 2022 <a href="https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266"><img src="https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg" alt="Total time coded since Apr 10 2022" /></a>
+ Time coded since April 2022 <a href="https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266"><br><img src="https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg" alt="Total time coded since Apr 10 2022" /></a>
  
 <b><h3>✒️Recent GitHub Activity</h3>
   
