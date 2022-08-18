@@ -83,11 +83,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/2) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-2. 🎉 Merged PR [#85](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/85) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-3. 🎉 Merged PR [#87](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/87) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-4. 🎉 Merged PR [#89](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/89) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-5. ❗️ Opened issue [#238](https://github.com/SidHacksCommunity/support/issues/238) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+1. 💪 Opened PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+2. ❌ Closed PR [#2](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/2) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+3. 🎉 Merged PR [#85](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/85) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+4. 🎉 Merged PR [#87](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/87) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+5. 🎉 Merged PR [#89](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/89) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
 <!--END_SECTION:activity-->
   </b>
 
