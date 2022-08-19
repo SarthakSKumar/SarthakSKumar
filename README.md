@@ -46,6 +46,8 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/MITAI.png" alt="mit" height = 37, width = 32/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Raspberry_pi.png" alt="raspberry_pi" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Android%20Studio.png" alt="android-studio" height = 36, width = 36/>
+ <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/jquery.png" alt="jquery" height = 37, width = 37/>
+ <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/expressjs.png" alt="expressjs" height = 36, width = 36/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Autodesk.png" alt="autodesk-eagle" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/TensorFlow.png" alt="tensorflow" height = 34, width = 34/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 37, width = 37/>
