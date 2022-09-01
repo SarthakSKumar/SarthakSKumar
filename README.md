@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Shunya-PES/Shunya/pull/11) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
-2. 💪 Opened PR [#2](https://github.com/Shunya-PES/Shunya/pull/2) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
-3. 🗣 Commented on [#1](https://github.com/Shunya-PES/Shunya/issues/1) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
-4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/SarthakSKumar/pull/2) in [SarthakSKumar/SarthakSKumar](https://github.com/SarthakSKumar/SarthakSKumar)
-5. 💪 Opened PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+1. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Shunya-Website/pull/1) in [SarthakSKumar/Shunya-Website](https://github.com/SarthakSKumar/Shunya-Website)
+2. 💪 Opened PR [#11](https://github.com/Shunya-PES/Shunya/pull/11) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
+3. 💪 Opened PR [#2](https://github.com/Shunya-PES/Shunya/pull/2) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
+4. 🗣 Commented on [#1](https://github.com/Shunya-PES/Shunya/issues/1) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
+5. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/SarthakSKumar/pull/2) in [SarthakSKumar/SarthakSKumar](https://github.com/SarthakSKumar/SarthakSKumar)
 <!--END_SECTION:activity-->
   </b>
 
