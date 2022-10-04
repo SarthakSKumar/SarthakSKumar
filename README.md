@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Shunya-PES/Shunya/pull/23) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
-2. 💪 Opened PR [#22](https://github.com/Shunya-PES/Shunya/pull/22) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
-3. 💪 Opened PR [#19](https://github.com/Shunya-PES/Shunya/pull/19) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
-4. 🗣 Commented on [#18](https://github.com/Shunya-PES/Shunya/issues/18) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
-5. ❗️ Opened issue [#15](https://github.com/Shunya-PES/Shunya/issues/15) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
+1. 💪 Opened PR [#1](https://github.com/adithya-s-k/Silicon_Rush/pull/1) in [adithya-s-k/Silicon_Rush](https://github.com/adithya-s-k/Silicon_Rush)
+2. 💪 Opened PR [#23](https://github.com/Shunya-PES/Shunya/pull/23) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
+3. 💪 Opened PR [#22](https://github.com/Shunya-PES/Shunya/pull/22) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
+4. 💪 Opened PR [#19](https://github.com/Shunya-PES/Shunya/pull/19) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
+5. 🗣 Commented on [#18](https://github.com/Shunya-PES/Shunya/issues/18) in [Shunya-PES/Shunya](https://github.com/Shunya-PES/Shunya)
 <!--END_SECTION:activity-->
   </b>
 
