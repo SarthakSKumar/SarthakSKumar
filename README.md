@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/acmpesuecc/Slide/pull/32) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-2. 🗣 Commented on [#1](https://github.com/acmpesuecc/Doc-Scan/issues/1) in [acmpesuecc/Doc-Scan](https://github.com/acmpesuecc/Doc-Scan)
-3. 🗣 Commented on [#4](https://github.com/acmpesuecc/Slide/issues/4) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-4. 💪 Opened PR [#32](https://github.com/acmpesuecc/Slide/pull/32) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-5. 🗣 Commented on [#26](https://github.com/acmpesuecc/Slide/issues/26) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+1. 🗣 Commented on [#19](https://github.com/acmpesuecc/wordle-clone/issues/19) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
+2. 🗣 Commented on [#2](https://github.com/acmpesuecc/3D-Portfolio/issues/2) in [acmpesuecc/3D-Portfolio](https://github.com/acmpesuecc/3D-Portfolio)
+3. 🗣 Commented on [#32](https://github.com/acmpesuecc/Slide/issues/32) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+4. ❌ Reopened PR [#32](https://github.com/acmpesuecc/Slide/pull/32) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+5. ❌ Closed PR [#32](https://github.com/acmpesuecc/Slide/pull/32) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
 <!--END_SECTION:activity-->
   </b>
 
