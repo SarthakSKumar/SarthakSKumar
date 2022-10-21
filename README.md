@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/acmpesuecc/weatherforecast/pull/5) in [acmpesuecc/weatherforecast](https://github.com/acmpesuecc/weatherforecast)
-2. 💪 Opened PR [#20](https://github.com/acmpesuecc/Slide/pull/20) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-3. ❌ Closed PR [#16](https://github.com/acmpesuecc/Slide/pull/16) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-4. 🗣 Commented on [#1](https://github.com/acmpesuecc/Slide/issues/1) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-5. 💪 Opened PR [#16](https://github.com/acmpesuecc/Slide/pull/16) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+1. 🗣 Commented on [#4](https://github.com/acmpesuecc/Slide/issues/4) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+2. 💪 Opened PR [#5](https://github.com/acmpesuecc/weatherforecast/pull/5) in [acmpesuecc/weatherforecast](https://github.com/acmpesuecc/weatherforecast)
+3. 💪 Opened PR [#20](https://github.com/acmpesuecc/Slide/pull/20) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+4. ❌ Closed PR [#16](https://github.com/acmpesuecc/Slide/pull/16) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+5. 🗣 Commented on [#1](https://github.com/acmpesuecc/Slide/issues/1) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
 <!--END_SECTION:activity-->
   </b>
 
