@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/acmpesuecc/Slide/issues/5) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-2. 🗣 Commented on [#19](https://github.com/acmpesuecc/wordle-clone/issues/19) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
-3. 💪 Opened PR [#40](https://github.com/acmpesuecc/Slide/pull/40) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-4. 💪 Opened PR [#38](https://github.com/acmpesuecc/Slide/pull/38) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-5. ❗️ Opened issue [#10](https://github.com/acmpesuecc/3D-Portfolio/issues/10) in [acmpesuecc/3D-Portfolio](https://github.com/acmpesuecc/3D-Portfolio)
+1. 💪 Opened PR [#25](https://github.com/acmpesuecc/wordle-clone/pull/25) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
+2. 🗣 Commented on [#5](https://github.com/acmpesuecc/Slide/issues/5) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+3. 🗣 Commented on [#19](https://github.com/acmpesuecc/wordle-clone/issues/19) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
+4. 💪 Opened PR [#40](https://github.com/acmpesuecc/Slide/pull/40) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+5. 💪 Opened PR [#38](https://github.com/acmpesuecc/Slide/pull/38) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
 <!--END_SECTION:activity-->
   </b>
 
