@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/acmpesuecc/8085--Assembly-instructions/pull/3) in [acmpesuecc/8085--Assembly-instructions](https://github.com/acmpesuecc/8085--Assembly-instructions)
-2. 💪 Opened PR [#37](https://github.com/acmpesuecc/wordle-clone/pull/37) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
-3. 🗣 Commented on [#26](https://github.com/acmpesuecc/wordle-clone/issues/26) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
-4. 💪 Opened PR [#49](https://github.com/acmpesuecc/Slide/pull/49) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
-5. ❗️ Opened issue [#46](https://github.com/acmpesuecc/Slide/issues/46) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+1. 💪 Opened PR [#54](https://github.com/acmpesuecc/Slide/pull/54) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+2. 💪 Opened PR [#3](https://github.com/acmpesuecc/8085--Assembly-instructions/pull/3) in [acmpesuecc/8085--Assembly-instructions](https://github.com/acmpesuecc/8085--Assembly-instructions)
+3. 💪 Opened PR [#37](https://github.com/acmpesuecc/wordle-clone/pull/37) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
+4. 🗣 Commented on [#26](https://github.com/acmpesuecc/wordle-clone/issues/26) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
+5. 💪 Opened PR [#49](https://github.com/acmpesuecc/Slide/pull/49) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
 <!--END_SECTION:activity-->
   </b>
 
