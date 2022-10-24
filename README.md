@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/9) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-2. 🗣 Commented on [#8](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/8) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-3. 🗣 Commented on [#7](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/7) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-4. ❗️ Opened issue [#7](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/7) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
-5. 💪 Opened PR [#57](https://github.com/acmpesuecc/Slide/pull/57) in [acmpesuecc/Slide](https://github.com/acmpesuecc/Slide)
+1. ❗️ Opened issue [#10](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/10) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. 🗣 Commented on [#9](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/9) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+3. ❗️ Opened issue [#9](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/9) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+4. 🗣 Commented on [#8](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/8) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
+5. 🗣 Commented on [#7](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts/issues/7) in [SarthakSKumar/Arduino-Projects-and-Scripts](https://github.com/SarthakSKumar/Arduino-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 
