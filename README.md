@@ -84,11 +84,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/10) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. ❗️ Closed issue [#21](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/21) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🎉 Merged PR [#25](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/25) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. ❗️ Closed issue [#16](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/16) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 🎉 Merged PR [#24](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/24) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+1. ❗️ Closed issue [#8](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/8) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. 🎉 Merged PR [#23](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/23) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. ❗️ Closed issue [#10](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/10) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. ❗️ Closed issue [#21](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/21) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. 🎉 Merged PR [#25](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/25) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 
