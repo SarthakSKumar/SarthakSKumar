@@ -86,9 +86,9 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#29](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/29) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 2. 🗣 Commented on [#28](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/28) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🗣 Commented on [#27](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/27) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. ❗️ Opened issue [#27](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/27) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 🎉 Merged PR [#26](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/26) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. 🗣 Commented on [#29](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/29) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 🗣 Commented on [#28](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/28) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. 🗣 Commented on [#27](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/27) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 
