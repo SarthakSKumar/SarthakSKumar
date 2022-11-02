@@ -53,7 +53,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/heroku.png" alt="heroku" height = 35, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Arduino.png" alt="arduino" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/postman.webp" alt="postman" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="git" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/bootstrap.png" alt="bootstrap" height = 37, width = 37/>
+ <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="git" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/bootstrap.png" alt="bootstrap" height = 38, width = 38/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Photoshop.png" alt="photoshop" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Linux.png" alt="linux" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Premiere%20Pro.png" alt="premiere-pro" height = 37, width = 37/>
