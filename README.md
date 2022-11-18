@@ -85,11 +85,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Sohoxic/BYOB/pull/1) in [Sohoxic/BYOB](https://github.com/Sohoxic/BYOB)
-2. ❗️ Opened issue [#54](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/54) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. ❗️ Opened issue [#53](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/53) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. ❗️ Opened issue [#52](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/52) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. ❗️ Opened issue [#51](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/51) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+1. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Notes-Web-App/pull/5) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+2. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Notes-Web-App/pull/2) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+3. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Notes-Web-App/pull/1) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+4. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/Notes-Web-App/pull/4) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+5. 💪 Opened PR [#1](https://github.com/Sohoxic/BYOB/pull/1) in [Sohoxic/BYOB](https://github.com/Sohoxic/BYOB)
 <!--END_SECTION:activity-->
   </b>
 
