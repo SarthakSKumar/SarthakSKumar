@@ -85,11 +85,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/SarthakSKumar/Notes-Web-App/pull/7) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
-2. 🗣 Commented on [#7](https://github.com/SarthakSKumar/Notes-Web-App/issues/7) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
-3. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Notes-Web-App/pull/6) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
-4. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Notes-Web-App/pull/5) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
-5. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Notes-Web-App/pull/2) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+1. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Notes-Web-App/pull/8) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+2. 🎉 Merged PR [#7](https://github.com/SarthakSKumar/Notes-Web-App/pull/7) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+3. 🗣 Commented on [#7](https://github.com/SarthakSKumar/Notes-Web-App/issues/7) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+4. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Notes-Web-App/pull/6) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+5. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Notes-Web-App/pull/5) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
 <!--END_SECTION:activity-->
   </b>
 
