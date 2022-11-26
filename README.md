@@ -85,11 +85,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/50) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. 🎉 Merged PR [#55](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/55) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Notes-Web-App/pull/9) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
-4. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Notes-Web-App/pull/8) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
-5. 🎉 Merged PR [#7](https://github.com/SarthakSKumar/Notes-Web-App/pull/7) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+1. ❗️ Opened issue [#7](https://github.com/adithya-s-k/Phoenix/issues/7) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+2. ❗️ Closed issue [#5](https://github.com/adithya-s-k/Phoenix/issues/5) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+3. 🎉 Merged PR [#6](https://github.com/adithya-s-k/Phoenix/pull/6) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+4. ❗️ Opened issue [#5](https://github.com/adithya-s-k/Phoenix/issues/5) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+5. ❗️ Closed issue [#50](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/50) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 
