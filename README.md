@@ -85,11 +85,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/adithya-s-k/Phoenix/issues/12) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
-2. ❗️ Closed issue [#11](https://github.com/adithya-s-k/Phoenix/issues/11) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
-3. 🎉 Merged PR [#14](https://github.com/adithya-s-k/Phoenix/pull/14) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
-4. 💪 Opened PR [#14](https://github.com/adithya-s-k/Phoenix/pull/14) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
-5. 🗣 Commented on [#11](https://github.com/adithya-s-k/Phoenix/issues/11) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+1. ❗️ Closed issue [#12](https://github.com/adithya-s-k/Phoenix/issues/12) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+2. 🎉 Merged PR [#15](https://github.com/adithya-s-k/Phoenix/pull/15) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+3. 💪 Opened PR [#15](https://github.com/adithya-s-k/Phoenix/pull/15) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+4. 🗣 Commented on [#12](https://github.com/adithya-s-k/Phoenix/issues/12) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
+5. ❗️ Closed issue [#11](https://github.com/adithya-s-k/Phoenix/issues/11) in [adithya-s-k/Phoenix](https://github.com/adithya-s-k/Phoenix)
 <!--END_SECTION:activity-->
   </b>
 
