@@ -7,7 +7,7 @@
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
 I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=dph" width="250" alt="Sarthak S Kumar's Dev Card"/></a>
 
 - 🔭 Check out my <a href="https://sarthakskumar.github.io">portfolio website</a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
