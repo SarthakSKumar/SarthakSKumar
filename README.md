@@ -75,7 +75,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 </p>
  
 <b><h3>🏆Trophies</h3>
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&column=7&theme=algolia&no-frame=true"/>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&column=8&theme=algolia&no-frame=true"/>
  
 <b><h3>📈Wakatime Stats</h3>
 <a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/bf730d66-a885-4fe7-8e80-57af6c59b751.png" height = 300/></a>
