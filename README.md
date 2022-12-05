@@ -32,36 +32,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 <hr></hr>
 
 ## ⚡ Languages, Tools and Technologies
-
-<p align="justify">
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C.png" alt="c" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Java.png" alt="java" height = 40, width = 40/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C%2B%2B.png" alt="c++" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Python.png" alt="python" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Html5.png" alt="html-5" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Css.png" alt="css" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Javascript.png" alt="js" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/VSCode.png" alt="vs-code" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/MongoDB.png" alt="mongoDB" height = 36, width = 36/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/netlify.svg" alt="netlify" height = 36, width = 36/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/MITAI.png" alt="mit" height = 37, width = 32/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Raspberry_pi.png" alt="raspberry_pi" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Android%20Studio.png" alt="android-studio" height = 36, width = 36/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/jquery.png" alt="jquery" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/expressjs.png" alt="expressjs" height = 36, width = 36/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Autodesk.png" alt="autodesk-eagle" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/TensorFlow.png" alt="tensorflow" height = 34, width = 34/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Matlab.png" alt="matlab" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/NodeJS.png" alt="nodejs" height = 34, width = 30/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/heroku.png" alt="heroku" height = 35, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Arduino.png" alt="arduino" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/postman.webp" alt="postman" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Git.png" alt="git" height = 37, width = 37/><img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/bootstrap.png" alt="bootstrap" height = 38, width = 38/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Photoshop.png" alt="photoshop" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Linux.png" alt="linux" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Premiere%20Pro.png" alt="premiere-pro" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Github.png" alt="github" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/ReactJS.png" alt="reactjs" height = 37, width = 37/>
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Canva.png" alt="canva" height = 32, width = 32/>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="37" height="29"/>
-</p>
+<img src = "https://skillicons.dev/icons?i=c,java,cpp,py,html,css,js,bash,vscode,mongodb,codepen,django,firebase,netlify,raspberrypi,androidstudio,flask,githubactions,md,nextjs,redis,redux,regex,svg,jquery,express,tensorflow,nodejs,heroku,arduino,tailwind,vercel,git,bootstrap,ps,linux,pr,github,react,figma&theme=dark&perline=21" height = 90>
 
 <hr></hr>
 
