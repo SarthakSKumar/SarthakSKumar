@@ -20,7 +20,7 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 ## 📩 Connect with me
 Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for official discussions. <br><br>
-<img src = "https://skillicons.dev/icons?i=linkedin,instagram,discord,twitter&theme=dark&perline=21" height = 30>
+<img src = "https://skillicons.dev/icons?i=linkedin,instagram,discord,twitter&theme=dark&perline=21" height = 35>
 
 <hr></hr>
 
