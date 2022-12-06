@@ -46,7 +46,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
  
 <b><h3>📈Wakatime Stats</h3>
 <a href="https://wakatime.com/@sarthakskumar"><img align="center" width=50% height = 290 src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=16&hide_border=true&border_radius=0&layout=compact&theme=nord"/></a>
-<a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/d1002f01-a74c-4904-8afd-260af7db7585.svg" height=290></a><br>
+<a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg" height=270></a><br>
 <img align = "center" src="https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg" alt="Total time coded since Apr 10 2022" /></a>
  <hr>
 <b><h3>✒️Recent GitHub Activity</h3>
