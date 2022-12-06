@@ -36,7 +36,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
 
 <b><h3>📉Github Stats</h3></b>
 <p align = "center">
-<img align = "center" src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" /><br>
+<img align = "center" src="https://github-readme-activity-graph.cyclic.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=C04D01&line=ffff03&radius=5&area=true&area_color=484D00&title_color=80A0C0&color=ffffff" /><br>
 <img align = "center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&count_private=true&show_icons=true&langs_count=6&layout=compact&hide_border=true&theme=nord" />
 <img align = "center" width="55.79%" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/>
 </p>
