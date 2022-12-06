@@ -37,8 +37,8 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
 <b><h3>📉Github Stats</h3></b>
 <p align = "center">
 <img align = "center" src="https://activity-graph.herokuapp.com/graph?username=SarthakSKumar&theme=react-dark" /><br>
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&count_private=true&show_icons=true&langs_count=6&layout=compact&hide_border=true&theme=nord" />
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/>
+<img align = "center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&count_private=true&show_icons=true&langs_count=6&layout=compact&hide_border=true&theme=nord" />
+<img align = "center" width="55.79%" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/>
 </p><br>
  
 <b><h3>🏆Trophies</h3>
@@ -46,7 +46,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
  
 <b><h3>📈Wakatime Stats</h3>
 <a href="https://wakatime.com/@sarthakskumar"><img align="center" height = 290 src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=16&hide_border=true&border_radius=0&layout=compact&theme=nord"/></a>
-<a href="https://wakatime.com/@sarthakskumar"><img width = 50% align = "center" src="https://wakatime.com/share/@sarthakskumar/d1002f01-a74c-4904-8afd-260af7db7585.svg" height=290></a><br>
+<a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/d1002f01-a74c-4904-8afd-260af7db7585.svg" height=290></a><br>
 <img align = "center" src="https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg" alt="Total time coded since Apr 10 2022" /></a>
  <hr>
 <b><h3>✒️Recent GitHub Activity</h3>
