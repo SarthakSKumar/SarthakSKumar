@@ -52,11 +52,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
 <b><h3>✒️Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Chatroom-App/pull/9) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-2. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Chatroom-App/pull/8) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-3. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Chatroom-App/pull/6) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-4. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Chatroom-App/pull/5) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-5. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/Chatroom-App/pull/4) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+1. ❗️ Opened issue [#35](https://github.com/ankurparihar/readme-pagespeed-insights/issues/35) in [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+2. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Chatroom-App/pull/9) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+3. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Chatroom-App/pull/8) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+4. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Chatroom-App/pull/6) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+5. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/Chatroom-App/pull/5) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
 <!--END_SECTION:activity-->
   </b>
 
