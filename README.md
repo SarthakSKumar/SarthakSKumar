@@ -44,10 +44,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
 				<td colspan = "2"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"/></td>
 			</tr>
 	<tr>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=0&layout=compact&theme=nord"/></a></td>
-		<td rowspan="2"><a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg" width = "100%"></a></td>
+		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/1faf67a0-09ef-434c-a468-072a4eacacfa.svg"/></a></td>
+		<td><a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg" width = "100%"></a></td>
 	</tr>
 	<tr>
+		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=0&layout=compact&theme=nord"/></a></td>
 		<td><img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></td>
 	</tr>
 	</table>
