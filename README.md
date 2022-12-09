@@ -37,18 +37,19 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
 				<td colspan = "2"><img width = "100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=C04D01&line=ffff03&radius=5&area=true&area_color=484D00&title_color=80A0C0&color=ffffff" /></td>
 			</tr>
 			<tr>
-				<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&count_private=true&show_icons=true&langs_count=6&layout=compact&hide_border=true&theme=nord" /></td>
-    <td><img width = "100%" src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></td>
+				<td><img width = "83%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakSKumar&show_icons=true&count_private=true&show_icons=true&langs_count=6&layout=compact&hide_border=true&theme=nord" /></td>
+				<td><img src="https://streak-stats.demolab.com/?user=SarthakSKumar&hide_border=true&border_radius=4.5&theme=nord"/></td>
 			</tr>
 			<tr>
 				<td colspan = "2"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"/></td>
 			</tr>
 	<tr>
 		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=0&layout=compact&theme=nord"/></a></td>
-		<td rowspan="2"><a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg" height=280></a></td>
+		<td rowspan="2"><a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg" width = "100%"></a></td>
 	</tr>
 	<tr>
-		<td><img src="https://streak-stats.demolab.com/?user=SarthakSKumar&theme=nord"/></td>
+		<td><img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></td>
+	</tr>
 	</table>
 <b><h3>✒️Recent GitHub Activity</h3>
   
