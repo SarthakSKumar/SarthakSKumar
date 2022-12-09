@@ -49,11 +49,11 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
 	
 ## ✒️Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-2. ❗️ Opened issue [#35](https://github.com/ankurparihar/readme-pagespeed-insights/issues/35) in [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-3. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Chatroom-App/pull/9) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-4. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Chatroom-App/pull/8) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-5. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Chatroom-App/pull/6) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+1. 🗣 Commented on [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+2. ❗️ Opened issue [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+3. ❗️ Opened issue [#35](https://github.com/ankurparihar/readme-pagespeed-insights/issues/35) in [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+4. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Chatroom-App/pull/9) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+5. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Chatroom-App/pull/8) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
 <!--END_SECTION:activity-->
   </b>
 
