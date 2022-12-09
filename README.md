@@ -42,7 +42,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here<br><br>
 	</tr>
 	<tr>
 		<td><a href="https://wakatime.com/@sarthakskumar"><img align = "center" src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg" width = "100%"></a></td>
-		<td><img src="https://streak-stats.demolab.com/?user=SarthakSKumar&theme=nord"/></td>
+		<td><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"/></td>
 	</tr>
 	</table>
 <hr>
