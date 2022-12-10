@@ -30,7 +30,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 ## 📊 Metrics
 <table>
 	<tr>
-		<td colspan = "2"><a href = "https://sarthakskumar.bio.link"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=C04D01&line=ffff03&radius=5&area=true&area_color=484D00&title_color=80A0C0&color=ffffff"></a></td>
+		<td colspan = "2"><a href = "https://sarthakskumar.bio.link"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
 		<td><a href="https://linkedin.com/in/sarthakskumar"><img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
