@@ -1,5 +1,4 @@
 <img src='Assets/README_Banner.webp' alt="banner"></img>
-<hr>
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <b>A 19-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
