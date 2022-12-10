@@ -48,11 +48,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-2. ❗️ Opened issue [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-3. ❗️ Opened issue [#35](https://github.com/ankurparihar/readme-pagespeed-insights/issues/35) in [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-4. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Chatroom-App/pull/9) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-5. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Chatroom-App/pull/8) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+1. ❗️ Opened issue [#6](https://github.com/soroushchehresa/github-readme-linkedin/issues/6) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+2. 🗣 Commented on [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+3. ❗️ Opened issue [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+4. ❗️ Opened issue [#35](https://github.com/ankurparihar/readme-pagespeed-insights/issues/35) in [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+5. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Chatroom-App/pull/9) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
 <!--END_SECTION:activity-->
   </b>
 <hr>
