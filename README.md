@@ -1,5 +1,9 @@
+<!---
+Please consider starring the repo if you find this useful in any manner
+or use it. It helps me a lot.
+-->
 <img src='Assets/README_Banner.webp' alt="banner"></img>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <b>A 19-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
@@ -24,6 +28,14 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 
 ## ⚡ Languages, Tools and Technologies
 <a href = "https://github.com/SarthakSKumar"><img src = "https://skillicons.dev/icons?i=c,java,cpp,py,html,css,js,bash,vscode,mongodb,codepen,django,firebase,netlify,raspberrypi,androidstudio,flask,githubactions,md,nextjs,redis,redux,regex,svg,jquery,express,tensorflow,nodejs,heroku,arduino,tailwind,vercel,git,bootstrap,ps,linux,pr,github,react,figma&theme=dark&perline=21" height = 90></a>
+<hr>
+
+## 🥇 Open Source Projects-Open for Contributions
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SarthakSKumar) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/SarthakSKumar)
+| Project:octocat: | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire:
+|----------------- |-------------------|---|---|---|---
+| [**IoT Projects and Scripts**](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/forks) | [![GitHub Issues](https://img.shields.io/github/issues/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/SarthakSKumar/IoT-Projects-and-Scripts?style=flat&logo=github)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/SarthakSKumar/IoT-Projects-and-Scripts?style=flat&color=critical&logo=github)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pulls?q=is%3Apr+is%3Aclosed)
+| [**Chatroom-App**](https://github.com/SarthakSKumar/Chatroom-App) | [![GitHub Stars](https://img.shields.io/github/stars/SarthakSKumar/Chatroom-App?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/Chatroom-App/stars) | [![GitHub Forks](https://img.shields.io/github/forks/SarthakSKumar/Chatroom-App?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/Chatroom-App/forks) | [![GitHub Issues](https://img.shields.io/github/issues/SarthakSKumar/Chatroom-App?style=flat-square)](https://github.com/SarthakSKumar/Chatroom-App/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/SarthakSKumar/Chatroom-App?style=flat&logo=github)](https://github.com/SarthakSKumar/Chatroom-App/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/SarthakSKumar/Chatroom-App?style=flat&color=critical&logo=github)](https://github.com/SarthakSKumar/Chatroom-App/pulls?q=is%3Apr+is%3Aclosed)
 <hr>
 
 ## 📊 Metrics
