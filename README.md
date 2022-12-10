@@ -51,8 +51,8 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		<td colspan = "2"><a href="https://instagram.com/sarthakskumar"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg"></a></td>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a></td>
+		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg"></a>			</td>
+		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
 	</tr>
 	</table>
 <hr>
@@ -68,12 +68,41 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
   </b>
 <hr>
 
+## 📝 Testimonials
+<table>
+	<tr align="center">
+		<td><b>Name</b></td>
+		<td><b>Thoughts on me</b></td>
+		<td><b>Designation/Activity</b></td>
+	</tr>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/ritika-chauhan-687055208"><b>Ritika Chauhan</b></a></td>
+		<td>Sarthak joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethics are commendable. 
+He was very proactive and great team player throughout his internship. 
+He always gave suggestions in ways the work cultute can be improved for the comapny and to become more accommodating for all.
+I will be more than happy to recommend Sarthak if you are looking for someone with enduring dedication towards his work.</td>
+		<td>HR Executive</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/rajath-01b605213"><b>Rajath Kumar J</b></a></td>
+		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Sarthak was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
+		<td>Digital Marketing, Copywriting</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/sherone-d-souza-9a497b180"><b>Sherone D'Souza</b></a></td>
+		<td>Talented yet creative, Sarthak is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
+Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
+If your looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
+		<td>CSE Student, MIT Manipal</td>
+	</tr>
+	<table>
+<hr>
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
- <hr>
+<hr>
 <div align = "center">
-
- **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{SarthakSKumar}/count.svg)
+<h3><b>Visitors Count 👁️</b></h3>
+<img width = 25% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
  
 ### Show some ❤️ by starring 🌟 some of my repos!
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
