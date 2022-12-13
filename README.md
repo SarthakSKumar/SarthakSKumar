@@ -59,11 +59,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#506](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/506) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-2. ❗️ Opened issue [#6](https://github.com/soroushchehresa/github-readme-linkedin/issues/6) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
-3. 🗣 Commented on [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-4. ❗️ Opened issue [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-5. ❗️ Opened issue [#35](https://github.com/ankurparihar/readme-pagespeed-insights/issues/35) in [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+1. ❗️ Closed issue [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+2. 🗣 Commented on [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
+3. ❗️ Opened issue [#506](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/506) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+4. ❗️ Opened issue [#6](https://github.com/soroushchehresa/github-readme-linkedin/issues/6) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+5. 🗣 Commented on [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
 <!--END_SECTION:activity-->
   </b>
 <hr>
