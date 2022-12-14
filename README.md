@@ -2,7 +2,7 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
-<img src='Assets/README_Banner.webp' alt="banner"></img>
+<img src='README_Banner.webp' alt="banner"></img>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <b>A 19-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
