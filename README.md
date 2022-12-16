@@ -59,11 +59,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/Chatroom-App/pull/11) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-2. ❗️ Closed issue [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-3. 🗣 Commented on [#221](https://github.com/avgupta456/github-trends/issues/221) in [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-4. ❗️ Opened issue [#506](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/506) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-5. ❗️ Opened issue [#6](https://github.com/soroushchehresa/github-readme-linkedin/issues/6) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+1. ❗️ Opened issue [#16](https://github.com/SarthakSKumar/Chatroom-App/issues/16) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+2. ❗️ Opened issue [#15](https://github.com/SarthakSKumar/Chatroom-App/issues/15) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+3. 🎉 Merged PR [#14](https://github.com/SarthakSKumar/Chatroom-App/pull/14) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+4. 💪 Opened PR [#14](https://github.com/SarthakSKumar/Chatroom-App/pull/14) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+5. 🎉 Merged PR [#13](https://github.com/SarthakSKumar/Chatroom-App/pull/13) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
 <!--END_SECTION:activity-->
   </b>
 <hr>
