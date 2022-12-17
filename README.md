@@ -59,11 +59,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/SarthakSKumar/Chatroom-App/issues/15) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-2. 🗣 Commented on [#12](https://github.com/SarthakSKumar/Chatroom-App/issues/12) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-3. ❗️ Opened issue [#16](https://github.com/SarthakSKumar/Chatroom-App/issues/16) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-4. ❗️ Opened issue [#15](https://github.com/SarthakSKumar/Chatroom-App/issues/15) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-5. 🎉 Merged PR [#14](https://github.com/SarthakSKumar/Chatroom-App/pull/14) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+1. 🗣 Commented on [#12](https://github.com/SarthakSKumar/Chatroom-App/issues/12) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+2. 🗣 Commented on [#15](https://github.com/SarthakSKumar/Chatroom-App/issues/15) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+3. 🗣 Commented on [#12](https://github.com/SarthakSKumar/Chatroom-App/issues/12) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+4. ❗️ Opened issue [#16](https://github.com/SarthakSKumar/Chatroom-App/issues/16) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+5. ❗️ Opened issue [#15](https://github.com/SarthakSKumar/Chatroom-App/issues/15) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
 <!--END_SECTION:activity-->
   </b>
 <hr>
