@@ -27,7 +27,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <hr>
 
 ## ⚡ Languages, Tools and Technologies
-<a href = "https://github.com/SarthakSKumar"><img src = "https://skillicons.dev/icons?i=c,java,cpp,py,html,css,js,bash,vscode,mongodb,codepen,django,firebase,netlify,raspberrypi,androidstudio,flask,githubactions,md,nextjs,redis,redux,regex,svg,jquery,express,tensorflow,nodejs,heroku,arduino,tailwind,vercel,git,bootstrap,ps,cloudflare,linux,pr,materialui,github,react,wordpress,figma&theme=dark&perline=21" height = 90></a>
+<a href = "https://github.com/SarthakSKumar"><img src = "https://skillicons.dev/icons?i=c,java,cpp,py,html,css,js,bash,vscode,mongodb,codepen,django,firebase,netlify,raspberrypi,androidstudio,flask,githubactions,md,nextjs,redis,redux,regex,svg,jquery,express,tensorflow,nodejs,heroku,arduino,tailwind,vercel,git,bootstrap,ps,cloudflare,linux,pr,materialui,github,react,figma&theme=dark&perline=21" height = 90></a>
 <hr>
 
 ## 🥇 Open Source Projects-Open for Contributions
