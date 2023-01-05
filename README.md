@@ -59,11 +59,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/SarthakSKumar/Chatroom-App/issues/12) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-2. 🎉 Merged PR [#20](https://github.com/SarthakSKumar/Chatroom-App/pull/20) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-3. 🗣 Commented on [#12](https://github.com/SarthakSKumar/Chatroom-App/issues/12) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-4. ❗️ Opened issue [#2](https://github.com/Avalojandro/cattocssweb/issues/2) in [Avalojandro/cattocssweb](https://github.com/Avalojandro/cattocssweb)
-5. ❗️ Opened issue [#19](https://github.com/SarthakSKumar/Chatroom-App/issues/19) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+1. ❗️ Closed issue [#27](https://github.com/acmpesuecc/wordle-clone/issues/27) in [acmpesuecc/wordle-clone](https://github.com/acmpesuecc/wordle-clone)
+2. 🗣 Commented on [#54](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/54) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. 🗣 Commented on [#53](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/53) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 🗣 Commented on [#52](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/52) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. ❗️ Closed issue [#12](https://github.com/SarthakSKumar/Chatroom-App/issues/12) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
 <!--END_SECTION:activity-->
   </b>
 <hr>
