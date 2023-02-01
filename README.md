@@ -59,11 +59,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/satyamksharma/Sublit-Programs/issues/1) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
-2. 🗣 Commented on [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🗣 Commented on [#51](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/51) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🗣 Commented on [#54](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/54) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 🗣 Commented on [#506](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/506) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+1. 🗣 Commented on [#2](https://github.com/satyamksharma/Sublit-Programs/issues/2) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
+2. ❗️ Opened issue [#3](https://github.com/satyamksharma/Sublit-Programs/issues/3) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
+3. 💪 Opened PR [#2](https://github.com/satyamksharma/Sublit-Programs/pull/2) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
+4. ❗️ Opened issue [#1](https://github.com/satyamksharma/Sublit-Programs/issues/1) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
+5. 🗣 Commented on [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 <hr>
