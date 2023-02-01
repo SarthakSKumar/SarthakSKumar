@@ -29,26 +29,31 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 ## ⚡ Languages, Tools and Technologies
 <table>
 <tr>
-	<td><strong>Programming Languages</strong></td>
+	<td><strong>Languages</strong></td>
 	<td><strong>Web Development</strong></td>
-	<td><strong>Editor, Tools & Cloud Services</strong></td>
-	<td><strong>IoT and Mobile Development</strong></td>
+	<td><strong>Editor & Cloud Services</strong></td>
+	<td><strong>IoT & Mobile Dev</strong></td>
+	<td><strong>Design & UI</strong></td>
 </tr>
 	<tr>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark&perline=21" height = 40></td>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark&perline=21" height = 40></td>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark&perline=21" height = 40></td>
+		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,bash,nodejs,flask,django,redis" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=vscode,codepen,mongodb,firebase,netlify,heroku,vercel&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino,androidstudio&theme=dark"></td>
+		<td rowspan=3><img src = "https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind,emotion,styledcomponents&theme=dark&perline=3"></td>
+		
 	</tr>
-	<tr>
-	<td><strong>JS Libraries and Frameworks</strong></td>
-	<td><strong>Design and UI</strong></td>
-	<td><strong>Development Utilities</strong></td>	
-	<td><strong>Other Tools</strong></td>
+<tr>
+	<td><strong>JS Frameworks</strong></td>
+	<td><strong>Utilities</strong></td>
+	<td><strong>Development Tools</strong></td>	
+	<td><strong>Tools</strong></td>
 </tr>
 	<tr>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark&perline=21" height = 40></td>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark&perline=21" height = 40></td>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark&perline=21" height = 40></td>
+		<td><img src = "https://skillicons.dev/icons?i=nextjs,jquery,express,react,redux&theme=dark"></td>
+		<td rowspan="3"><img src = "https://skillicons.dev/icons/?i=tensorflow,svg,regex,md"></td>
+		<td><img src = "https://skillicons.dev/icons?i=githubactions,nginx,git,webpack,cloudflare,github&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=ps,pr,linux,&theme=dark"></td>
 	</tr>
 	</table>
 <hr>
