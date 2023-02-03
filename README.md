@@ -30,14 +30,14 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 ## ⚡ Languages, Tools and Technologies
 <table>
 <tr>
-	<td><strong>Development Tools</strong></td>
 	<td><strong>Web Development</strong></td>
+	<td><strong>Development Tools</strong></td>
 	<td><strong>Editor & Cloud Services</strong></td>
 	
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=githubactions,postman,git,bash,gitlab,cloudflare,github&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,nodejs,flask,django,deno,babel,redis" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=githubactions,postman,git,bash,gitlab,github&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=vscode,codepen,mongodb,gcp,firebase,netlify,heroku,vercel&theme=dark"></td>
 		
 		
@@ -48,14 +48,14 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <tr>
 	<td><strong>JS Frameworks</strong></td>
 	<td><strong>Design & UI</strong></td>
-	<td><strong>Tools</strong></td>
-	<td><strong>IoT & Mobile Dev</strong></td>	
+	<td><strong>IoT</strong></td>
 	<td><strong>Languages</strong></td>
+	<td><strong>Tools</strong></td>
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=nextjs,threejs,vite,jquery,express,react,redux&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind,emotion,styledcomponents&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino,androidstudio&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=ps,pr,linux,&theme=dark"></td>
 </tr>
