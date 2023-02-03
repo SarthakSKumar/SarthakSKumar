@@ -24,34 +24,39 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 38></a>
+	
 <hr>
 
 ## ⚡ Languages, Tools and Technologies
 <table>
 <tr>
-	<td><strong>Languages</strong></td>
+	<td><strong>Development Tools</strong></td>
 	<td><strong>Web Development</strong></td>
 	<td><strong>Editor & Cloud Services</strong></td>
-	<td><strong>IoT & Mobile Dev</strong></td>
+	
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,nodejs,flask,django,redis" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=vscode,codepen,mongodb,firebase,netlify,heroku,vercel&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino,androidstudio&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=githubactions,postman,git,bash,gitlab,cloudflare,github&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,nodejs,flask,django,deno,babel,redis" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=vscode,codepen,mongodb,gcp,firebase,netlify,heroku,vercel&theme=dark"></td>
+		
 		
 		
 </tr>
+</table>
+<table>
 <tr>
 	<td><strong>JS Frameworks</strong></td>
 	<td><strong>Design & UI</strong></td>
-	<td><strong>Development Tools</strong></td>	
 	<td><strong>Tools</strong></td>
+	<td><strong>IoT & Mobile Dev</strong></td>	
+	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=nextjs,jquery,express,react,redux&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=nextjs,threejs,vite,jquery,express,react,redux&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind,emotion,styledcomponents&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=githubactions,nginx,git,bash,webpack,cloudflare,github&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino,androidstudio&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=ps,pr,linux,&theme=dark"></td>
 </tr>
 </table>
