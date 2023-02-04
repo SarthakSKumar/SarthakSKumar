@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/62) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. ❗️ Opened issue [#7](https://github.com/satyamksharma/Sublit-Programs/issues/7) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
-3. 🗣 Commented on [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. ❗️ Reopened issue [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 🎉 Merged PR [#61](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/61) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+1. 💪 Opened PR [#8](https://github.com/satyamksharma/Sublit-Programs/pull/8) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
+2. 🎉 Merged PR [#62](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/62) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. ❗️ Opened issue [#7](https://github.com/satyamksharma/Sublit-Programs/issues/7) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
+4. 🗣 Commented on [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. ❗️ Reopened issue [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 <hr>
