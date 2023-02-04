@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/61) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. 💪 Opened PR [#61](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/61) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. ❗️ Closed issue [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🎉 Merged PR [#60](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/60) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 💪 Opened PR [#5](https://github.com/satyamksharma/Sublit-Programs/pull/5) in [satyamksharma/Sublit-Programs](https://github.com/satyamksharma/Sublit-Programs)
+1. 🗣 Commented on [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. ❗️ Reopened issue [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. 🎉 Merged PR [#61](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/61) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 💪 Opened PR [#61](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/61) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. ❗️ Closed issue [#59](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/59) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 <hr>
