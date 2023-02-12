@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-2. ❌ Closed PR [#22](https://github.com/acmpesuecc/newreadmechallenge/pull/22) in [acmpesuecc/newreadmechallenge](https://github.com/acmpesuecc/newreadmechallenge)
-3. ❌ Closed PR [#3](https://github.com/acmpesuecc/8085--Assembly-instructions/pull/3) in [acmpesuecc/8085--Assembly-instructions](https://github.com/acmpesuecc/8085--Assembly-instructions)
-4. ❗️ Closed issue [#2](https://github.com/Avalojandro/cattocssweb/issues/2) in [Avalojandro/cattocssweb](https://github.com/Avalojandro/cattocssweb)
-5. ❗️ Closed issue [#6](https://github.com/soroushchehresa/github-readme-linkedin/issues/6) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+1. 🎉 Merged PR [#98](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/98) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+2. ❌ Closed PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+3. ❌ Closed PR [#22](https://github.com/acmpesuecc/newreadmechallenge/pull/22) in [acmpesuecc/newreadmechallenge](https://github.com/acmpesuecc/newreadmechallenge)
+4. ❌ Closed PR [#3](https://github.com/acmpesuecc/8085--Assembly-instructions/pull/3) in [acmpesuecc/8085--Assembly-instructions](https://github.com/acmpesuecc/8085--Assembly-instructions)
+5. ❗️ Closed issue [#2](https://github.com/Avalojandro/cattocssweb/issues/2) in [Avalojandro/cattocssweb](https://github.com/Avalojandro/cattocssweb)
 <!--END_SECTION:activity-->
   </b>
 <hr>
