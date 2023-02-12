@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/71) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. 🗣 Commented on [#69](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/69) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🗣 Commented on [#70](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/70) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🗣 Commented on [#66](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/66) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 🗣 Commented on [#68](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/68) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+1. ❌ Closed PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+2. ❌ Closed PR [#22](https://github.com/acmpesuecc/newreadmechallenge/pull/22) in [acmpesuecc/newreadmechallenge](https://github.com/acmpesuecc/newreadmechallenge)
+3. ❌ Closed PR [#3](https://github.com/acmpesuecc/8085--Assembly-instructions/pull/3) in [acmpesuecc/8085--Assembly-instructions](https://github.com/acmpesuecc/8085--Assembly-instructions)
+4. ❗️ Closed issue [#2](https://github.com/Avalojandro/cattocssweb/issues/2) in [Avalojandro/cattocssweb](https://github.com/Avalojandro/cattocssweb)
+5. ❗️ Closed issue [#6](https://github.com/soroushchehresa/github-readme-linkedin/issues/6) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
 <!--END_SECTION:activity-->
   </b>
 <hr>
