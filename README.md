@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/98) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-2. ❌ Closed PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-3. ❌ Closed PR [#22](https://github.com/acmpesuecc/newreadmechallenge/pull/22) in [acmpesuecc/newreadmechallenge](https://github.com/acmpesuecc/newreadmechallenge)
-4. ❌ Closed PR [#3](https://github.com/acmpesuecc/8085--Assembly-instructions/pull/3) in [acmpesuecc/8085--Assembly-instructions](https://github.com/acmpesuecc/8085--Assembly-instructions)
-5. ❗️ Closed issue [#2](https://github.com/Avalojandro/cattocssweb/issues/2) in [Avalojandro/cattocssweb](https://github.com/Avalojandro/cattocssweb)
+1. 🗣 Commented on [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
+2. ❗️ Opened issue [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
+3. 🎉 Merged PR [#98](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/98) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
+4. ❌ Closed PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+5. ❌ Closed PR [#22](https://github.com/acmpesuecc/newreadmechallenge/pull/22) in [acmpesuecc/newreadmechallenge](https://github.com/acmpesuecc/newreadmechallenge)
 <!--END_SECTION:activity-->
   </b>
 <hr>
