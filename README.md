@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
-2. ❗️ Opened issue [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
-3. 🎉 Merged PR [#98](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/98) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
-4. ❌ Closed PR [#403](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/403) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-5. ❌ Closed PR [#22](https://github.com/acmpesuecc/newreadmechallenge/pull/22) in [acmpesuecc/newreadmechallenge](https://github.com/acmpesuecc/newreadmechallenge)
+1. ❗️ Closed issue [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
+2. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/pull/2) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
+3. 🗣 Commented on [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
+4. ❗️ Opened issue [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
+5. 🎉 Merged PR [#98](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop/pull/98) in [SarthakSKumar/Intro-to-Git-and-Github-workshop](https://github.com/SarthakSKumar/Intro-to-Git-and-Github-workshop)
 <!--END_SECTION:activity-->
   </b>
 <hr>
