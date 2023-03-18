@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/2) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
-2. ❗️ Opened issue [#1](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/1) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
-3. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/COLLEGE-CAFETERIA/pull/1) in [SarthakSKumar/COLLEGE-CAFETERIA](https://github.com/SarthakSKumar/COLLEGE-CAFETERIA)
-4. ❗️ Closed issue [#1](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/issues/1) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
-5. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp/pull/2) in [SarthakSKumar/ImmunoDrive-India-WebApp](https://github.com/SarthakSKumar/ImmunoDrive-India-WebApp)
+1. ❗️ Opened issue [#4](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/4) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
+2. ❗️ Opened issue [#3](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/3) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
+3. ❗️ Opened issue [#2](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/2) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
+4. ❗️ Opened issue [#1](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/1) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
+5. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/COLLEGE-CAFETERIA/pull/1) in [SarthakSKumar/COLLEGE-CAFETERIA](https://github.com/SarthakSKumar/COLLEGE-CAFETERIA)
 <!--END_SECTION:activity-->
   </b>
 <hr>
