@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/anubhav1433/PESU-Cafe/pull/10) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-2. 💪 Opened PR [#9](https://github.com/anubhav1433/PESU-Cafe/pull/9) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-3. 💪 Opened PR [#8](https://github.com/anubhav1433/PESU-Cafe/pull/8) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-4. ❗️ Opened issue [#7](https://github.com/anubhav1433/PESU-Cafe/issues/7) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-5. 💪 Opened PR [#6](https://github.com/anubhav1433/PESU-Cafe/pull/6) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+1. ❗️ Closed issue [#67](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/67) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. 💪 Opened PR [#10](https://github.com/anubhav1433/PESU-Cafe/pull/10) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+3. 💪 Opened PR [#9](https://github.com/anubhav1433/PESU-Cafe/pull/9) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+4. 💪 Opened PR [#8](https://github.com/anubhav1433/PESU-Cafe/pull/8) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+5. ❗️ Opened issue [#7](https://github.com/anubhav1433/PESU-Cafe/issues/7) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
 <!--END_SECTION:activity-->
   </b>
 <hr>
