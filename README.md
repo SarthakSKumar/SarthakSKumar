@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/anubhav1433/PESU-Cafe/pull/8) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-2. ❗️ Opened issue [#7](https://github.com/anubhav1433/PESU-Cafe/issues/7) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-3. 💪 Opened PR [#6](https://github.com/anubhav1433/PESU-Cafe/pull/6) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-4. ❗️ Opened issue [#5](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/5) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
-5. ❗️ Opened issue [#4](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/4) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
+1. 💪 Opened PR [#9](https://github.com/anubhav1433/PESU-Cafe/pull/9) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+2. 💪 Opened PR [#8](https://github.com/anubhav1433/PESU-Cafe/pull/8) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+3. ❗️ Opened issue [#7](https://github.com/anubhav1433/PESU-Cafe/issues/7) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+4. 💪 Opened PR [#6](https://github.com/anubhav1433/PESU-Cafe/pull/6) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+5. ❗️ Opened issue [#5](https://github.com/anubhav1433/COLLEGE-CAFETERIA/issues/5) in [anubhav1433/COLLEGE-CAFETERIA](https://github.com/anubhav1433/COLLEGE-CAFETERIA)
 <!--END_SECTION:activity-->
   </b>
 <hr>
