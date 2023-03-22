@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/SarthakSKumar/IoTforRent-Website/issues/3) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
-2. ❗️ Opened issue [#3](https://github.com/SarthakSKumar/IoTforRent-Website/issues/3) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
-3. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/IoTforRent-Website/pull/2) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
-4. 🗣 Commented on [#1](https://github.com/SarthakSKumar/IoTforRent-Website/issues/1) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
-5. ❗️ Closed issue [#67](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/67) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+1. ❗️ Closed issue [#3](https://github.com/SarthakSKumar/IoTforRent-Website/issues/3) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
+2. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/IoTforRent-Website/pull/4) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
+3. 🗣 Commented on [#3](https://github.com/SarthakSKumar/IoTforRent-Website/issues/3) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
+4. ❗️ Opened issue [#3](https://github.com/SarthakSKumar/IoTforRent-Website/issues/3) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
+5. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/IoTforRent-Website/pull/2) in [SarthakSKumar/IoTforRent-Website](https://github.com/SarthakSKumar/IoTforRent-Website)
 <!--END_SECTION:activity-->
   </b>
 <hr>
