@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/1) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
-2. 💪 Opened PR [#1](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/1) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
-3. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/IoTforHire-Website/pull/11) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-4. 🗣 Commented on [#10](https://github.com/SarthakSKumar/IoTforHire-Website/issues/10) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-5. ❗️ Closed issue [#8](https://github.com/SarthakSKumar/IoTforHire-Website/issues/8) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+1. ❌ Closed PR [#12](https://github.com/SarthakSKumar/IoTforHire-Website/pull/12) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+2. 🗣 Commented on [#12](https://github.com/SarthakSKumar/IoTforHire-Website/issues/12) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+3. ❗️ Closed issue [#10](https://github.com/SarthakSKumar/IoTforHire-Website/issues/10) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+4. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/1) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+5. 💪 Opened PR [#1](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/1) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
 <!--END_SECTION:activity-->
   </b>
 <hr>
