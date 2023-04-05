@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/SarthakSKumar/IoTforHire-Website/pull/12) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-2. 🗣 Commented on [#12](https://github.com/SarthakSKumar/IoTforHire-Website/issues/12) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-3. ❗️ Closed issue [#10](https://github.com/SarthakSKumar/IoTforHire-Website/issues/10) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-4. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/1) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
-5. 💪 Opened PR [#1](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/1) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+1. ❗️ Closed issue [#68](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/68) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. ❌ Closed PR [#70](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/70) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. ❌ Closed PR [#71](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/71) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. ❌ Closed PR [#12](https://github.com/SarthakSKumar/IoTforHire-Website/pull/12) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+5. 🗣 Commented on [#12](https://github.com/SarthakSKumar/IoTforHire-Website/issues/12) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
 <!--END_SECTION:activity-->
   </b>
 <hr>
