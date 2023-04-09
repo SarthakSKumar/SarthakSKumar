@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#69](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/69) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. 🎉 Merged PR [#72](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/72) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🗣 Commented on [#72](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/72) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🎉 Merged PR [#13](https://github.com/SarthakSKumar/IoTforHire-Website/pull/13) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-5. ❗️ Closed issue [#2](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/2) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+1. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/IoTforHire-Website/pull/15) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+2. 🗣 Commented on [#14](https://github.com/SarthakSKumar/IoTforHire-Website/issues/14) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+3. 🗣 Commented on [#73](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/73) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. ❗️ Opened issue [#78](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/78) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. ❗️ Opened issue [#77](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/77) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 <hr>
