@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/79) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/IoTforHire-Website/pull/15) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-3. 🗣 Commented on [#14](https://github.com/SarthakSKumar/IoTforHire-Website/issues/14) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-4. 🗣 Commented on [#73](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/73) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. ❗️ Opened issue [#78](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/78) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+1. ❗️ Closed issue [#73](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/73) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. 🎉 Merged PR [#79](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/79) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/IoTforHire-Website/pull/15) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+4. 🗣 Commented on [#14](https://github.com/SarthakSKumar/IoTforHire-Website/issues/14) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+5. 🗣 Commented on [#73](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/73) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 <hr>
