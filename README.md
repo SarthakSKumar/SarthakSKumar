@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/hack2skill/electhon-submission/pull/21) in [hack2skill/electhon-submission](https://github.com/hack2skill/electhon-submission)
-2. ❗️ Closed issue [#73](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/73) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🎉 Merged PR [#79](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/79) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/IoTforHire-Website/pull/15) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-5. 🗣 Commented on [#14](https://github.com/SarthakSKumar/IoTforHire-Website/issues/14) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+1. ❗️ Closed issue [#3](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/3) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+2. 💪 Opened PR [#21](https://github.com/hack2skill/electhon-submission/pull/21) in [hack2skill/electhon-submission](https://github.com/hack2skill/electhon-submission)
+3. ❗️ Closed issue [#73](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/73) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 🎉 Merged PR [#79](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/79) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/IoTforHire-Website/pull/15) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
 <!--END_SECTION:activity-->
   </b>
 <hr>
