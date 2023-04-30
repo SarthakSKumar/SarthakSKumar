@@ -36,7 +36,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,nodejs,flask,django,deno,babel,redis" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,nodejs,flask,deno,babel" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=githubactions,postman,git,bash,gitlab,github&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=vscode,codepen,mongodb,gcp,firebase,netlify,heroku,vercel&theme=dark"></td>
 		
@@ -53,7 +53,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=nextjs,threejs,vite,jquery,express,react,redux&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=nextjs,vite,jquery,express,react,redux&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind,emotion,styledcomponents&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"></td>
 		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark"></td>
