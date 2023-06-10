@@ -91,11 +91,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/SarthakSKumar/Chatroom-App/pull/21) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-2. 🎉 Merged PR [#22](https://github.com/SarthakSKumar/Chatroom-App/pull/22) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-3. 🎉 Merged PR [#80](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/80) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 💪 Opened PR [#5](https://github.com/seanhouli/react-mapbox-search/pull/5) in [seanhouli/react-mapbox-search](https://github.com/seanhouli/react-mapbox-search)
-5. 🔒 Closed issue [#3](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/3) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+1. 🎉 Merged PR [#16](https://github.com/SarthakSKumar/IoTforHire-Website/pull/16) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
+2. 🎉 Merged PR [#21](https://github.com/SarthakSKumar/Chatroom-App/pull/21) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+3. 🎉 Merged PR [#22](https://github.com/SarthakSKumar/Chatroom-App/pull/22) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+4. 🎉 Merged PR [#80](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/80) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. 💪 Opened PR [#5](https://github.com/seanhouli/react-mapbox-search/pull/5) in [seanhouli/react-mapbox-search](https://github.com/seanhouli/react-mapbox-search)
 <!--END_SECTION:activity-->
   </b>
 <hr>
