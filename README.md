@@ -28,36 +28,33 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <hr>
 
 ## ⚡ Languages, Tools and Technologies
+	
 <table>
 <tr>
-	<td><strong>Web Development</strong></td>
-	<td><strong>Development Tools</strong></td>
-	<td><strong>Editor & Cloud Services</strong></td>
-	
+	<td><strong>Frontend & Design</strong></td>
+	<td><strong>DevOps & Deployment</strong></td>
+	<td><strong>Version Control</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,nodejs,flask,deno,babel" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=githubactions,postman,git,bash,gitlab,github&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=vscode,codepen,mongodb,gcp,firebase,netlify,heroku,vercel&theme=dark"></td>
-		
-		
-		
+	<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" ></td>
+	<td><img src = "https://skillicons.dev/icons?i=docker,aws,githubactions,netlify,heroku,vercel,gcp&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark"></td>
 </tr>
 </table>
 <table>
 <tr>
-	<td><strong>JS Frameworks</strong></td>
-	<td><strong>Design & UI</strong></td>
-	<td><strong>IoT</strong></td>
+	<td><strong>Backend & Databases</strong></td>
+	<td><strong>API & Testing</strong></td>
+	<td><strong>Editors</strong></td>
 	<td><strong>Languages</strong></td>
-	<td><strong>Tools</strong></td>
+	<td><strong>Miscellaneous</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=nextjs,vite,jquery,express,react,redux&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind,emotion,styledcomponents&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=c,java,cpp,py&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=ps,pr,linux,&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,graphql,firebase&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=nodejs,express,postman,graphql,supabase&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=md,svg,raspberrypi,arduino,linux&theme=dark"></td>
 </tr>
 </table>
 <hr>
