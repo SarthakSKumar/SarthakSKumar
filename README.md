@@ -37,7 +37,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	<td><strong>Editors</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" ></td>
+	<td><img src = "https://skillicons.dev/icons?i=js,react,redux,nextjs,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" ></td>
 	<td><img src = "https://skillicons.dev/icons?i=docker,aws,githubactions,netlify,heroku,vercel,gcp&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark"></td>
