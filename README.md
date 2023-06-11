@@ -54,7 +54,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	<td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,graphql,firebase&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=express,postman,graphql,supabase&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark"></td>
 </tr>
 </table>
 <hr>
