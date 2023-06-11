@@ -135,4 +135,3 @@ If your looking for anyone to spice up your experience, Sarthak is who I would r
 ### Show some ❤️ by starring 🌟 some of my repos!
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=SarthakSKumar">
