@@ -51,8 +51,8 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	<td><strong>Miscellaneous</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,graphql,firebase&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=express,postman,graphql,supabase&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark"></td>
 </tr>
