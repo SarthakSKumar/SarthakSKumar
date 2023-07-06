@@ -88,11 +88,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/82) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. ❌ Closed PR [#81](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/81) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🗣 Commented on [#81](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/81) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🔒 Closed issue [#23](https://github.com/SarthakSKumar/Chatroom-App/issues/23) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
-5. ❗ Opened issue [#23](https://github.com/SarthakSKumar/Chatroom-App/issues/23) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
+1. 🗣 Commented on [#83](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/83) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. 🗣 Commented on [#82](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/82) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. ❌ Closed PR [#81](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/81) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 🗣 Commented on [#81](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/81) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. 🔒 Closed issue [#23](https://github.com/SarthakSKumar/Chatroom-App/issues/23) in [SarthakSKumar/Chatroom-App](https://github.com/SarthakSKumar/Chatroom-App)
 <!--END_SECTION:activity-->
   </b>
 <hr>
