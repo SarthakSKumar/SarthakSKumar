@@ -106,22 +106,22 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/ritika-chauhan-687055208"><b>Ritika Chauhan</b></a></td>
-		<td>Sarthak joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethics are commendable. 
-He was very proactive and great team player throughout his internship. 
-He always gave suggestions in ways the work cultute can be improved for the comapny and to become more accommodating for all.
+		<td>Sarthak joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethic are commendable. 
+He was very proactive and a great team player throughout his internship. 
+He always gave suggestions in ways the work culture can be improved for the company and to become more accommodating for all.
 I will be more than happy to recommend Sarthak if you are looking for someone with enduring dedication towards his work.</td>
 		<td>HR Executive</td>
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/rajath-01b605213"><b>Rajath Kumar J</b></a></td>
-		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Sarthak was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
+		<td>If anyone is looking for creative-minded programmer then you must take a look at Sarthak's profile. My work experience with Sarthak was filled with the right guidance and satisfaction. A mentor, coder and a person with a golden heart</td>
 		<td>Digital Marketing, Copywriting</td>
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/sherone-d-souza-9a497b180"><b>Sherone D'Souza</b></a></td>
-		<td>Talented yet creative, Sarthak is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
+		<td>Talented yet creative, Sarthak is an out-of-the-box thinker and a great leader. He is indeed a pleasure to work with.
 Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
-If your looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
+If you're looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
 		<td>CSE Student, MIT Manipal</td>
 	</tr>
 	<table>
