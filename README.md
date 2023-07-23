@@ -88,11 +88,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate/issues/1) in [theyashwanthsai/Full-Stack-AI-App-boilerplate](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate)
-2. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/1) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
-3. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/2) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
-4. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/3) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
-5. 🔒 Closed issue [#82](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/82) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+1. 🗣 Commented on [#2819](https://github.com/nodejs/node-gyp/issues/2819#issuecomment-1646799064) in [nodejs/node-gyp](https://github.com/nodejs/node-gyp)
+2. ❗ Opened issue [#1](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate/issues/1) in [theyashwanthsai/Full-Stack-AI-App-boilerplate](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate)
+3. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/1) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
+4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/2) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
+5. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/3) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
 <!--END_SECTION:activity-->
   </b>
 <hr>
