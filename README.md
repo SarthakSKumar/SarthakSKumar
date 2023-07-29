@@ -88,11 +88,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	
 ## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2819](https://github.com/nodejs/node-gyp/issues/2819#issuecomment-1646799064) in [nodejs/node-gyp](https://github.com/nodejs/node-gyp)
-2. ❗ Opened issue [#1](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate/issues/1) in [theyashwanthsai/Full-Stack-AI-App-boilerplate](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate)
-3. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/1) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
-4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/2) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
-5. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/3) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
+1. 🎉 Merged PR [#10](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/10) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+2. 💪 Opened PR [#10](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/10) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+3. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/6) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+4. 🎉 Merged PR [#8](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/8) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+5. 🎉 Merged PR [#9](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/9) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
 <!--END_SECTION:activity-->
   </b>
 <hr>
