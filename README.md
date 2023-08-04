@@ -14,7 +14,7 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 - 🔭 Check out my <a href="https://sarthakskumar.github.io"><b>Portfolio Website</b></a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🪶 I try to offer my contribution which realises the power of community.
-- 👯 I am open for collaboration with creators, developers and tech enthusiasts.
+- 👯 I am open to collaboration with creators, developers and tech enthusiasts.
 - 🚢 Keen on developing my skill set and putting it to use.<br>
 <hr>
 
