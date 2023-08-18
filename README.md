@@ -84,7 +84,6 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
 	</tr>
 	</table>
-<hr>
 <details>
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
@@ -97,7 +96,6 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <!--END_SECTION:activity-->
   </b>
 </details>
-<hr>
 <details>
 <summary><h2>📝 Testimonials</h2></summary>
 <table>
@@ -128,7 +126,6 @@ If you're looking for anyone to spice up your experience, Sarthak is who I would
 	</tr>
 </table>
 </details>
-<hr>	
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
 <div align = "center">
