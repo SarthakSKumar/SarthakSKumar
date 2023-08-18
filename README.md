@@ -3,7 +3,6 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 <img src='README_Banner.png' alt="banner"></img>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <b>A 20-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
@@ -105,6 +104,18 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		<td><b>Designation/Activity</b></td>
 	</tr>
 	<tr>
+		<td><a href="https://www.linkedin.com/in/bilal-meccai-a3b6a7168"><b>Bilal Meccai</b></a></td>
+		<td>Sarthak is a very determined individual who is very knowledgeable In his domain of programming. I got the opportunity to learn Python programming hosted by Sarthak and his team ( fusion) where I got to experience basics to advance levels of Python programming. Sarthak is also a Keen learner and can give guidance when it comes to Web development. A robust personality. Would highly recommend Sarthak.</td>
+		<td>DevOps Engineer | Information System Administration</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/vikram-sujive"><b>Vikram Sujive</b></a></td>
+		<td>Sarthak has helped design several promotional materials and creative assets for our college club, Shunya and its events of various scales. As the former Head of Design of the club, I have had the pleasure of working closely with Sarthak on several occasions, and his creativity, attention to detail, and professionalism have always made him one of the leading designers/ club members.
+
+Sarthak has an exceptional ability to take whatever resources and turn them into visually stunning designs. He has consistently delivered high-quality work, often exceeding our expectations, and has always been willing to go the extra mile to ensure that we are satisfied with the final product. There have been occasions where he has learnt the basics of software in order to get a design done in a specific manner. He is also very open to suggestions/ feedback and is very trustworthy.</td>
+		<td>Transportation Mobility Systems Engineer</td>
+	</tr>
+	<tr>
 		<td><a href="https://www.linkedin.com/in/ritika-chauhan-687055208"><b>Ritika Chauhan</b></a></td>
 		<td>Sarthak joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethic are commendable. 
 He was very proactive and a great team player throughout his internship. 
@@ -126,10 +137,11 @@ If you're looking for anyone to spice up your experience, Sarthak is who I would
 	</tr>
 </table>
 </details>
+<hr>
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
 <div align = "center">
-<h3><b>Visitors Count 👁️</b></h3>
+<h3><b>Visits Count 👁️</b></h3>
 <img width = 25% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
  
 ### Show some ❤️ by starring 🌟 some of my repos!
