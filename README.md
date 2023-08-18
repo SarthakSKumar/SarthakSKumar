@@ -96,7 +96,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
   </b>
 </details>
 <details>
-<summary><h2>📝 Testimonials</h2></summary>
+<summary><h2>📝 Testimonials and Recommendations</h2></summary>
 <table>
 	<tr align="center">
 		<td><b>Name</b></td>
