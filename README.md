@@ -85,8 +85,9 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	</tr>
 	</table>
 <hr>
+<details>
+<summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
-## ✒️ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate/pull/2) in [theyashwanthsai/Full-Stack-AI-App-boilerplate](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate)
 2. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/11) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
@@ -95,9 +96,10 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 5. 🔒 Closed issue [#7](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/7) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
 <!--END_SECTION:activity-->
   </b>
+</details>
 <hr>
-
-## 📝 Testimonials
+<details>
+<summary><h2>📝 Testimonials</h2></summary>
 <table>
 	<tr align="center">
 		<td><b>Name</b></td>
@@ -114,7 +116,7 @@ I will be more than happy to recommend Sarthak if you are looking for someone wi
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/rajath-01b605213"><b>Rajath Kumar J</b></a></td>
-		<td>If anyone is looking for creative-minded programmer then you must take a look at Sarthak's profile. My work experience with Sarthak was filled with the right guidance and satisfaction. A mentor, coder and a person with a golden heart</td>
+		<td>If anyone is looking for a creative-minded programmer then you must take a look at Sarthak's profile. My work experience with Sarthak was filled with the right guidance and satisfaction. A mentor, coder and a person with a golden heart</td>
 		<td>Digital Marketing, Copywriting</td>
 	</tr>
 	<tr>
@@ -124,8 +126,9 @@ Besides having a great sense of humor he is a systematic organizer and an innova
 If you're looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
 		<td>CSE Student, MIT Manipal</td>
 	</tr>
-	<table>
-<hr>
+</table>
+</details>
+<hr>	
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
 <div align = "center">
