@@ -87,11 +87,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate/pull/2) in [theyashwanthsai/Full-Stack-AI-App-boilerplate](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate)
-2. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/11) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
-3. 🔒 Closed issue [#7](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/7) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
-4. 🔒 Reopened issue [#7](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/7) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
-5. 🔒 Closed issue [#7](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/7) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+1. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/SarthakSKumar/pull/3) in [SarthakSKumar/SarthakSKumar](https://github.com/SarthakSKumar/SarthakSKumar)
+2. 💪 Opened PR [#2](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate/pull/2) in [theyashwanthsai/Full-Stack-AI-App-boilerplate](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate)
+3. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/11) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+4. 🔒 Closed issue [#7](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/7) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+5. 🔒 Reopened issue [#7](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/issues/7) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
 <!--END_SECTION:activity-->
   </b>
 </details>
