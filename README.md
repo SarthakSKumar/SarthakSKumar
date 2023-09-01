@@ -4,7 +4,7 @@ or use it. It helps me a lot.
 -->
 <img src='README_Banner.png' alt="banner"></img>
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
-<b>A 20-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
+<b>A 20-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
 I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 
@@ -100,7 +100,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <table>
 	<tr align="center">
 		<td><b>Name</b></td>
-		<td><b>Thoughts on me</b></td>
+		<td><b>Thoughts</b></td>
 		<td><b>Designation/Activity</b></td>
 	</tr>
 	<tr>
