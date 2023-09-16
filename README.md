@@ -58,14 +58,6 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 </table>
 <hr>
 
-## 🥇 Open Source Projects: Open for Contributions
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SarthakSKumar) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/SarthakSKumar)
-| Project:octocat: | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire:
-|----------------- |-------------------|---|---|---|---
-| [**IoT Projects and Scripts**](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/forks) | [![GitHub Issues](https://img.shields.io/github/issues/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/SarthakSKumar/IoT-Projects-and-Scripts?style=flat&logo=github)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/SarthakSKumar/IoT-Projects-and-Scripts?style=flat&color=critical&logo=github)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pulls?q=is%3Apr+is%3Aclosed)
-| [**Chatroom-App**](https://github.com/SarthakSKumar/Chatroom-App) | [![GitHub Stars](https://img.shields.io/github/stars/SarthakSKumar/Chatroom-App?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/Chatroom-App/stars) | [![GitHub Forks](https://img.shields.io/github/forks/SarthakSKumar/Chatroom-App?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/Chatroom-App/forks) | [![GitHub Issues](https://img.shields.io/github/issues/SarthakSKumar/Chatroom-App?style=flat-square)](https://github.com/SarthakSKumar/Chatroom-App/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/SarthakSKumar/Chatroom-App?style=flat&logo=github)](https://github.com/SarthakSKumar/Chatroom-App/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/SarthakSKumar/Chatroom-App?style=flat&color=critical&logo=github)](https://github.com/SarthakSKumar/Chatroom-App/pulls?q=is%3Apr+is%3Aclosed)
-<hr>
-
 ## 📊 Metrics
 <table>
 	<tr>
