@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/seanhouli/react-mapbox-search/pull/5) in [seanhouli/react-mapbox-search](https://github.com/seanhouli/react-mapbox-search)
-2. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/Dash-Analytica-2023/pull/3) in [SarthakSKumar/Dash-Analytica-2023](https://github.com/SarthakSKumar/Dash-Analytica-2023)
-3. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/SarthakSKumar/pull/3) in [SarthakSKumar/SarthakSKumar](https://github.com/SarthakSKumar/SarthakSKumar)
-4. 💪 Opened PR [#2](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate/pull/2) in [theyashwanthsai/Full-Stack-AI-App-boilerplate](https://github.com/theyashwanthsai/Full-Stack-AI-App-boilerplate)
-5. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface/pull/11) in [SarthakSKumar/Smart-Home-Automation-With-Web-Interface](https://github.com/SarthakSKumar/Smart-Home-Automation-With-Web-Interface)
+1. 🔒 Closed issue [#75](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/75) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. 🔒 Closed issue [#74](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/74) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. 🔒 Closed issue [#9](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/9) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 🎉 Merged PR [#84](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/84) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. ❌ Closed PR [#5](https://github.com/seanhouli/react-mapbox-search/pull/5) in [seanhouli/react-mapbox-search](https://github.com/seanhouli/react-mapbox-search)
 <!--END_SECTION:activity-->
   </b>
 </details>
