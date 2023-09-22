@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/23) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. 🎉 Merged PR [#22](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/22) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-3. 🎉 Merged PR [#17](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/17) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-4. ❌ Closed PR [#21](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/21) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-5. 🗣 Commented on [#21](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/21#issuecomment-1731749528) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+1. ❌ Closed PR [#18](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/18) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+2. ❌ Closed PR [#3](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/3) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+3. 🎉 Merged PR [#23](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/23) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+4. 🎉 Merged PR [#22](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/22) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+5. 🎉 Merged PR [#17](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/17) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
