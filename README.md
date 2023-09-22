@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#75](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/75) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. 🔒 Closed issue [#74](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/74) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🔒 Closed issue [#9](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/9) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🎉 Merged PR [#84](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/84) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. ❌ Closed PR [#5](https://github.com/seanhouli/react-mapbox-search/pull/5) in [seanhouli/react-mapbox-search](https://github.com/seanhouli/react-mapbox-search)
+1. 🎉 Merged PR [#10](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/10) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+2. 🗣 Commented on [#8](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/8#issuecomment-1731535098) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+3. 🗣 Commented on [#7](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/7#issuecomment-1731532312) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+4. 🗣 Commented on [#5](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/5#issuecomment-1731530807) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+5. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/4) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
