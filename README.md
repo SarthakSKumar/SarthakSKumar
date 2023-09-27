@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/47) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. 🎉 Merged PR [#46](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/46) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-3. 🎉 Merged PR [#44](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/44) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-4. 🎉 Merged PR [#45](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/45) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-5. 🎉 Merged PR [#12](https://github.com/SarthakSKumar/Notes-Web-App/pull/12) in [SarthakSKumar/Notes-Web-App](https://github.com/SarthakSKumar/Notes-Web-App)
+1. ❌ Closed PR [#2](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/2) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+2. 🎉 Merged PR [#48](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/48) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+3. 🎉 Merged PR [#49](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/49) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+4. 🎉 Merged PR [#47](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/47) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+5. 🎉 Merged PR [#46](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/46) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
