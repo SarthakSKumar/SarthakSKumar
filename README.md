@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/SarthakSKumar/hacktoberfest-template/issues/1) in [SarthakSKumar/hacktoberfest-template](https://github.com/SarthakSKumar/hacktoberfest-template)
-2. 🗣 Commented on [#1](https://github.com/SarthakSKumar/hacktoberfest-template/issues/1#issuecomment-1742770774) in [SarthakSKumar/hacktoberfest-template](https://github.com/SarthakSKumar/hacktoberfest-template)
-3. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/QuickSend/pull/1) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-4. 💪 Opened PR [#1](https://github.com/SarthakSKumar/QuickSend/pull/1) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-5. 🎉 Merged PR [#62](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/62) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+1. 🎉 Merged PR [#70](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/70) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+2. 🔒 Closed issue [#1](https://github.com/SarthakSKumar/hacktoberfest-template/issues/1) in [SarthakSKumar/hacktoberfest-template](https://github.com/SarthakSKumar/hacktoberfest-template)
+3. 🗣 Commented on [#1](https://github.com/SarthakSKumar/hacktoberfest-template/issues/1#issuecomment-1742770774) in [SarthakSKumar/hacktoberfest-template](https://github.com/SarthakSKumar/hacktoberfest-template)
+4. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/QuickSend/pull/1) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+5. 💪 Opened PR [#1](https://github.com/SarthakSKumar/QuickSend/pull/1) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
 <!--END_SECTION:activity-->
   </b>
 </details>
