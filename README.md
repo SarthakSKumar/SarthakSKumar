@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/71) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. 🎉 Merged PR [#70](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/70) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-3. 🔒 Closed issue [#1](https://github.com/SarthakSKumar/hacktoberfest-template/issues/1) in [SarthakSKumar/hacktoberfest-template](https://github.com/SarthakSKumar/hacktoberfest-template)
-4. 🗣 Commented on [#1](https://github.com/SarthakSKumar/hacktoberfest-template/issues/1#issuecomment-1742770774) in [SarthakSKumar/hacktoberfest-template](https://github.com/SarthakSKumar/hacktoberfest-template)
-5. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/QuickSend/pull/1) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+1. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/5) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+2. 💪 Opened PR [#5](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/5) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+3. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/4) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+4. 💪 Opened PR [#4](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/4) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+5. 🎉 Merged PR [#71](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/71) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
