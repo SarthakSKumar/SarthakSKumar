@@ -10,7 +10,7 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 
 <a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="250" alt="Sarthak S Kumar's Dev Card"></a>
 
-- 🔭 Check out my <a href="https://sarthakskumar.github.io"><b>Portfolio Website</b></a>
+- 🔭 Check out my <a href="https://sarthakskumar.com"><b>Portfolio Website</b></a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🪶 I try to offer my contribution which realises the power of community.
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.
@@ -18,7 +18,7 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 <hr>
 
 ## 📩 Connect with me
-Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:sskworld9742@gmail.com"><b>here</b><br><br>
+Don't hesitate to ping me🤝. If you are interested in discussing this further, I'm always open to a conversation!!✔ Shoot me an email <a href = "mailto:sskworld9742@gmail.com"><b>here</b><br><br>
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
