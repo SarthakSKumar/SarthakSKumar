@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/5) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-2. 💪 Opened PR [#5](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/5) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-3. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/4) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-4. 💪 Opened PR [#4](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/4) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-5. 🎉 Merged PR [#71](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/71) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+1. 🎉 Merged PR [#72](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/72) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+2. 🎉 Merged PR [#73](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/73) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+3. 🎉 Merged PR [#5](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/5) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+4. 💪 Opened PR [#5](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/5) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+5. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/4) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
 <!--END_SECTION:activity-->
   </b>
 </details>
