@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/93) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. 🎉 Merged PR [#90](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/90) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-3. 🎉 Merged PR [#89](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/89) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-4. 🎉 Merged PR [#88](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/88) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-5. 🎉 Merged PR [#79](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/79) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+1. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/Progress-Pro-Web-App/pull/1) in [SarthakSKumar/Progress-Pro-Web-App](https://github.com/SarthakSKumar/Progress-Pro-Web-App)
+2. 💪 Opened PR [#1](https://github.com/SarthakSKumar/Progress-Pro-Web-App/pull/1) in [SarthakSKumar/Progress-Pro-Web-App](https://github.com/SarthakSKumar/Progress-Pro-Web-App)
+3. 🎉 Merged PR [#93](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/93) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+4. 🎉 Merged PR [#90](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/90) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+5. 🎉 Merged PR [#89](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/89) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
