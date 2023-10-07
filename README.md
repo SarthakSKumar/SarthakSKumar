@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/34) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. ❌ Closed PR [#76](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/76) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-3. ❌ Closed PR [#98](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/98) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-4. ❌ Closed PR [#104](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/104) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-5. 🎉 Merged PR [#105](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/105) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+1. 🔒 Closed issue [#1](https://github.com/SarthakSKumar/Plexi/issues/1) in [SarthakSKumar/Plexi](https://github.com/SarthakSKumar/Plexi)
+2. ❗ Opened issue [#1](https://github.com/SarthakSKumar/Plexi/issues/1) in [SarthakSKumar/Plexi](https://github.com/SarthakSKumar/Plexi)
+3. 🎉 Merged PR [#34](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/34) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+4. ❌ Closed PR [#76](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/76) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+5. ❌ Closed PR [#98](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/98) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
