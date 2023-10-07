@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/86) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. 🎉 Merged PR [#77](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/77) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-3. 🎉 Merged PR [#83](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/83) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-4. 🎉 Merged PR [#43](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/43) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-5. 🎉 Merged PR [#75](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/75) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+1. ❌ Closed PR [#98](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/98) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+2. ❌ Closed PR [#104](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/104) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+3. 🎉 Merged PR [#105](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/105) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+4. 🎉 Merged PR [#106](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/106) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+5. ❌ Closed PR [#107](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/107) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
