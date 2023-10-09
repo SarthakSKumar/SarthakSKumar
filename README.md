@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/110) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. 🔒 Closed issue [#1](https://github.com/SarthakSKumar/Plexi/issues/1) in [SarthakSKumar/Plexi](https://github.com/SarthakSKumar/Plexi)
-3. ❗ Opened issue [#1](https://github.com/SarthakSKumar/Plexi/issues/1) in [SarthakSKumar/Plexi](https://github.com/SarthakSKumar/Plexi)
-4. 🎉 Merged PR [#34](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/34) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-5. ❌ Closed PR [#76](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/76) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+1. ❗ Opened issue [#5](https://github.com/SarthakSKumar/QuickSend/issues/5) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+2. 🎉 Merged PR [#3](https://github.com/SarthakSKumar/QuickSend/pull/3) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+3. ❗ Opened issue [#4](https://github.com/SarthakSKumar/QuickSend/issues/4) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/QuickSend/pull/2) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+5. 💪 Opened PR [#2](https://github.com/SarthakSKumar/QuickSend/pull/2) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
 <!--END_SECTION:activity-->
   </b>
 </details>
