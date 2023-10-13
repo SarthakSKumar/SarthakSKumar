@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#111](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/111) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-2. 🗣 Commented on [#111](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/111#issuecomment-1760682908) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
-3. 🗣 Commented on [#4](https://github.com/SarthakSKumar/QuickSend/issues/4#issuecomment-1760682288) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-4. 🗣 Commented on [#7](https://github.com/SarthakSKumar/QuickSend/pull/7#issuecomment-1760681458) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-5. 🗣 Commented on [#6](https://github.com/SarthakSKumar/QuickSend/issues/6#issuecomment-1760680188) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+1. 🗣 Commented on [#9](https://github.com/SarthakSKumar/QuickSend/issues/9#issuecomment-1761828576) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+2. 🗣 Commented on [#8](https://github.com/SarthakSKumar/QuickSend/issues/8#issuecomment-1761828325) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+3. 🗣 Commented on [#5](https://github.com/SarthakSKumar/QuickSend/issues/5#issuecomment-1761827059) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+4. ❌ Closed PR [#111](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/111) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
+5. 🗣 Commented on [#111](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023/pull/111#issuecomment-1760682908) in [SarthakSKumar/Next.js-13-PESU_IO-2023](https://github.com/SarthakSKumar/Next.js-13-PESU_IO-2023)
 <!--END_SECTION:activity-->
   </b>
 </details>
