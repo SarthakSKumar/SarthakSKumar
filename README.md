@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/QuickSend/pull/15) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-2. 💪 Opened PR [#15](https://github.com/SarthakSKumar/QuickSend/pull/15) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-3. 🗣 Commented on [#13](https://github.com/SarthakSKumar/QuickSend/issues/13#issuecomment-1767563193) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-4. 🗣 Commented on [#5](https://github.com/SarthakSKumar/QuickSend/issues/5#issuecomment-1766021859) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-5. 🔒 Closed issue [#4](https://github.com/SarthakSKumar/QuickSend/issues/4) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+1. 🗣 Commented on [#5](https://github.com/SarthakSKumar/QuickSend/issues/5#issuecomment-1769021732) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+2. 🔒 Closed issue [#5](https://github.com/SarthakSKumar/QuickSend/issues/5) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+3. 🎉 Merged PR [#16](https://github.com/SarthakSKumar/QuickSend/pull/16) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+4. 💪 Opened PR [#16](https://github.com/SarthakSKumar/QuickSend/pull/16) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+5. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/QuickSend/pull/15) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
 <!--END_SECTION:activity-->
   </b>
 </details>
