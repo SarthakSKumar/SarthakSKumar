@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/85) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-2. 🎉 Merged PR [#86](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/86) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🗣 Commented on [#78](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/78#issuecomment-1771156565) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🗣 Commented on [#77](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/77#issuecomment-1771145104) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 🗣 Commented on [#17](https://github.com/SarthakSKumar/QuickSend/issues/17#issuecomment-1771132384) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+1. 🗣 Commented on [#78](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/78#issuecomment-1772764283) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+2. 🎉 Merged PR [#85](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/85) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. 🎉 Merged PR [#86](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/86) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 🗣 Commented on [#78](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/78#issuecomment-1771156565) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+5. 🗣 Commented on [#77](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/77#issuecomment-1771145104) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
   </b>
 </details>
