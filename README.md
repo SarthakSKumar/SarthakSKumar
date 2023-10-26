@@ -79,11 +79,11 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <summary><h2>✒️ Recent GitHub Activity</h1></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/SarthakSKumar/QuickSend/issues/13#issuecomment-1779416168) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-2. 🎉 Merged PR [#11](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/11) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
-3. 🎉 Merged PR [#4](https://github.com/SarthakSKumar/Portfolio-Website/pull/4) in [SarthakSKumar/Portfolio-Website](https://github.com/SarthakSKumar/Portfolio-Website)
-4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/Next.js-13-Tailwind-Boilerplate/pull/2) in [SarthakSKumar/Next.js-13-Tailwind-Boilerplate](https://github.com/SarthakSKumar/Next.js-13-Tailwind-Boilerplate)
-5. 🎉 Merged PR [#10](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023/pull/10) in [SarthakSKumar/PVL-Assessment-Feb2023](https://github.com/SarthakSKumar/PVL-Assessment-Feb2023)
+1. 🗣 Commented on [#13](https://github.com/SarthakSKumar/QuickSend/issues/13#issuecomment-1780347712) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+2. 🗣 Commented on [#9](https://github.com/SarthakSKumar/QuickSend/issues/9#issuecomment-1780347270) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+3. 🔒 Closed issue [#8](https://github.com/SarthakSKumar/QuickSend/issues/8) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+4. 🎉 Merged PR [#19](https://github.com/SarthakSKumar/QuickSend/pull/19) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+5. ❌ Closed PR [#20](https://github.com/SarthakSKumar/QuickSend/pull/20) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
 <!--END_SECTION:activity-->
   </b>
 </details>
