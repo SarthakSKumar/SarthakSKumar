@@ -11,10 +11,10 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 <a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="250" alt="Sarthak S Kumar's Dev Card"></a>
 
 - 🔭 Check out my <a href="https://sarthakskumar.com"><b>Portfolio Website</b></a>
-- 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
-- 🪶 I try to offer my contribution which realises the power of community.
-- 👯 I am open to collaboration with creators, developers and tech enthusiasts.
-- 🚢 Keen on developing my skill set and putting it to use.<br>
+- 🌱 I look for opportunities to use my skills to solve challenging real-world problems
+- 🪶 I try to offer my contribution which realises the power of community
+- 👯 I am open to collaboration with creators, developers and tech enthusiasts
+- 🚢 Keen on developing my skill set and putting it to use<br>
 <hr>
 
 ## 📩 Connect with me
