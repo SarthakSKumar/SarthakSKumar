@@ -14,7 +14,8 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
 - 🪶 I try to offer my contribution which realises the power of community
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts
-- 🚢 Keen on developing my skill set and putting it to use<br>
+- 🚢 Keen on developing my skill set and putting it to use<be>
+
 <hr>
 
 ## 📩 Connect with me
@@ -137,7 +138,10 @@ If you're looking for anyone to spice up your experience, Sarthak is who I would
 <img width = 25% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
  
 ### Show some ❤️ by starring 🌟 some of my repos!
+
+[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
+
