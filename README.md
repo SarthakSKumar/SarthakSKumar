@@ -19,7 +19,7 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 <hr>
 
 ## 📩 Connect with me
-Don't hesitate to ping me🤝. If you are interested in discussing this further, I'm always open to a conversation!!✔ Shoot me an email <a href = "mailto:sskworld9742@gmail.com"><b>here</b><br><br>
+Don't hesitate to ping me🤝. If you are interested in discussing this further, I'm always open to a conversation!!✔ Shoot me an email <a href = "mailto:sarthakskumar7@gmail.com"><b>here</b><br><br>
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
