@@ -6,7 +6,7 @@ or use it. It helps me a lot.
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <b>A 20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
-I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
+I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc
 
 <a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="250" alt="Sarthak S Kumar's Dev Card"></a>
 
