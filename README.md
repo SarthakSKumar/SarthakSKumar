@@ -2,7 +2,7 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
-<img src='README_Banner.png' alt="banner"></img>
+<img src='README_Banner.png' alt="Sarthak S Kumar | README Banner"></img>
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <b>A 20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
