@@ -6,20 +6,19 @@ or use it. It helps me a lot.
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <b>A 20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
-I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc
 
 <a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="250" alt="Sarthak S Kumar's Dev Card"></a>
 
 - 🔭 Check out my <a href="https://sarthakskumar.com"><b>Portfolio Website</b></a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
-- 🪶 I try to offer my contribution which realises the power of community
+- 🪶 I try to offer my contribution realising the power of community
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts
 - 🚢 Keen on developing my skill set and putting it to use<be>
 
 <hr>
 
 ## 📩 Connect with me
-Don't hesitate to ping me🤝. If you are interested in discussing this further, I'm always open to a conversation!!✔ Shoot me an email <a href = "mailto:sarthakskumar7@gmail.com"><b>here</b><br><br>
+Don't hesitate to ping me🤝. I'm always open to a conversation!!✔ Shoot me an email <a href = "mailto:sarthakskumar7@gmail.com"><b>here</b><br><br>
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
