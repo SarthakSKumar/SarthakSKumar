@@ -15,15 +15,14 @@ or use it. It helps me a lot.
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
 - 🪶 I try to offer my contribution by realising the power of community
 - 👯 I am eager to collaborate with fellow creators, developers, and tech enthusiasts.
-
+  
+[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
+[![committers.top badge](https://user-badge.committers.top/india/SarthakSKumar.svg)](https://user-badge.committers.top/india/SarthakSKumar)
 ### Let's Connect 🚀
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 35></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 35></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 35></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 35></a>
-
-[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
-[![committers.top badge](https://user-badge.committers.top/india/SarthakSKumar.svg)](https://user-badge.committers.top/india/SarthakSKumar)
 
 <hr>
 <details>
