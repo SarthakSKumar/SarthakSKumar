@@ -2,7 +2,7 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
-<img src='README_Banner.png' alt="Sarthak S Kumar | README Banner"></img>
+<img src="https://media.licdn.com/dms/image/D5616AQGqsHW9HpdxiA/profile-displaybackgroundimage-shrink_350_1400/0/1704134598183?e=1709769600&v=beta&t=oq4Lcv4Bfr0M701ddAXrg0AvzCCe00frTp030sDAMh0" alt="Sarthak S Kumar | README Banner"></img>
 <hr>
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
