@@ -21,6 +21,10 @@ or use it. It helps me a lot.
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 35></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 35></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 35></a>
+
+[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
+[![committers.top badge](https://user-badge.committers.top/india/SarthakSKumar.svg)](https://user-badge.committers.top/india/SarthakSKumar)
+
 <hr>
 <details>
 <summary><h3>⚡ Languages, Tools and Technologies</h3></summary>
@@ -135,12 +139,9 @@ If you're looking for anyone to spice up your experience, Sarthak is who I would
 <div align = "center">
 <h3><b>Visits Count 👁️</b></h3>
 <img width = 25% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
- 
+	
 ### Show some ❤️ by starring 🌟 some of my repos!
-
-[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
-
+<hr>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
