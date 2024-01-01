@@ -7,7 +7,7 @@ or use it. It helps me a lot.
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="245" alt="Sarthak S Kumar's Dev Card"></a>
-### Software Developer • Full Stack & PWA🔸DevOps🔸IoT🔸Design
+### Full Stack & PWA🔸DevOps🔸IoT🔸Design
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 ### View my portfolio at [sarthakskumar.com](https://sarthakskumar.com) 🔗
 
@@ -16,16 +16,14 @@ or use it. It helps me a lot.
 - 🪶 I try to offer my contribution by realising the power of community
 - 👯 I am eager to collaborate with fellow creators, developers, and tech enthusiasts.
 
-### Let's Connect
+### Let's Connect 🚀
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 35></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 35></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 35></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 35></a>
-
 <hr>
-
-## ⚡ Languages, Tools and Technologies
-
+<details>
+<summary><h3>⚡ Languages, Tools and Technologies</h3></summary>
 <table>
 <tr>
 	<td><strong>Frontend & Design</strong></td>
@@ -54,10 +52,10 @@ or use it. It helps me a lot.
 	<td><img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark"></td>
 </tr>
 </table>
-<hr>
 
-## 📊 Metrics
-
+</details>
+<details>
+<summary><h3>📊 Code/Contribution Metrics</h3></summary>
 <table>
 	<tr>
 		<td colspan = "2"><a href = "https://sarthakskumar.bio.link"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
@@ -74,8 +72,9 @@ or use it. It helps me a lot.
 		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
 	</tr>
 	</table>
+</details>
 <details>
-<summary><h2>✒️ Recent GitHub Activity</h1></summary>
+<summary><h3>✒️ Recent GitHub Activity</h3></summary>
 	
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
@@ -84,10 +83,10 @@ or use it. It helps me a lot.
 4. 🔒 Closed issue [#17](https://github.com/SarthakSKumar/QuickSend/issues/17) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
 5. 🔒 Closed issue [#13](https://github.com/SarthakSKumar/QuickSend/issues/13) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
 <!--END_SECTION:activity-->
-  </b>
+  
 </details>
 <details>
-<summary><h2>📝 Testimonials and Recommendations</h2></summary>
+<summary><h3>📝 Testimonials and Recommendations</h3></summary>
 <table>
 	<tr align="center">
 		<td><b>Name</b></td>
@@ -103,7 +102,7 @@ or use it. It helps me a lot.
 		<td><a href="https://www.linkedin.com/in/vikram-sujive"><b>Vikram Sujive</b></a></td>
 		<td>Sarthak has helped design several promotional materials and creative assets for our college club, Shunya and its events of various scales. As the former Head of Design of the club, I have had the pleasure of working closely with Sarthak on several occasions, and his creativity, attention to detail, and professionalism have always made him one of the leading designers/ club members.
 
-Sarthak has an exceptional ability to take whatever resources and turn them into visually stunning designs. He has consistently delivered high-quality work, often exceeding our expectations, and has always been willing to go the extra mile to ensure that we are satisfied with the final product. There have been occasions where he has learnt the basics of software in order to get a design done in a specific manner. He is also very open to suggestions/ feedback and is very trustworthy.</td>
+Sarthak has an exceptional ability to take whatever resources and turn them into visually stunning designs. He has consistently delivered high-quality work, often exceeding our expectations, and has always been willing to go the extra mile to ensure that we are satisfied with the final product. There have been occasions where he has learnt the basics of software to get a design done in a specific manner. He is also very open to suggestions/ feedback and is very trustworthy.</td>
 
 <td>Transportation Mobility Systems Engineer</td>
 </tr>
