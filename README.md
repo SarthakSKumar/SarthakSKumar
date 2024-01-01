@@ -2,29 +2,25 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
-
 <img src='README_Banner.png' alt="Sarthak S Kumar | README Banner"></img>
+<hr>
+
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
-<a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="250" alt="Sarthak S Kumar's Dev Card"></a>
+<a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="245" alt="Sarthak S Kumar's Dev Card"></a>
 ### Software Developer • Full Stack & PWA🔸DevOps🔸IoT🔸Design
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 ### View my portfolio at [sarthakskumar.com](https://sarthakskumar.com) 🔗
-
 
 - 🔭 I love exploring and building projects👨‍💻using various technologies.
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
 - 🪶 I try to offer my contribution by realising the power of community
 - 👯 I am eager to collaborate with fellow creators, developers, and tech enthusiasts.
 
-<hr>
-
-## 📩 Connect with me
-
-Don't hesitate to ping me🤝. I'm always open to a conversation!!✔ Shoot me an email <a href = "mailto:sarthakskumar7@gmail.com"><b>here</b><br><br>
-<a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
-<a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
-<a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 38></a>
-<a href = "https://twitter.com/SarthakSKumar2"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 38></a>
+### Let's Connect
+<a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 35></a>
+<a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 35></a>
+<a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 35></a>
+<a href = "https://twitter.com/SarthakSKumar2"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 35></a>
 
 <hr>
 
