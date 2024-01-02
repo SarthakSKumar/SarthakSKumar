@@ -3,6 +3,8 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 <img src="https://sarthakskumar.com/images/README_Banner.png" alt="Sarthak S Kumar | README Banner"></img>
+<hr>
+
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 <a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="245" alt="Sarthak S Kumar's Dev Card"></a>
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
@@ -20,36 +22,41 @@ or use it. It helps me a lot.
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 35></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://skillicons.dev/icons?i=discord&theme=dark" height = 35></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://skillicons.dev/icons?i=twitter&theme=dark" height = 35></a>
+<a href = "https://dev.to/sarthakskumar"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height = 35></a>
 
 <hr>
 <details>
 <summary><h3>⚡ Languages, Tools and Technologies</h3></summary>
 <table>
 <tr>
-	<td><strong>Frontend & Design</strong></td>
-	<td><strong>DevOps & Deployment</strong></td>
+	<td><strong>Frontend Development</strong></td>
+	<td><img src = "https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,emotion,styledcomponents,vite,nextjs" ></td>
+</tr>
+<tr>
+	<td><strong>Design & UI</strong></td>
+	<td><img src = "https://skillicons.dev/icons?i=figma,md,materialui,svg&theme=dark"></td>
+	<td><strong>Design & UI</strong></td>
+	<td><img src = "https://skillicons.dev/icons?i=figma,md,materialui,svg&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img src = "https://skillicons.dev/icons?i=nginx,nodejs,express,flask,graphql,postman&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud and Deployment</strong></td>
+	<td><img src = "https://skillicons.dev/icons?i=azure,aws,gcp,appwrite,heroku,vercel,netlify&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>DevOps</strong></td>
+	<td><img src = "https://skillicons.dev/icons?i=kubernetes,docker,jenkins,jest,cloudflare,linux&theme=dark"></td>
+</tr>
+<tr>
 	<td><strong>Version Control</strong></td>
-	<td><strong>Editors</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=js,react,redux,nextjs,bootstrap,materialui,tailwindcss,emotion,styledcomponents,figma" ></td>
-	<td><img src = "https://skillicons.dev/icons?i=docker,aws,githubactions,netlify,heroku,vercel,gcp&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,bash&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=vscode,codepen&theme=dark"></td>
-</tr>
-</table>
-<table>
-<tr>
-	<td><strong>Backend & Databases</strong></td>
-	<td><strong>API & Testing</strong></td>
-	<td><strong>Languages</strong></td>
-	<td><strong>Miscellaneous</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=nodejs,flask,postgresql,mysql,sequelize,mongodb,express,firebase&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=postman,graphql,supabase&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,linux&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,github,gitlab,githubactions&theme=dark"></td>
 </tr>
 </table>
 
