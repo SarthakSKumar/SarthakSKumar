@@ -90,11 +90,11 @@ or use it. It helps me a lot.
 <summary><h3>✒️ Recent GitHub Activity</h3></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-2. 💪 Opened PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
-3. 🗣 Commented on [#17](https://github.com/SarthakSKumar/QuickSend/issues/17#issuecomment-1788621673) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-4. 🔒 Closed issue [#17](https://github.com/SarthakSKumar/QuickSend/issues/17) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-5. 🔒 Closed issue [#13](https://github.com/SarthakSKumar/QuickSend/issues/13) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+1. 🗣 Commented on [#5170](https://github.com/nextauthjs/next-auth/issues/5170#issuecomment-1896658209) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#4042](https://github.com/nextauthjs/next-auth/issues/4042#issuecomment-1896657345) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#8252](https://github.com/nextauthjs/next-auth/issues/8252#issuecomment-1896656777) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+5. 💪 Opened PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
 <!--END_SECTION:activity-->
   
 </details>
