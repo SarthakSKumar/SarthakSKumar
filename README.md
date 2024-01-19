@@ -25,8 +25,7 @@ or use it. It helps me a lot.
 <a href = "https://dev.to/sarthakskumar"><img src = "https://skillicons.dev/icons?i=devto&theme=dark" height = 35></a>
 
 <hr>
-<details>
-<summary><h3>⚡ Languages, Tools and Technologies</h3></summary>
+<h3>⚡ Languages, Tools and Technologies</h3></summary>
 <table>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -65,10 +64,8 @@ or use it. It helps me a lot.
 	<td><img height=40 src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"></td>
 </tr>
 </table>
-
-</details>
-<details>
-<summary><h3>📊 Code/Contribution Metrics</h3></summary>
+<hr>
+<h3>📊 Code/Contribution Metrics</h3></summary>
 <table>
 	<tr>
 		<td colspan = "2"><a href = "https://sarthakskumar.bio.link"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
