@@ -82,9 +82,8 @@ or use it. It helps me a lot.
 		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
 	</tr>
 	</table>
-</details>
-<details>
-<summary><h3>✒️ Recent GitHub Activity</h3></summary>
+
+<h3>✒️ Recent GitHub Activity</h3>
 	
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5170](https://github.com/nextauthjs/next-auth/issues/5170#issuecomment-1896658209) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
@@ -94,7 +93,6 @@ or use it. It helps me a lot.
 5. 💪 Opened PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
 <!--END_SECTION:activity-->
   
-</details>
 <details>
 <summary><h3>📝 Testimonials and Recommendations</h3></summary>
 <table>
