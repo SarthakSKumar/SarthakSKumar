@@ -102,6 +102,14 @@ or use it. It helps me a lot.
 		<td><b>Designation/Activity</b></td>
 	</tr>
 	<tr>
+		<td><a href="https://www.linkedin.com/in/krithi-k-18bba1228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bu9xT6NpCQuaKJowblI8M1w%3D%3D"><b>Krithi K</b></a></td>
+		<td>Sarthak was a Freelance software engineer at my computing business for over three years, and his skills and knowledge were unparalleled. Along with that, however, he brought an energy and dependability that made him crucial to our company.
+Sarthak was tasked with finding software solutions and implementing workflow processes by assessing operational capability, troubleshooting and diagnostics, designing and calibrating system specifications, analyzing system processes, and other related duties. His overall duty was to streamline software processes and allow for efficient information flow and retrieval, and he did an excellent job in managing and improving our systems consistently.
+A reliable and highly capable employee, I can’t recommend him highly enough.
+</td>
+		<td>Process Automation | Business Development</td>
+	</tr>
+	<tr>
 		<td><a href="https://www.linkedin.com/in/bilal-meccai-a3b6a7168"><b>Bilal Meccai</b></a></td>
 		<td>Sarthak is a very determined individual who is very knowledgeable In his domain of programming. I got the opportunity to learn Python programming hosted by Sarthak and his team ( fusion) where I got to experience basics to advance levels of Python programming. Sarthak is also a Keen learner and can give guidance when it comes to Web development. A robust personality. Would highly recommend Sarthak.</td>
 		<td>DevOps Engineer | Information System Administration</td>
