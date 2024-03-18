@@ -86,10 +86,10 @@ or use it. It helps me a lot.
 <h3>✒️ Recent GitHub Activity</h3>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5170](https://github.com/nextauthjs/next-auth/issues/5170#issuecomment-1896658209) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#4042](https://github.com/nextauthjs/next-auth/issues/4042#issuecomment-1896657345) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#8252](https://github.com/nextauthjs/next-auth/issues/8252#issuecomment-1896656777) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
+1. ❌ Closed PR [#21](https://github.com/hack2skill/electhon-submission/pull/21) in [hack2skill/electhon-submission](https://github.com/hack2skill/electhon-submission)
+2. 🗣 Commented on [#5170](https://github.com/nextauthjs/next-auth/issues/5170#issuecomment-1896658209) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#4042](https://github.com/nextauthjs/next-auth/issues/4042#issuecomment-1896657345) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#8252](https://github.com/nextauthjs/next-auth/issues/8252#issuecomment-1896656777) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 5. 💪 Opened PR [#6](https://github.com/SarthakSKumar/SarthakSKumar.github.io/pull/6) in [SarthakSKumar/SarthakSKumar.github.io](https://github.com/SarthakSKumar/SarthakSKumar.github.io)
 <!--END_SECTION:activity-->
 
