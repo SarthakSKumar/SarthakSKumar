@@ -16,7 +16,7 @@ I aspire to have professional experiences in various industries and partner with
 
 - 🔍 I love exploring and building projects👨‍💻using various technologies.
 - 🥇 I look for opportunities to use my skills to solve challenging real-world problems.
-- 🧑‍🤝‍🧑 I am always eager to collaborate with fellow creators, developers, and tech enthusiasts.
+- 🧑‍🤝‍🧑 I am always eager to collaborate with creators, developers, and tech enthusiasts.
 
 ### Domains of Interest
 <a href = "https://linkedin.com/in/sarthakskumar">
