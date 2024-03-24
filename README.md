@@ -25,6 +25,7 @@ I aspire to have professional experiences in various industries and partner with
 <img src = "https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-C8AF9C?style=for-the-badge" height = 26>
 <img src = "https://img.shields.io/badge/INTERNET%20OF%20THINGS%20(IoT)-E76BFB?style=for-the-badge" height = 26>
 <img src = "https://img.shields.io/badge/BIG%20DATA%20TECHNOLOGIES-CCA4B8?style=for-the-badge" height = 26>
+<img src = "https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-CCA4B8?style=for-the-badge" height = 26>
 </a>
 <hr>
 
