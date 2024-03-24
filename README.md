@@ -7,7 +7,7 @@ or use it. It helps me a lot.
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
 
-<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="280" alt="Sarthak S Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="270" alt="Sarthak S Kumar's Dev Card"/></a>
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
