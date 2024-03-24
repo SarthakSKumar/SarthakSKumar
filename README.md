@@ -18,6 +18,8 @@ I aspire to have professional experiences in various industries and partner with
 - 🥇 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🧑‍🤝‍🧑 I am always eager to collaborate with creators, developers, and tech enthusiasts.
 
+[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
+
 ### Domains of Interest
 <a href = "https://linkedin.com/in/sarthakskumar">
 <img src = "https://img.shields.io/badge/PROGRESSIVE%20WEB%20APPS%20(PWA)-5C6FDA?style=for-the-badge" height = 26>
