@@ -22,8 +22,8 @@ I aspire to have professional experiences in various industries and partner with
 <a href = "https://linkedin.com/in/sarthakskumar">
 <img src = "https://img.shields.io/badge/PROGRESSIVE%20WEB%20APPS%20(PWA)-5C6FDA?style=for-the-badge" height = 26>
 <img src = "https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-7394E2?style=for-the-badge" height = 26>
-<img src = "https://img.shields.io/badge/INTERNET%20OF%20THINGS%20(IoT)-E76BFB?style=for-the-badge" height = 26>
 <img src = "https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-C8AF9C?style=for-the-badge" height = 26>
+<img src = "https://img.shields.io/badge/INTERNET%20OF%20THINGS%20(IoT)-E76BFB?style=for-the-badge" height = 26>
 <img src = "https://img.shields.io/badge/BIG%20DATA%20TECHNOLOGIES-CCA4B8?style=for-the-badge" height = 26>
 </a>
 <hr>
