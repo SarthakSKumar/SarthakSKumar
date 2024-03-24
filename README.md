@@ -42,44 +42,79 @@ I have had the opportunity to share space with many unique and talented professi
 <a href = "https://sarthakskumar.bio.link"><img src = "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height = 27></a>
 <hr>
 
-<!-- <h2>⚡ Languages, Tools and Technologies</h3></summary>
+
+<h2>⚡ Languages, Tools and Technologies</h2></summary>
+
 <table>
 <tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,emotion,styledcomponents,vite,nextjs,figma,materialui" ></td>
-</tr>
-<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=py,c,cpp&theme=dark"></td>
+	<td><strong>Frontend Development</strong></td>
+	<td><strong>Database and ORM</strong></td>
 </tr>
 <tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nginx,nodejs,express,flask,graphql,postman&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=python,cplusplus,c&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=html5,CSS3,javascript,typescript,react,redux,tailwindcss,vite,next.js,mdx,figma&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
 </tr>
 <tr>
-	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=azure,aws,appwrite,heroku,vercel,netlify&theme=dark"></td>
-</tr>
-<tr>
+	<td><strong>API and Testing</strong></td>
+	<td><strong>Cloud Technologies</strong></td>
 	<td><strong>DevOps</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=kubernetes,docker,jenkins,jest,cloudflare,githubactions,grafana&theme=dark"></td>
 </tr>
 <tr>
-	<td><strong>Internet of Things</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=graphql,postman,swagger,axios,jest&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,heroku,vercel,netlify,digitalocean,heroku&theme=dark"></td>	
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=git,docker,kubernetes,jenkins,cloudflare,cpanel,githubactions,nginx&theme=dark"></td>	
 </tr>
 <tr>
 	<td><strong>Big Data</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=kafka,&theme=dark"></td>
+	<td><strong>Backend and CMS</strong></td>
+	<td><strong>Internet of Things</strong></td>
+</tr>
+<tr>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=apachekafka,apachespark,apachehadoop,apachehive&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity&theme=dark"></td>	
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,mqtt,eclipsemosquitto,hivemq&theme=dark"></td>	
+</tr>	
+</table>
+<hr>
+
+<!-- <table>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=javascript,typescript,react,redux,tailwindcss,vite,next.js,figma,mui&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=python,cplusplus&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=nginx,node.js,express,flask,graphql,postman&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud and Deployment</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,appwrite,heroku,vercel,netlify&theme=dark"></td>	
+</tr>
+<tr>
+	<td><strong>DevOps</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=kubernetes,docker,jenkins,jest,cloudflare,githubactions,grafana&theme=dark"></td>	
+</tr>
+<tr>
+	<td><strong>Internet of Things</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,mqtt,eclipsemosquitto,hivemq&theme=dark"></td>	
+</tr>
+<tr>
+	<td><strong>Big Data</strong></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=apachekafka,apachespark,apachehadoop&theme=dark"></td>
 </tr>
 </table>
-
-<hr>
 -->
+
 <h2>📊 Code/Contribution Metrics</h2></summary>
 <table>
 	<tr>
