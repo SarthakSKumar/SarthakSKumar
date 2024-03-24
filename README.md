@@ -6,19 +6,19 @@ or use it. It helps me a lot.
 <hr>
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
->**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
 <a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="300" alt="Sarthak S Kumar's Dev Card"/></a>
 
-I possess a strong technical interest and an ability to expand my skillset beyond my coursework. With a focus on real-world applications, I aspire for professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
+>**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
+
 
 ### View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com) 
+I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
 
-- 🔭 I love exploring and building projects👨‍💻using various technologies.
-- 🌱 I look for opportunities to use my skills to solve challenging real-world problems
-- 🪶 I try to offer my contribution by realising the power of community
-- 👯 I am eager to collaborate with fellow creators, developers, and tech enthusiasts.
-  
+- 🔍 I love exploring and building projects👨‍💻using various technologies.
+- 🥇 I look for opportunities to use my skills to solve challenging real-world problems.
+- 🧑‍🤝‍🧑 I am always eager to collaborate with fellow creators, developers, and tech enthusiasts.
+
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 
 ### Let's Connect 🚀
@@ -29,7 +29,7 @@ I possess a strong technical interest and an ability to expand my skillset beyon
 <a href = "https://sarthakskumar.bio.link"><img src = "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height = 27></a>
 
 <hr>
-<h2>⚡ Languages, Tools and Technologies</h2></summary>
+<h3>⚡ Languages, Tools and Technologies</h3></summary>
 <table>
 <tr>
 	<td><strong>Frontend Development</strong></td>
