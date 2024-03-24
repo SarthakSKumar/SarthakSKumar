@@ -9,10 +9,10 @@ or use it. It helps me a lot.
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
-I possess a strong technical interest and an ability to expand my skillset beyond my coursework. With a focus on real-world applications, I aspire to professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
+I possess a strong technical interest and an ability to expand my skillset beyond my coursework. With a focus on real-world applications, I aspire for professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
 
-<a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="245" alt="Sarthak S Kumar's Dev Card"></a>
-## View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com) 
+<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="300" alt="Sarthak S Kumar's Dev Card"/></a>
+### View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com) 
 
 - 🔭 I love exploring and building projects👨‍💻using various technologies.
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
@@ -20,10 +20,8 @@ I possess a strong technical interest and an ability to expand my skillset beyon
 - 👯 I am eager to collaborate with fellow creators, developers, and tech enthusiasts.
   
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
-[![committers.top badge](https://user-badge.committers.top/india/SarthakSKumar.svg)](https://user-badge.committers.top/india/SarthakSKumar)
-## Let's Connect 🚀
 
-
+### Let's Connect 🚀
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 27></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 27></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 27></a>
