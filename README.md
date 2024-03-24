@@ -21,6 +21,15 @@ I aspire to have professional experiences in various industries and partner with
 
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 
+### Domains of Interest
+
+<a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/PROGRESSIVE%20WEB%20APPS%20(PWA)-5C6FDA?style=for-the-badge" height = 27>
+<img src = "https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-7394E2?style=for-the-badge" height = 27>
+<img src = "https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-C8AF9C?style=for-the-badge" height = 27>
+<img src = "https://img.shields.io/badge/INTERNET%20OF%20THINGS%20(IoT)-E76BFB?style=for-the-badge" height = 27>
+<img src = "https://img.shields.io/badge/BIG%20DATA%20TECHNOLOGIES-CCA4B8?style=for-the-badge" height = 27>
+<img src = "https://img.shields.io/badge/DISTRIBUTED%20COMPUTING-99BECB?style=for-the-badge" height = 27>
+</a>
 <hr>
 
 ## Let's Connect 🚀
@@ -30,6 +39,7 @@ I have had the opportunity to share space with many unique and talented professi
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 27></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 27></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height = 27></a>
+<a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 27></a>
 <a href = "https://sarthakskumar.bio.link"><img src = "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height = 27></a>
 <hr>
 
