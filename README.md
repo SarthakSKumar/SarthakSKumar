@@ -21,7 +21,7 @@ I aspire to have professional experiences in various industries and partner with
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 
 ### Domains of Interest
-<a href = "https://linkedin.com/in/sarthakskumar">
+<a href = "https://sarthakskumar.com/about">
 <img src = "https://img.shields.io/badge/PROGRESSIVE%20WEB%20APPS%20(PWA)-5C6FDA?style=for-the-badge" height = 26>
 <img src = "https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-7394E2?style=for-the-badge" height = 26>
 <img src = "https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-C8AF9C?style=for-the-badge" height = 26>
@@ -42,7 +42,7 @@ I have had the opportunity to share space with many unique and talented professi
 <a href = "https://sarthakskumar.bio.link"><img src = "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height = 27></a>
 <hr>
 
-<h2>⚡ Languages, Tools and Technologies</h3></summary>
+<h2>⚡ Languages, Tools and Technologies</h2></summary>
 <table>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -82,7 +82,7 @@ I have had the opportunity to share space with many unique and talented professi
 </tr>
 </table>
 <hr>
-<h3>📊 Code/Contribution Metrics</h3></summary>
+<h2>📊 Code/Contribution Metrics</h2></summary>
 <table>
 	<tr>
 		<td colspan = "2"><a href = "https://sarthakskumar.bio.link"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
