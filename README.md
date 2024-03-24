@@ -21,15 +21,19 @@ I aspire to have professional experiences in various industries and partner with
 
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 
-### Let's Connect 🚀
+<hr>
+
+## Let's Connect 🚀
+I have had the opportunity to share space with many unique and talented professionals from the industry who helped me learn and explore so many verticals in software development. let's explore how we can collaborate and create something meaningful together!
+
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 27></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 27></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 27></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height = 27></a>
 <a href = "https://sarthakskumar.bio.link"><img src = "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height = 27></a>
-
 <hr>
-<h3>⚡ Languages, Tools and Technologies</h3></summary>
+
+<h2>⚡ Languages, Tools and Technologies</h3></summary>
 <table>
 <tr>
 	<td><strong>Frontend Development</strong></td>
