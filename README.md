@@ -100,7 +100,7 @@ I have had the opportunity to share space with many unique and talented professi
 	</tr>
 	</table>
 <hr>
-<h3>✒️ Recent GitHub Activity</h3>
+<h2>✒️ Recent GitHub Activity</h2>
 	
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#21](https://github.com/hack2skill/electhon-submission/pull/21) in [hack2skill/electhon-submission](https://github.com/hack2skill/electhon-submission)
