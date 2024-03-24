@@ -74,12 +74,12 @@ I have had the opportunity to share space with many unique and talented professi
 <tr>
 	<td><strong>Testing and Monitoring</strong></td>
 	<td><strong>Cloud Technologies</strong></td>
-	<td><strong>Internet of Things</strong></td>
+	<td colspan=2><strong>Internet of Things</strong></td>
 </tr>
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=jest,snyk,pagespeedinsights,pm2,grafana,umami&theme=dark"></td>	
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,heroku,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq,sparkfun&theme=dark"></td>	
+	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq,sparkfun&theme=dark"></td>	
 </tr>	
 </table>
 <hr>
