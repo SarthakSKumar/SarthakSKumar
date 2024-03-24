@@ -42,9 +42,45 @@ I have had the opportunity to share space with many unique and talented professi
 <a href = "https://sarthakskumar.bio.link"><img src = "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height = 27></a>
 <hr>
 
-<h2>⚡ Languages, Tools and Technologies</h2></summary>
-<img src = "https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,py,c,figma,nginx,flask,graphql,postgresql,planetscale,supabase,firebase,prisma,sequelize,azure,aws,appwrite,heroku,kubernetes,docker,jenkins,jest,cloudflare,githubactions,arduino,raspberrypi" >
-
+<h2>⚡ Languages, Tools and Technologies</h3></summary>
+<table>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,emotion,styledcomponents,vite,nextjs" ></td>
+</tr>
+<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=py,c,cpp&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Design & UI</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,md,materialui,svg&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nginx,nodejs,express,flask,graphql,postman&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud and Deployment</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=azure,aws,gcp,appwrite,heroku,vercel,netlify&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>DevOps</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=kubernetes,docker,jenkins,jest,cloudflare,linux&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,githubactions&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Internet of Things</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"></td>
+</tr>
+</table>
 <hr>
 <h2>📊 Code/Contribution Metrics</h2></summary>
 <table>
