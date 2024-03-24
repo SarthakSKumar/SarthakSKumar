@@ -53,28 +53,28 @@ I have had the opportunity to share space with many unique and talented professi
 </tr>
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=python,cplusplus,c&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=html5,CSS3,javascript,typescript,react,redux,tailwindcss,vite,next.js,mdx,figma&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=html5,CSS3,javascript,typescript,react,redux,tailwindcss,vite,next.js,mdx,figma,canva&theme=dark"></td>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>API and Testing</strong></td>
-	<td><strong>Cloud Technologies</strong></td>
+	<td><strong>Backend and CMS</strong></td>
 	<td><strong>DevOps</strong></td>
 </tr>
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=graphql,postman,swagger,axios,jest&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,heroku,vercel,netlify,digitalocean,heroku&theme=dark"></td>	
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity&theme=dark"></td>	
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=git,docker,kubernetes,jenkins,cloudflare,cpanel,githubactions,nginx&theme=dark"></td>	
 </tr>
 <tr>
 	<td><strong>Big Data</strong></td>
-	<td><strong>Backend and CMS</strong></td>
+	<td><strong>Cloud Technologies</strong></td>
 	<td><strong>Internet of Things</strong></td>
 </tr>
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=apachekafka,apachespark,apachehadoop,apachehive&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity&theme=dark"></td>	
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,mqtt,eclipsemosquitto,hivemq&theme=dark"></td>	
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,heroku,vercel,netlify,digitalocean,heroku&theme=dark"></td>	
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq&theme=dark"></td>	
 </tr>	
 </table>
 <hr>
