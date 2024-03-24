@@ -11,15 +11,12 @@ or use it. It helps me a lot.
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
-
 ### View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com) 
 I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
 
 - 🔍 I love exploring and building projects👨‍💻using various technologies.
 - 🥇 I look for opportunities to use my skills to solve challenging real-world problems.
 - 🧑‍🤝‍🧑 I am always eager to collaborate with fellow creators, developers, and tech enthusiasts.
-
-[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 
 ### Domains of Interest
 
