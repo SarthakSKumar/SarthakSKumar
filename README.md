@@ -61,26 +61,26 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 </tr>
 <tr>
 	<td><strong>API and Formatting</strong></td>
-	<td><strong>Backend and CMS</strong></td>
 	<td><strong>DevOps</strong></td>
+	<td><strong>Internet of Things</strong></td>
 	<td><strong>Big Data</strong></td>
 </tr>
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=graphql,postman,swagger,axios,eslint,prettier,zod&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>	
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=git,docker,kubernetes,jenkins,cloudflare,cpanel,githubactions,nginx,ngrok&theme=dark"></td>
+	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq,sparkfun&theme=dark"></td>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=apachekafka,apachespark,apachehadoop,apachehive&theme=dark"></td>
 	
 </tr>
 <tr>
 	<td><strong>Testing and Monitoring</strong></td>
 	<td><strong>Cloud Technologies</strong></td>
-	<td colspan=2><strong>Internet of Things</strong></td>
+	<td colspan=2><strong>Backend and CMS</strong></td>
 </tr>
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=jest,snyk,pagespeedinsights,pm2,grafana,umami&theme=dark"></td>	
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,heroku,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
-	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq,sparkfun&theme=dark"></td>	
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
 </tr>	
 </table>
 <hr>
