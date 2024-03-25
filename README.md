@@ -68,7 +68,7 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=graphql,postman,swagger,axios,eslint,prettier,zod&theme=dark"></td>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=git,docker,kubernetes,jenkins,cloudflare,cpanel,githubactions,nginx,ngrok&theme=dark"></td>
-	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq,sparkfun&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq,sparkfun&theme=dark"></td>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=apachekafka,apachespark,apachehadoop,apachehive&theme=dark"></td>
 	
 </tr>
@@ -80,7 +80,7 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=jest,snyk,pagespeedinsights,pm2,grafana,umami&theme=dark"></td>	
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,heroku,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
+	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
 </tr>	
 </table>
 <hr>
