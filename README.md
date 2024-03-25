@@ -44,7 +44,8 @@ I have had the opportunity to share space with many unique and talented professi
 
 
 <h2>⚡ Languages, Tools and Technologies</h2></summary>
-
+I've worked with a variety of languages, tools, and technologies in my projects and have also taken the time to learn and explore new ones along the way.
+<br><br>
 <table>
 <tr>
 	<td><strong>Programming Languages</strong></td>
