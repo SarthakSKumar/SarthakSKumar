@@ -79,7 +79,7 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 </tr>
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=jest,snyk,pagespeedinsights,pm2,grafana,umami&theme=dark"></td>	
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,heroku,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
 	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
 </tr>	
 </table>
