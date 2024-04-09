@@ -142,11 +142,11 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 <h2>✒️ Recent GitHub Activity</h2>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream/pull/2) in [SarthakSKumar/RTMP-FFMpeg-LiveStream](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream)
-2. 💪 Opened PR [#2](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream/pull/2) in [SarthakSKumar/RTMP-FFMpeg-LiveStream](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream)
-3. 🎉 Merged PR [#1](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream/pull/1) in [SarthakSKumar/RTMP-FFMpeg-LiveStream](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream)
-4. ❌ Closed PR [#21](https://github.com/hack2skill/electhon-submission/pull/21) in [hack2skill/electhon-submission](https://github.com/hack2skill/electhon-submission)
-5. 🗣 Commented on [#5170](https://github.com/nextauthjs/next-auth/issues/5170#issuecomment-1896658209) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🔒 Closed issue [#7](https://github.com/anubhav1433/PESU-Cafe/issues/7) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+2. 🔒 Closed issue [#77](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/77) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+3. 🔒 Closed issue [#76](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/76) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
+4. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream/pull/2) in [SarthakSKumar/RTMP-FFMpeg-LiveStream](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream)
+5. 💪 Opened PR [#2](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream/pull/2) in [SarthakSKumar/RTMP-FFMpeg-LiveStream](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream)
 <!--END_SECTION:activity-->
 
 <hr>
