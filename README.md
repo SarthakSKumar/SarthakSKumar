@@ -16,7 +16,7 @@ I aspire to have professional experiences in various industries and partner with
 
 - 🔍 I love exploring and building projects👨‍💻using various technologies.
 - 🥇 I look for opportunities to use my skills to solve challenging real-world problems.
-- 🧑‍🤝‍🧑 I am always eager to collaborate with creators, developers, and tech enthusiasts
+- 🧑‍🤝‍🧑 I am always eager to collaborate with creators, developers, and tech enthusiasts.
 
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 
