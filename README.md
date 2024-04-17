@@ -9,7 +9,7 @@ or use it. It helps me a lot.
 
 <a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="270" alt="Sarthak S Kumar's Dev Card"/></a>
 
->**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)*
+>**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
 ### View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com) 
 I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
