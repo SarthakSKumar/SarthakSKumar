@@ -142,11 +142,11 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 <h2>✒️ Recent GitHub Activity</h2>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/sathishkumarg5024/CS440_CS482_CS484_CS486_Problem-Statement-2/issues/1#issuecomment-2061324513) in [sathishkumarg5024/CS440_CS482_CS484_CS486_Problem-Statement-2](https://github.com/sathishkumarg5024/CS440_CS482_CS484_CS486_Problem-Statement-2)
-2. 🔒 Closed issue [#7](https://github.com/anubhav1433/PESU-Cafe/issues/7) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
-3. 🔒 Closed issue [#77](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/77) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🔒 Closed issue [#76](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/76) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-5. 🎉 Merged PR [#2](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream/pull/2) in [SarthakSKumar/RTMP-FFMpeg-LiveStream](https://github.com/SarthakSKumar/RTMP-FFMpeg-LiveStream)
+1. 🎉 Merged PR [#24](https://github.com/SarthakSKumar/QuickSend/pull/24) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+2. 💪 Opened PR [#24](https://github.com/SarthakSKumar/QuickSend/pull/24) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
+3. 🗣 Commented on [#1](https://github.com/sathishkumarg5024/CS440_CS482_CS484_CS486_Problem-Statement-2/issues/1#issuecomment-2061324513) in [sathishkumarg5024/CS440_CS482_CS484_CS486_Problem-Statement-2](https://github.com/sathishkumarg5024/CS440_CS482_CS484_CS486_Problem-Statement-2)
+4. 🔒 Closed issue [#7](https://github.com/anubhav1433/PESU-Cafe/issues/7) in [anubhav1433/PESU-Cafe](https://github.com/anubhav1433/PESU-Cafe)
+5. 🔒 Closed issue [#77](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/77) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
 <!--END_SECTION:activity-->
 
 <hr>
