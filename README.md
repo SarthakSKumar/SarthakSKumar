@@ -122,22 +122,27 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 -->
 
 <h2>📊 Code/Contribution Metrics</h2></summary>
+ <table>
+<td><a href="https://sarthakskumar.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakskumar&theme=nord&hide_border=true"></a></td>
+		<td><a href="https://sarthakskumar.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthakskumar&theme=nord_dark&hide_border=true"></a></td>
+	</table>
 <table>
 	<tr>
-		<td colspan = "2"><a href = "https://sarthakskumar.bio.link"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+		<td colspan = "2"><a href = "https://sarthakskumar.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://linkedin.com/in/sarthakskumar"><img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord"></a></td>
+		<td><a href="https://sarthakskumar.com"><img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
+		<td><a href="https://sarthakskumar.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord"></a></td>
 	</tr>
 	<tr>
-		<td colspan = "2"><a href="https://instagram.com/sarthakskumar"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+		<td colspan = "2"><a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg"></a>			</td>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
+		<td><a href="https://sarthakskumar.com"><img src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg"></a>			</td>
+		<td><a href="https://sarthakskumar.com"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
 	</tr>
 	</table>
+
 <hr>
 <h2>✒️ Recent GitHub Activity</h2>
 	
