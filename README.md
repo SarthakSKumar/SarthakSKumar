@@ -3,7 +3,6 @@ Please consider starring the repo if you find this useful in any manner or use i
 -->
 
 <img src="https://sarthakskumar.com/images/README_Banner.webp" alt="Sarthak S Kumar">
-<hr>
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>. Nice to see you here 👋
 
