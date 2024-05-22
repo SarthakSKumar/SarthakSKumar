@@ -2,12 +2,12 @@
 Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.
 -->
 
-<img src="https://sarthakskumar.com/images/README_Banner.png" alt="Sarthak S Kumar"></img>
+<img src="https://sarthakskumar.com/images/README_Banner.png" alt="Sarthak S Kumar">
 <hr>
 
-# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar">Sarthak</a>. Nice to see you here 👋
+# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>. Nice to see you here 👋
 
-<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="270" alt="Sarthak S Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="270" alt="Sarthak S Kumar"/></a>
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
@@ -84,42 +84,6 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 </tr>	
 </table>
 <hr>
-
-<!-- <table>
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=javascript,typescript,react,redux,tailwindcss,vite,next.js,figma,mui&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=python,cplusplus&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=nginx,node.js,express,flask,graphql,postman&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Database Technologies</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonaws,appwrite,heroku,vercel,netlify&theme=dark"></td>	
-</tr>
-<tr>
-	<td><strong>DevOps</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=kubernetes,docker,jenkins,jest,cloudflare,githubactions,grafana&theme=dark"></td>	
-</tr>
-<tr>
-	<td><strong>Internet of Things</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,mqtt,eclipsemosquitto,hivemq&theme=dark"></td>	
-</tr>
-<tr>
-	<td><strong>Big Data</strong></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=apachekafka,apachespark,apachehadoop&theme=dark"></td>
-</tr>
-</table>
--->
 
 <h2>📊 Code/Contribution Metrics</h2></summary>
  <table>
