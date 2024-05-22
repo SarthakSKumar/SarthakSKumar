@@ -2,7 +2,7 @@
 Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.
 -->
 
-<img src="https://sarthakskumar.com/images/README_Banner.png" alt="Sarthak S Kumar">
+<img src="https://sarthakskumar.com/images/README_Banner.webp" alt="Sarthak S Kumar">
 <hr>
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>. Nice to see you here 👋
