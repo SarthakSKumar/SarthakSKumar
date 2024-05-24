@@ -18,6 +18,7 @@ I aspire to have professional experiences in various industries and partner with
 - 🧑‍🤝‍🧑 I am always eager to collaborate with creators, developers, and tech enthusiasts.
 
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
+[![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
 
 ### Domains of Interest
 <a href = "https://sarthakskumar.com/about">
