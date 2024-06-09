@@ -11,7 +11,7 @@ Please consider starring the repo if you find this useful in any manner or use i
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
 ### View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com) 
-I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
+I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise
 
 - 🔍 I love exploring and building projects👨‍💻using various technologies.
 - 🥇 I look for opportunities to use my skills to solve challenging real-world problems.
