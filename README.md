@@ -39,7 +39,7 @@ I have had the opportunity to share space with many unique and talented professi
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 27></a>
 <a href = "https://discordapp.com/users/907567549410050078"><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height = 27></a>
 <a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 27></a>
-<a href = "https://sarthakskumar.bio.link"><img src = "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height = 27></a>
+<a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 27></a>
 <hr>
 
 
@@ -124,9 +124,6 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 <div align = "center">
 <h3><b>Visits Count 👁️</b></h3>
 <img width = 25% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
-	
-### Show some ❤️ by starring 🌟 some of my repos!
-<hr>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
