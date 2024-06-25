@@ -95,17 +95,6 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 	</table>
 
 <hr>
-<h2>✒️ Recent GitHub Activity</h2>
-	
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#764](https://github.com/dev-protocol/community/issues/764) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. 💪 Opened PR [#989](https://github.com/hackclub/dinosaurs/pull/989) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-3. 🎉 Merged PR [#27](https://github.com/SarthakSKumar/QuickSend/pull/27) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-4. 💪 Opened PR [#27](https://github.com/SarthakSKumar/QuickSend/pull/27) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-5. 🎉 Merged PR [#24](https://github.com/SarthakSKumar/QuickSend/pull/24) in [SarthakSKumar/QuickSend](https://github.com/SarthakSKumar/QuickSend)
-<!--END_SECTION:activity-->
-
-<hr>
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
 <div align = "center">
