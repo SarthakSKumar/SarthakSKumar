@@ -6,7 +6,7 @@ Please consider starring the repo if you find this useful in any manner or use i
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>. Nice to see you here 👋
 
-<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="270" alt="Sarthak S Kumar"/></a>
+<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="200" alt="Sarthak S Kumar"/></a>
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
@@ -20,15 +20,6 @@ I aspire to have professional experiences in various industries and partner with
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 [![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
 
-### Domains of Interest
-<a href = "https://sarthakskumar.com/about">
-<img src = "https://img.shields.io/badge/PROGRESSIVE%20WEB%20APPS%20(PWA)-5C6FDA?style=for-the-badge" height = 26>
-<img src = "https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-7394E2?style=for-the-badge" height = 26>
-<img src = "https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-C8AF9C?style=for-the-badge" height = 26>
-<img src = "https://img.shields.io/badge/INTERNET%20OF%20THINGS%20(IoT)-E76BFB?style=for-the-badge" height = 26>
-<img src = "https://img.shields.io/badge/BIG%20DATA%20TECHNOLOGIES-CCA4B8?style=for-the-badge" height = 26>
-<img src = "https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-7162C0?style=for-the-badge" height = 26>
-</a>
 <hr>
 
 ## Let's Connect 🚀
