@@ -92,10 +92,6 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 	<tr>
 		<td colspan = "2"><a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
-	<tr>
-		<td><a href="https://sarthakskumar.com"><img src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg"></a>			</td>
-		<td><a href="https://sarthakskumar.com"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
-	</tr>
 	</table>
 
 <hr>
