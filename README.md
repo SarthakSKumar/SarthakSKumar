@@ -1,24 +1,16 @@
 <!---
 Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.
 -->
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/bd8f52ed-3922-4c4c-b38e-3b9404254ffe" alt="Sarthak S Kumar">
 
-<img src="https://sarthakskumar.com/images/README_Banner.webp" alt="Sarthak S Kumar">
-
-# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>. Nice to see you here 👋
-
-<a href="https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/v2/saE49CB6fFw4BVps8kK6n.png?type=default&r=8je" width="200" alt="Sarthak S Kumar"/></a>
+# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>👋 ಸಾರ್ಥಕ್ सार्थक
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
 ### View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com) 
 I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise
 
-- 🔍 I love exploring and building projects👨‍💻using various technologies.
-- 🥇 I look for opportunities to use my skills to solve challenging real-world problems.
-- 🧑‍🤝‍🧑 I am always eager to collaborate with creators, developers, and tech enthusiasts.
-
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
-[![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
 
 <hr>
 
@@ -26,10 +18,9 @@ I aspire to have professional experiences in various industries and partner with
 I have had the opportunity to share space with many unique and talented professionals from the industry who helped me learn and explore so many verticals in software development. let's explore how we can collaborate and create something meaningful together!
 
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 27></a>
+<a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 27></a>
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 27></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 27></a>
-<a href = "https://discordapp.com/users/907567549410050078"><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height = 27></a>
-<a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 27></a>
 <a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 27></a>
 <hr>
 
