@@ -1,7 +1,7 @@
 <!---Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.-->
 
 ![Sarthak S Kumar](https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3)
-# Hi 👋, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>
+# Hi 👋 I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
