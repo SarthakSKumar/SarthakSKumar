@@ -2,7 +2,7 @@
 
 ![Sarthak S Kumar](https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3)
 
-# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>👋 
+# Hi 👋, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
@@ -10,6 +10,7 @@
 I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise
 
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
+<img width = 15% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
 
 <hr>
 
@@ -25,7 +26,7 @@ I have had the opportunity to share space with many unique and talented professi
 
 
 <h2>⚡ Languages, Tools and Technologies</h2></summary>
-I've worked with a variety of languages, tools, and technologies in my projects and have also taken the time to learn and explore new ones along the way.
+I've worked with various languages, tools, and technologies in my projects and have also taken the time to learn and explore new ones along the way.
 <br><br>
 <table>
 <tr>
@@ -66,10 +67,5 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 </table>
 <hr>
 <a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a>
-<hr>
-<div align = "center">
-<h3><b>Visits Count 👁️</b></h3>
-<img width = 25% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
-</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
