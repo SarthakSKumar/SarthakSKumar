@@ -1,7 +1,8 @@
 <!---Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.-->
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3" alt="Sarthak S Kumar">
 
-# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>👋 ಸಾರ್ಥಕ್ सार्थक
+![Sarthak S Kumar](https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3)
+
+# Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>👋 
 
 >**20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)**
 
@@ -66,22 +67,7 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 <hr>
 
 <h2>📊 Code/Contribution Metrics</h2></summary>
- <table>
-<td><a href="https://sarthakskumar.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakskumar&theme=nord&hide_border=true"></a></td>
-		<td><a href="https://sarthakskumar.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthakskumar&theme=nord_dark&hide_border=true"></a></td>
-	</table>
-<table>
-	<tr>
-		<td colspan = "2"><a href = "https://sarthakskumar.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://sarthakskumar.com"><img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
-		<td><a href="https://sarthakskumar.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord"></a></td>
-	</tr>
-	<tr>
-		<td colspan = "2"><a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
-	</tr>
-	</table>
+<a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a>
 
 <hr>
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
