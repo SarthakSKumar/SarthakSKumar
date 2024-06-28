@@ -65,12 +65,7 @@ I've worked with a variety of languages, tools, and technologies in my projects 
 </tr>	
 </table>
 <hr>
-
-<h2>📊 Code/Contribution Metrics</h2></summary>
 <a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a>
-
-<hr>
-<a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
 <div align = "center">
 <h3><b>Visits Count 👁️</b></h3>
