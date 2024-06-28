@@ -1,7 +1,5 @@
-<!---
-Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.
--->
-<img src="https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/bd8f52ed-3922-4c4c-b38e-3b9404254ffe" alt="Sarthak S Kumar">
+<!---Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.-->
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3" alt="Sarthak S Kumar">
 
 # Hi, I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>👋 ಸಾರ್ಥಕ್ सार्थक
 
