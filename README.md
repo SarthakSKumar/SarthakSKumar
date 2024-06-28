@@ -11,9 +11,6 @@ I aspire to have professional experiences in various industries and partner with
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 <img width = 18% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
 
-<hr>
-
-## Let's Connect 🚀
 I have had the opportunity to share space with many unique and talented professionals from the industry who helped me learn and explore so many verticals in software development. let's explore how we can collaborate and create something meaningful together!
 
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 27></a>
@@ -25,8 +22,6 @@ I have had the opportunity to share space with many unique and talented professi
 
 
 <h2>⚡ Languages, Tools and Technologies</h2></summary>
-I've worked with various languages, tools, and technologies in my projects and have also taken the time to learn and explore new ones along the way.
-<br><br>
 <table>
 <tr>
 	<td><strong>Programming Languages</strong></td>
