@@ -11,6 +11,7 @@
 	<td>
 		<a href = "https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266"><img src = "https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg"></a>
 		<a href = "https://user-badge.committers.top/india_public/SarthakSKumar"><img src = "https://user-badge.committers.top/india_public/SarthakSKumar.svg"></a>
+		<a href = "https://user-badge.committers.top/india_public/SarthakSKumar"><img src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg" height=26></a>
 	</td>
 </tr>
 </table>
