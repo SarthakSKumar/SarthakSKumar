@@ -5,17 +5,7 @@
 
 >**View my personal portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com)**
 
-<table>
-<tr>
-	<td>I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.</td>
-	<td>
-		<a href = "https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266"><img src = "https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg"></a>
-		<a href = "https://user-badge.committers.top/india_public/SarthakSKumar"><img src = "https://user-badge.committers.top/india_public/SarthakSKumar.svg"></a>
-		<a href = "https://user-badge.committers.top/india_public/SarthakSKumar"><img src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg" height=26></a>
-	</td>
-</tr>
-</table>
-#### 
+#### I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise.
 
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 [![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
