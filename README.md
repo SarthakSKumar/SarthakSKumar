@@ -19,7 +19,7 @@ I have had the opportunity to share space with many unique and talented professi
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 27></a>
 <a href = "https://twitter.com/SarthakSKumar2"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 27></a>
 <a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 27></a>
-<hr>
+<!--<hr>
 
 
 <h2>⚡ Languages, Tools and Technologies</h2></summary>
@@ -59,7 +59,7 @@ I have had the opportunity to share space with many unique and talented professi
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonwebservices,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
 	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
 </tr>	
-</table>
+</table>-->
 <hr>
 <a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a>
 
