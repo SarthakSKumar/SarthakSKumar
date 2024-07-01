@@ -9,6 +9,7 @@
 I aspire to have professional experiences in various industries and partner with clients to build innovation-driven ideas. I am passionate about contributing and making a remarkable impact on society and the organization by utilizing my expertise
 
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
+[![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
 <img width = 18% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
 
 I have had the opportunity to share space with many unique and talented professionals from the industry who helped me learn and explore so many verticals in software development. let's explore how we can collaborate and create something meaningful together!
