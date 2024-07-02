@@ -11,7 +11,7 @@
 [![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
 <img width = 18% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,react,tailwind,vite,nextjs,postgres,mysql,graphql,docker,kubernetes,jenkins,cloudflare,nginx,mongodb,supabase,firebase,prisma,sequelize,aws,azure,nodejs,express,flask,appwrite,fastapi,sentry,kafka,grafana,arduino,)](https://sarthakskumar.com/about)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,react,tailwind,vite,nextjs,postgres,mysql,graphql,docker,kubernetes,jenkins,cloudflare,nginx,mongodb,supabase,firebase,prisma,sequelize,aws,azure,nodejs,express,flask,appwrite,fastapi,sentry,kafka,grafana,arduino,raspberrypi,redux,md,git,figma&perline=18)](https://sarthakskumar.com/about)
 
 ###### I am open to connect and collaborate. Let's create something meaningful together!
 
