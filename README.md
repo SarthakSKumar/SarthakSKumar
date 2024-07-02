@@ -10,6 +10,9 @@
 [![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
 [![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
 <img width = 18% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,react,tailwind,vite,nextjs,postgres,mysql,graphql,docker,kubernetes,jenkins,cloudflare,nginx,mongodb,supabase,firebase,prisma,sequelize,aws,azure,nodejs,express,flask,appwrite,fastapi,sentry,kafka,grafana,arduino,)](https://sarthakskumar.com/about)
+
 ###### I am open to connect and collaborate. Let's create something meaningful together!
 
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 22></a>
