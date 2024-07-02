@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,react,tailwind,vite,nextjs,postgres,mysql,graphql,docker,kubernetes,jenkins,cloudflare,nginx,mongodb,supabase,firebase,prisma,sequelize,aws,azure,nodejs,express,flask,appwrite,fastapi,sentry,kafka,grafana,arduino,raspberrypi,redux,md,git,figma&perline=18)](https://sarthakskumar.com/about)
 
-###### I am open to connect and collaborate. Let's create something meaningful together!
+> I am open to connect and collaborate. Let's create something meaningful together!
 
 <a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 22></a>
 <a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 22></a>
