@@ -20,6 +20,7 @@
 <a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 22></a>
 <a href = "https://twitter.com/sarthakskumar7"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 22></a>
 <a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 22></a>
+
 <!--<hr>
 
 
