@@ -15,11 +15,11 @@
 
 > I am open to connect and collaborate. Let's create something meaningful together!
 
-<a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 22></a>
-<a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 22></a>
-<a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 22></a>
-<a href = "https://twitter.com/sarthakskumar7"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 22></a>
-<a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 22></a>
+<a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 24></a>
+<a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 24></a>
+<a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 24></a>
+<a href = "https://twitter.com/sarthakskumar7"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 24></a>
+<a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 24></a>
 
 <!--<hr>
 
@@ -64,5 +64,7 @@
 </table>-->
 <hr>
 <a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&theme=nord&count_private=true&column=-1&no-frame=true&no-bg=true"></a>
+<hr>
+<a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee | Sarthak S Kumar" height="41" width="174"></a>
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
