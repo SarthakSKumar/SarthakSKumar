@@ -63,6 +63,6 @@ I am open to connect and collaborate. Let's create something meaningful together
 <hr>
 <a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&theme=nord&count_private=true&column=-1&no-frame=true&no-bg=true"></a>
 <hr>
-<a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee | Sarthak S Kumar" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee | Sarthak S Kumar" height="36" width="174"></a>
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
