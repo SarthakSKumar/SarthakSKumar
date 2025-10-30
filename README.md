@@ -16,8 +16,13 @@ I am open to connect and collaborate. Let's create something meaningful together
 <a href = "https://twitter.com/sarthakskumar7"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 24></a>
 <a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 24></a>
 
+<!--<div>
+
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,nodejs,express,fastapi,flask,react,redux,tailwind,vite,nextjs,md,git,figma,prisma,sequelize,docker,kubernetes,jenkins,sentry,nginx,cloudflare,grafana,kafka,aws,azure,postgres,mysql,mongodb,supabase,firebase,appwrite,graphql,arduino,raspberrypi&perline=18)](https://sarthakskumar.com/about)
-<!--<hr>
+
+</div> -->
+
+<hr>
 
 
 <h2>⚡ Languages, Tools and Technologies</h2></summary>
@@ -57,7 +62,7 @@ I am open to connect and collaborate. Let's create something meaningful together
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonwebservices,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
 	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
 </tr>	
-</table>-->
+</table>
 <hr>
 <a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&theme=nord&count_private=true&column=-1&no-frame=true&no-bg=true"></a>
 <hr>
