@@ -1,31 +1,30 @@
-<!---Please consider starring the repo if you find this useful in any manner or use it. It helps me a lot.-->
+<div align="center">
 
-![Sarthak S Kumar](https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3)
-# Hi 👋 I am <a href = "https://linkedin.com/in/sarthakskumar" target="_blank" rel="noreferrer">Sarthak</a>
-### View my portfolio at 🔗[sarthakskumar.com](https://sarthakskumar.com)
+<img src="https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3" width="100%"/>
 
-[![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)](https://wakatime.com/@b17387c5-a507-422c-9357-f0ea781c2266)
-[![committers.top badge](https://user-badge.committers.top/india_public/SarthakSKumar.svg)](https://user-badge.committers.top/india_public/SarthakSKumar)
-<img width = 18% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
+# **Sarthak S Kumar**
 
-I am open to connect and collaborate. Let's create something meaningful together!!
+_Enabling enterprises to grow with scalable technology ⚙️_
 
-<a href = "https://linkedin.com/in/sarthakskumar"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 24></a>
-<a href = "mailto:sarthakskumar7@gmail.com"><img src = "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 24></a>
-<a href = "https://instagram.com/sarthakskumar"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height = 24></a>
-<a href = "https://twitter.com/sarthakskumar7"><img src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height = 24></a>
-<a href = "https://links.sarthakskumar.com"><img src = "https://img.shields.io/badge/my.links-000000%7D?style=for-the-badge&logo=links&logoColor=white" height = 24></a>
+[🌐 Portfolio](https://sarthakskumar.com) • 
+[💼 LinkedIn](https://linkedin.com/in/sarthakskumar) •
+[✉️ Email](mailto:sarthakskumar7@gmail.com) • 
+[📸 Instagram](https://instagram.com/sarthakskumar) • 
+[🧭 All Links](https://links.sarthakskumar.com)
 
-<!--<div>
+![wakatime](https://wakatime.com/badge/user/b17387c5-a507-422c-9357-f0ea781c2266.svg)
+![committers.top](https://user-badge.committers.top/india_public/SarthakSKumar.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,nodejs,express,fastapi,flask,react,redux,tailwind,vite,nextjs,md,git,figma,prisma,sequelize,docker,kubernetes,jenkins,sentry,nginx,cloudflare,grafana,kafka,aws,azure,postgres,mysql,mongodb,supabase,firebase,appwrite,graphql,arduino,raspberrypi&perline=18)](https://sarthakskumar.com/about)
+</div>
 
-</div> -->
+---
 
-<hr>
+I transform ideas into **real-world products** — taking concepts from:
+> **POC → MVP → Production → Scale**
 
+My work spans building SaaS platforms, cross-platform applications, cloud-native backends, and engineering systems that serve real users reliably, securely, and efficiently.
 
-<h2>⚡ Languages, Tools and Technologies</h2></summary>
+---
 <table>
 <tr>
 	<td><strong>Programming Languages</strong></td>
@@ -63,9 +62,26 @@ I am open to connect and collaborate. Let's create something meaningful together
 	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
 </tr>	
 </table>
-<hr>
-<a href="https://sarthakskumar.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&theme=nord&count_private=true&column=-1&no-frame=true&no-bg=true"></a>
-<hr>
-<a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee | Sarthak S Kumar" height="36" width="174"></a>
+
+
+<a href="https://sarthakskumar.com">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&theme=nord&column=-1&no-frame=true&no-bg=true"/>
+</a>
+
+---
+
+### I'm open to connect & collaborate.
+
+→ **Email:** sarthakskumar7@gmail.com
+
+---
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee | Sarthak S Kumar" height="36">
+</a>
+
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
