@@ -90,8 +90,6 @@ I partner with teams at critical stages that include POC validation, architectin
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&theme=nord&column=-1&no-frame=true&no-bg=true"/>
 </a> -->
 
----
-
 <!-- <div align="center">
 
 <a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank">
