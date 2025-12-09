@@ -4,7 +4,7 @@ I'm a Software Engineer who prototypes fast and ships reliable systems. From MVP
 
 I partner with teams at critical stages that include POC validation, architecting cloud infrastructure, and engineering systems that grow with the product. I handle the technical side to keep the product stable, scalable and progressive.
 
-## : what I’m hacking on
+### : what I’m hacking on
 - ⚙️ MVP & Prototyping
 - ⚔️ Cross Platform Development
 - 🤖 AI & Automation
@@ -12,7 +12,7 @@ I partner with teams at critical stages that include POC validation, architectin
 - 🕸️ DevOps & SRE
 - 👨‍💻 Technical Consulting
 
-## : connect  
+### : connect  
 :mega: I love hearing about what you're building or what we can do better. Tag me, send me a video, or ask a question.
 
 - 📧 [sarthakskumar7@gmail.com](mailto:sarthakskumar7@gmail.com)
