@@ -24,19 +24,18 @@ I transform ideas into **real-world products** — taking concepts from:
 
 My work spans building SaaS platforms, cross-platform applications, cloud-native backends, and engineering systems that serve real users reliably, securely, and efficiently.
 
----
-<table>
+<!-- <table>
 <tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><strong>Frontend Development</strong></td>
+	<td><strong>Cross-Platform/Web</strong></td>
 	<td><strong>Database and ORM</strong></td>
-	<td><strong>UI and Design Tools</strong></td>
+	<td><strong>UI and Design</strong></td>
 </tr>
 <tr>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=python,cplusplus,c&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=javascript,typescript,react,redux,reactquery,tailwindcss,vite,next.js,styledcomponents&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize,mongoose&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mdx,figma,canva,prezi&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=python,javascript,typescript&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=react,tailwindcss,next.js,pwa,&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,mongodb,planetscale,supabase,firebase,prisma,sequelize&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=mdx,figma,prezi&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>API and Formatting</strong></td>
@@ -47,7 +46,7 @@ My work spans building SaaS platforms, cross-platform applications, cloud-native
 <tr>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=graphql,postman,swagger,axios,eslint,prettier,zod&theme=dark"></td>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=git,docker,kubernetes,jenkins,cloudflare,cpanel,githubactions,nginx,ngrok&theme=dark"></td>
-	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq,sparkfun&theme=dark"></td>
+	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=arduino,raspberrypi,adafruit,mqtt,eclipsemosquitto,hivemq&theme=dark"></td>
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=apachekafka,apachespark,apachehadoop,apachehive&theme=dark"></td>
 	
 </tr>
@@ -61,12 +60,12 @@ My work spans building SaaS platforms, cross-platform applications, cloud-native
 	<td><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=microsoftazure,amazonwebservices,vercel,netlify,digitalocean,heroku,railway&theme=dark"></td>	
 	<td colspan=2><img height=30 src="https://simpleskill.icons.workers.dev/svg?i=node.js,express,flask,appwrite,strapi,sanity,cloudinary,payloadcms,xampp,stripe&theme=dark"></td>
 </tr>	
-</table>
+</table> -->
 
 
-<a href="https://sarthakskumar.com">
+<!-- <a href="https://sarthakskumar.com">
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&theme=nord&column=-1&no-frame=true&no-bg=true"/>
-</a>
+</a> -->
 
 ---
 
