@@ -1,4 +1,27 @@
-<div align="center">
+## hey there, I'm @sarthakskumar 👋
+
+I'm a Software Engineer who prototypes fast and ships reliable systems. From MVPs to distributed infrastructure, I build the software layer that powers SaaS products, automates workflows, and handles real-world complexity.
+
+I partner with teams at critical stages that include POC validation, architecting cloud infrastructure, and engineering systems that grow with the product. I handle the technical side to keep the product stable, scalable and progressive.
+
+## : what I’m hacking on
+- ⚙️ MVP & Prototyping
+- ⚔️ Cross Platform Development
+- 🤖 AI & Automation
+- 🛠️ System Design
+- 🕸️ DevOps & SRE
+- 👨‍💻 Technical Consulting
+
+## : connect  
+:mega: I love hearing about what you're building or what we can do better. Tag me, send me a video, or ask a question.
+
+- 📧 [sarthakskumar7@gmail.com](mailto:sarthakskumar7@gmail.com)
+- 🌐 [sarthakskumar.com][https://sarthakskumar.com]
+- 🔗 [links][https://links.sarthakskumar.com]
+- X: [@kdaigle](https://x.com/sarthakskumar7)
+- LinkedIn: [@sarthakskumar](https://www.linkedin.com/in/sarthakskumar/)
+
+<!-- <div align="center">
 
 <img src="https://github.com/SarthakSKumar/SarthakSKumar/assets/81763561/7ea45334-b3f9-49d4-b469-88eada883ef3" width="100%"/>
 
@@ -22,7 +45,7 @@
 #### I transform ideas into **real-world products**, taking concepts from
 > **POC → MVP → Production → Scale**
 
-#### My work spans building SaaS platforms, cross-platform applications, cloud-native backends, and engineering systems that serve real users reliably, securely, and efficiently.
+#### My work spans building SaaS platforms, cross-platform applications, cloud-native backends, and engineering systems that serve real users reliably, securely, and efficiently. -->
 
 <!-- <table>
 <tr>
@@ -69,12 +92,12 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee | Sarthak S Kumar" height="36">
 </a>
 
-</div>
+</div> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=81763561)
