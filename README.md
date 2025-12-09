@@ -69,9 +69,9 @@
 
 ---
 
-### I'm open to connect & collaborate.
+#### I'm open to connect & collaborate.
 
-→ **Email:** sarthakskumar7@gmail.com
+**Email:** sarthakskumar7@gmail.com
 
 ---
 
