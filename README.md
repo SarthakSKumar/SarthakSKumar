@@ -4,7 +4,7 @@
 
 # **Sarthak S Kumar**
 
-_Enabling enterprises to grow with scalable technology ⚙️_
+#### _Enabling enterprises to grow with scalable technology ⚙️_
 
 [🌐 Portfolio](https://sarthakskumar.com) • 
 [💼 LinkedIn](https://linkedin.com/in/sarthakskumar) •
@@ -19,7 +19,7 @@ _Enabling enterprises to grow with scalable technology ⚙️_
 
 ---
 
-I transform ideas into **real-world products** — taking concepts from:
+### I transform ideas into **real-world products** — taking concepts from
 > **POC → MVP → Production → Scale**
 
 My work spans building SaaS platforms, cross-platform applications, cloud-native backends, and engineering systems that serve real users reliably, securely, and efficiently.
