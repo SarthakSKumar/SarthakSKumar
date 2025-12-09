@@ -16,8 +16,8 @@ I partner with teams at critical stages that include POC validation, architectin
 :mega: I love hearing about what you're building or what we can do better. Tag me, send me a video, or ask a question.
 
 - 📧 [sarthakskumar7@gmail.com](mailto:sarthakskumar7@gmail.com)
-- 🌐 [sarthakskumar.com][https://sarthakskumar.com]
-- 🔗 [links][https://links.sarthakskumar.com]
+- 🌐 [sarthakskumar.com](https://sarthakskumar.com)
+- 🔗 [links](https://links.sarthakskumar.com)
 - X: [@kdaigle](https://x.com/sarthakskumar7)
 - LinkedIn: [@sarthakskumar](https://www.linkedin.com/in/sarthakskumar/)
 
