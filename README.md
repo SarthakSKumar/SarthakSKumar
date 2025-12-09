@@ -19,10 +19,10 @@
 
 ---
 
-### I transform ideas into **real-world products** — taking concepts from
-> **POC → MVP → Production → Scale**
+### I transform ideas into **real-world products**, taking concepts from
+### > **POC → MVP → Production → Scale**
 
-My work spans building SaaS platforms, cross-platform applications, cloud-native backends, and engineering systems that serve real users reliably, securely, and efficiently.
+### My work spans building SaaS platforms, cross-platform applications, cloud-native backends, and engineering systems that serve real users reliably, securely, and efficiently.
 
 <!-- <table>
 <tr>
