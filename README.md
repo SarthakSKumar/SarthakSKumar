@@ -69,12 +69,6 @@
 
 ---
 
-#### I'm open to connect & collaborate.
-
-**Email:** sarthakskumar7@gmail.com
-
----
-
 <div align="center">
 
 <a href="https://www.buymeacoffee.com/sarthakskumar7" target="_blank">
