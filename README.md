@@ -18,7 +18,7 @@ I partner with teams at critical stages that include POC validation, architectin
 - 📧 [sarthakskumar7@gmail.com](mailto:sarthakskumar7@gmail.com)
 - 🌐 [sarthakskumar.com](https://sarthakskumar.com)
 - 🔗 [links](https://links.sarthakskumar.com)
-- X: [@kdaigle](https://x.com/sarthakskumar7)
+- X: [@sarthakskumar7](https://x.com/sarthakskumar7)
 - LinkedIn: [@sarthakskumar](https://www.linkedin.com/in/sarthakskumar/)
 
 <!-- <div align="center">
